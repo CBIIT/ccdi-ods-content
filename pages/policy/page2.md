@@ -1,6 +1,6 @@
 # Main Heading
 
-## Section 1
+## Section 2 Page 2
 
 This is a paragraph with **bold text** and *italic text*. You can also use ***bold and italic*** together.
 
