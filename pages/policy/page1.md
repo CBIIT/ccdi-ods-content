@@ -1,11 +1,14 @@
 # Main Heading
 
-## Section 1
 
+## Section 1
+<section id="intro">
 This is a paragraph with **bold text** and *italic text*. You can also use ***bold and italic*** together.
+</section>
+
 
 ### Lists
-
+<section id="Lists">
 - Unordered list item 1
 - Unordered list item 2
   - Nested item
@@ -15,6 +18,8 @@ This is a paragraph with **bold text** and *italic text*. You can also use ***bo
 2. Ordered list item 2
    1. Nested ordered item
    2. Another nested item
+</section>
+
 
 ### Code Examples
 
