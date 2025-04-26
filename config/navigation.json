@@ -1,0 +1,20 @@
+{
+  "mainNav": [
+    {
+      "title": "Home",
+      "path": "/"
+    },
+    {
+      "title": "Policy",
+      "path": "/policy"
+    },
+    {
+      "title": "Programs",
+      "path": "/programs"
+    },
+    {
+      "title": "Process",
+      "path": "/process"
+    }
+  ]
+}
