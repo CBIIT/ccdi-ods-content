@@ -43,7 +43,7 @@
     "Policy": [
       {
         "name": "page1",
-        "link": "/policy/page1",
+        "link": "/post/policy/page1",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
@@ -51,7 +51,7 @@
       },
       {
         "name": "page2",
-        "link": "/policy/page2",
+        "link": "/post/policy/page2",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
@@ -62,7 +62,7 @@
     "Programs": [
       {
         "name": "program1",
-        "link": "/program/program1",
+        "link": "/post/program/program1",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
@@ -70,7 +70,7 @@
       },
       {
         "name": "program2",
-        "link": "/program/program2",
+        "link": "/post/program/program2",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
