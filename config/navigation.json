@@ -22,7 +22,7 @@
     {
       "name": "Process",
       "link": "/collection/program",
-      "id": "navbar-link-datasets"
+      "id": "navbar-link-datasets",
       "className": "navMobileItem"
     },
     {
