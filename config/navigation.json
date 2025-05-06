@@ -22,8 +22,8 @@
     {
       "name": "Process",
       "link": "/collection/program",
-      "id": "navbar-dropdown-cbio-documents",
-      "className": "navMobileItem "
+      "id": "navbar-link-datasets"
+      "className": "navMobileItem"
     },
     {
       "name": "Programs",
