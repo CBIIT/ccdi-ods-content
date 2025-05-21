@@ -1,38 +1,5 @@
 # Data Sharing Policy Guidance
 
-## Data Sharing Policy Guidance
-
-- How Does NCI Approach Data Sharing, Management, and Access?
-- What is NCI’s Overall Data Sharing Process?
-- What Are Some General Data Sharing Guidelines?
-- Which Policies Apply to NCI-Funded Research?
-- How Do They Compare?
-- What Are Some Frequently Asked Questions?
-- What Resources are Available?
-- Need More Help?
-- Read More About NCI Data Sharing Policies
-
-[How Does NCI Approach Data Sharing, Management, and Access?](#toc-how-does-nci-approach-data-sharing-management-and-access-)
-[What is NCI’s Overall Data Sharing Process?](#datasharingprocess)
-[What Are Some General Data Sharing Guidelines?](#toc-what-are-some-general-data-sharing-guidelines-)
-[Which Policies Apply to NCI-Funded Research?](#toc-which-policies-apply-to-nci-funded-research-)
-[How Do They Compare?](#toc-how-do-they-compare-)
-[What Are Some Frequently Asked Questions?](#toc-what-are-some-frequently-asked-questions-)
-[What Resources are Available?](#toc-what-resources-are-available-)
-[Need More Help?](#toc-need-more-help-)
-[Read More About NCI Data Sharing Policies](#toc-read-more-about-nci-data-sharing-policies)
-- Twitter
-- LinkedIn
-- Reddit
-- Print page
-- Email
-
-[Twitter](#)
-[LinkedIn](#)
-[Reddit](#)
-[Print page](#)
-[Email](#)
-Looking for information on sharing NCI-funded cancer research data? This page details the people, policies, requirements, and resources you need to start sharing your data.
 
 ## How Does NCI Approach Data Sharing, Management, and Access?
 
@@ -51,6 +18,14 @@ NCI’s data sharing approach starts and ends with the patient in mind. So what 
 
 [Dr. Jaime Guidry Auvil](https://datascience.cancer.gov/content/jaime-m-guidry-auvil-phd)
 
+<iframe 
+  width="640" 
+  height="360" 
+  src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a" 
+  frameborder="0" 
+  allowfullscreen
+  title="NCI Data Sharing Lifecycle">
+</iframe>
 
 As mentioned in the video, ODS supports data sharing in three main ways. They:
 
