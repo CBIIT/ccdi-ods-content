@@ -43,15 +43,15 @@
     "Policy": [
       {
         "name": "NIH Scientific Data Sharing Guidance",
-        "link": "/post/policy/page1",
+        "link": "/post/policy/Data_Sharing_Policy_Guidance",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Tips for Writing a DMS Plan",
-        "link": "/post/policy/page2",
+        "name": "Accessing Research Data",
+        "link": "/post/policy/Accessing_Research_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
@@ -66,15 +66,23 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "Cancer Moonshot (PADS) Guidance",
-        "link": "/post/policy/page2",
+        "name": "Submitting Research Data",
+        "link": "/post/policy/Submitting_Research_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Data Sharing Basics",
+        "name": "Example Policy 2",
+        "link": "/post/policy/page1",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Example Policy 2",
         "link": "/post/policy/page2",
         "external": true,
         "text": "",
@@ -84,50 +92,52 @@
     ],
     "Process":[
       {
-        "name": "Database of Genotypes and Phenotypes",
-        "link": "/post/program/program1",
+        "name": "Sharing Data: The Basics",
+        "link": "/post/process/share_data_basics",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Childhood Cancer Data Initiative",
-        "link": "/post/program/program1",
+        "name": "Example Process 1",
+        "link": "/post/policy/page2",
         "external": true,
         "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Cancer Research Data Commons",
-        "link": "/post/program/program1",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
+
+
     ],
     
     "Programs": [
       {
-        "name": "Submitting Research Data",
-        "link": "/post/program/program1",
+        "name": "Accessing Genomic Data",
+        "link": "/post/program/Accessing_Genomic_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Submitting Non-NIH Funded Study to dbGaP",
-        "link": "/post/program/program2",
+        "name": "Genomic Data Sharing (GDS) Policy Contact Information",
+        "link": "/post/program/GDS_Policy_Contact_Information",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Accessing Scientific Data for Re-Use",
+        "name": "Example Program 1",
+        "link": "/post/program/program1",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Example Program 2",
         "link": "/post/program/program2",
         "external": true,
         "text": "",
