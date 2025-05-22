@@ -58,14 +58,6 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NCI Requirements for GDS Policy",
-        "link": "/post/policy/page2",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "Submitting Research Data",
         "link": "/post/policy/Submitting_Research_Data",
         "external": true,
