@@ -23,7 +23,7 @@
       "name": "Process",
       "link": "/collection/program",
       "id": "navbar-link-process",
-      "className": "navMobileItem"
+      "className": "navMobileItem clickable"
     },
     {
       "name": "Programs",
