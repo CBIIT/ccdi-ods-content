@@ -1,6 +1,6 @@
 ---
 title: Data Sharing Policy Guidance
-author: ABC
+author: data sharing dev team
 date: 2025-05-21
 ---
 
