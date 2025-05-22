@@ -42,7 +42,7 @@
     
     "Policy": [
       {
-        "name": "page1",
+        "name": "NIH Scientific Data Sharing Guidance",
         "link": "/post/policy/page1",
         "external": true,
         "text": "",
@@ -50,7 +50,31 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "page2",
+        "name": "Tips for Writing a DMS Plan",
+        "link": "/post/policy/page2",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "NCI Requirements for GDS Policy",
+        "link": "/post/policy/page2",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Cancer Moonshot (PADS) Guidance",
+        "link": "/post/policy/page2",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Data Sharing Basics",
         "link": "/post/policy/page2",
         "external": true,
         "text": "",
@@ -58,10 +82,9 @@
         "className": "navMobileSubItem"
       }
     ],
-    
-    "Programs": [
+    "Process":[
       {
-        "name": "program1",
+        "name": "Database of Genotypes and Phenotypes",
         "link": "/post/program/program1",
         "external": true,
         "text": "",
@@ -69,7 +92,42 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "program2",
+        "name": "Childhood Cancer Data Initiative",
+        "link": "/post/program/program1",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-1",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Cancer Research Data Commons",
+        "link": "/post/program/program1",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-1",
+        "className": "navMobileSubItem"
+      }
+    ],
+    
+    "Programs": [
+      {
+        "name": "Submitting Research Data",
+        "link": "/post/program/program1",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-1",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Submitting Non-NIH Funded Study to dbGaP",
+        "link": "/post/program/program2",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "Accessing Scientific Data for Re-Use",
         "link": "/post/program/program2",
         "external": true,
         "text": "",
