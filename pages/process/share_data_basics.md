@@ -1,5 +1,5 @@
 ---
-title: Sharing Data: The Basics
+title: Sharing Data The Basics
 author: data sharing dev team
 date: 2025-05-21
 ---
