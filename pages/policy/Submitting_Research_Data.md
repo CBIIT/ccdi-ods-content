@@ -29,50 +29,6 @@ The CRDC provides repositories to store diverse data types. Currently, data subm
 | **Other** – Flow cytometry, videos, etc.        | Figshare (up to 20 GB)                                              | [https://nih.figshare.com/](https://nih.figshare.com/)                                                                                              |
 
 
-**Data Domains** **Imaging** -  
-Radiology**Target Repository\***
-
-- Imaging Data Commons
-- The Cancer Imaging Archive
-
-**Submit**
-
-- [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit)
-- (link is external)[https://www.cancerimagingarchive.net/primary-data/](https://www.cancerimagingarchive.net/primary-data/ "(opens in a new window)")
-
-**Data Domains** **Imaging** -  
-Digital Pathology**Target Repository\***
-
-- Imaging Data Commons
-- The Cancer Imaging Archive
-
-**Submit**
-
-- [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit)
-- (link is external)[https://www.cancerimagingarchive.net/primary-data/](https://www.cancerimagingarchive.net/primary-data/ "(opens in a new window)")
-
-**Data Domains** **Imaging** -  
-Other (e.g., Cellular Imaging)**Target Repository\***
-
-- Imaging Data Commons
-- The Cancer Imaging Archive
-
-**Submit** [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit)
-
-**Data Domains** **Clinical** -  
-Demographics, phenotypes**Target Repository\***
-
-- NCBI dbGaP
-- CRDC as appropriate
-
-**Submit**
-
-- [https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/](https://www.ncbi.nlm.nih.gov/gap/docs/submissionguide/)
-- [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit)
-
-**Data Domains** **Other** -  
-Flow cytometry, videos, etc.**Target Repository\*** Figshare (up to 20 GB)**Submit** (link is external)[https://nih.figshare.com/](https://nih.figshare.com/ "(opens in a new window)")
-
 \*CRDC is under active development and target repositories may change as new components become available.  
  
 
@@ -98,5 +54,3 @@ For an overview of resources and instructions to request to submit genomic data 
 - [Key Documents for Genomic Data Sharing](/data-sharing/genomic-data-sharing/key-documents)
 
 
-
-Leave this field blank
