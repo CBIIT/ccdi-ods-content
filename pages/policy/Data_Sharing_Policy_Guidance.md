@@ -1,3 +1,14 @@
+---
+title: "Data Sharing Policy Guidance"
+author: "Jane Doe"
+date: 2025-05-21
+tags: [markdown, metadata, tutorial]
+category: "Documentation"
+draft: false
+visibility: public
+---
+
+
 # Data Sharing Policy Guidance
 
 
