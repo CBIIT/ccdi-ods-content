@@ -76,23 +76,13 @@
     ],
     "Process":[
       {
-        "name": "Sharing Data: The Basics",
-        "link": "/post/process/share_data_basics",
+        "name": "MOCK Sharing Data: The Basics",
+        "link": "/post/process/MOCK_share_data_basics",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
-      },
-      {
-        "name": "Example Process 1",
-        "link": "/post/policy/page2",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
       }
-
-
     ],
     
     "Programs": [

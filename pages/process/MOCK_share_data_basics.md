@@ -1,11 +1,13 @@
 ---
-title: Sharing Data The Basics
+title: MOCK Sharing Data The Basics
 author: data sharing dev team
 date: 2025-05-21
 ---
 
 
-# Sharing Data: The Basics
+# MOCK Sharing Data: The Basics
+
+This is a **MOCK** example of content for development purposes.
 
 ## What is Data Sharing?
 
