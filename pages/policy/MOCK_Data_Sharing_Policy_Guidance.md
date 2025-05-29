@@ -1,12 +1,13 @@
 ---
-title: Data Sharing Policy Guidance
+title: MOCK Data Sharing Policy Guidance
 author: data sharing dev team
 date: 2025-05-21
 ---
 
 
-# Data Sharing Policy Guidance
+# MOCK Data Sharing Policy Guidance
 
+This is a **MOCK** example of content for development purposes.
 
 ## How Does NCI Approach Data Sharing, Management, and Access?
 

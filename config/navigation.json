@@ -36,52 +36,38 @@
       "link": "/about",
       "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem"
-    },
-    {
-      "name": "New Section Test",
-      "link": "/collection/new_section",
-      "id": "navbar-dropdown-cbio-documents",
-      "className": "navMobileItem"
     }
   ],
   "navbarSublists": {
     
     "Policy": [
       {
-        "name": "NIH Scientific Data Sharing Guidance",
-        "link": "/post/policy/Data_Sharing_Policy_Guidance",
+        "name": "MOCK Data Sharing Guidance",
+        "link": "/post/policy/MOCK_Data_Sharing_Policy_Guidance",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Accessing Research Data - ZD_test",
-        "link": "/post/policy/Accessing_Research_Data",
+        "name": "MOCK Accessing Research Data",
+        "link": "/post/policy/MOCK_Accessing_Research_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Submitting Research Data",
-        "link": "/post/policy/Submitting_Research_Data",
+        "name": "MOCK Submitting Research Data",
+        "link": "/post/policy/MOCK_Submitting_Research_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Example Policy 2",
-        "link": "/post/policy/page1",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Example Policy 2",
-        "link": "/post/policy/page2",
+        "name": "MOCK Format Example",
+        "link": "/post/policy/MOCK_Format_Example",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
@@ -140,17 +126,6 @@
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
-      }
-    ],
-    
-    "New Section Test": [
-      {
-        "name": "New Page Test",
-        "link": "/post/new_section/new_page_test",
-        "external": true,
-        "text": "text_field_test",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       }
     ]

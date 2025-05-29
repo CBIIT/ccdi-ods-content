@@ -1,4 +1,10 @@
-# Main Heading - ZD_test
+---
+title: MOCK Format Example
+author: data sharing dev team
+date: 2025-04-25
+---
+
+# Main Heading
 
 
 ## Section 1

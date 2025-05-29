@@ -1,10 +1,12 @@
 ---
-title: Submitting Research Data
+title: MOCK Submitting Research Data
 author: data sharing dev team
 date: 2025-05-21
 ---
 
-# Submitting Research Data
+# MOCK Submitting Research Data
+
+This is a **MOCK** example of content for development purposes.
 
 ![Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up.](https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png)
 

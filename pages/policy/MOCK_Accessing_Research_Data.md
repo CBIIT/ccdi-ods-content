@@ -1,12 +1,12 @@
 ---
-title: Accessing Research Data 
+title: MOCK Accessing Research Data 
 author: data sharing dev team
 date: 2025-05-21
 ---
 
-# Accessing Research Data - ZD_test
+# MOCK Accessing Research Data
 
-ZD_test
+This is a **MOCK** example of content for development purposes.
 
 ![Image of a lock in the middle with clouds around it](https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png)
 
