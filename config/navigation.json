@@ -36,6 +36,12 @@
       "link": "/about",
       "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem"
+    },
+    {
+      "name": "New Section Test",
+      "link": "/collection/new_section",
+      "id": "navbar-dropdown-cbio-documents",
+      "className": "navMobileItem"
     }
   ],
   "navbarSublists": {
@@ -50,7 +56,7 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "Accessing Research Data",
+        "name": "Accessing Research Data - ZD_test",
         "link": "/post/policy/Accessing_Research_Data",
         "external": true,
         "text": "",
@@ -136,6 +142,19 @@
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
+    ],
+    
+    "New Section Test": [
+      {
+        "name": "New Page Test",
+        "link": "/post/new_section/new_page_test",
+        "external": true,
+        "text": "text_field_test",
+        "id": "navbar-dropdown-item-navbar-subitem-1",
+        "className": "navMobileSubItem"
+      }
     ]
+
+
   }
 }

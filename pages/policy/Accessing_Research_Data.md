@@ -4,7 +4,9 @@ author: data sharing dev team
 date: 2025-05-21
 ---
 
-# Accessing Research Data 
+# Accessing Research Data - ZD_test
+
+ZD_test
 
 ![Image of a lock in the middle with clouds around it](https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png)
 
@@ -12,7 +14,7 @@ When investigators submit their data to repositories, they allow others to build
 
 View the list of repositories and available data sets in the [NCI Data Catalog](/resources/nci-data-catalog).
 
-## Open-Access Data
+## Open-Access Data - ZD_test
 
 Investigators can use open-access data for secondary research without prior permission or authorization. These data sets are identified as “open” in the [NIH-supported Scientific Data Repositories](https://sharing.nih.gov/accessing-data/accessing-scientific-data) listing.
 
@@ -20,8 +22,6 @@ Investigators can use open-access data for secondary research without prior perm
 
 In addition to open-access data sets, NCI facilitates requests to controlled-access data for NCI intramural staff scientists and extramural investigators. To use controlled data, you must obtain prior authorization through a Data Access Committee. NCI’s data access processes ensure that requests comply with NIH’s data sharing policies, and the data are used in ways that adhere to the consent given by research participants in their original studies.
 
-### [Accessing Genomic Data](/data-sharing/accessing-data/genomic-data)
+### [Accessing Genomic Data](/data-sharing/accessing-data/genomic-data) - ZD_test
 
 NIH requires anyone interested in using controlled-access genomic data to meet minimum qualifications.
-
-
