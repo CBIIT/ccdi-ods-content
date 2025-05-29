@@ -41,5 +41,8 @@ Now that you know more about ODS and the data sharing lifecycle, here are some g
 
 - Adopt common data elements and data file formats, such as those from NCI’s flagship studies (e.g., PADS, The Cancer Imaging Archive, The Childhood Cancer Data Initiative, NCI-MATCH, and NCI’s Surveillance, Epidemiology, and End Results Program).
 
+&nbsp;  
+
 ---
-Page Last Updated: 2025-05-29
+
+**Updated:** May 29, 2025
