@@ -32,10 +32,10 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "About ODS",
+      "name": "About",
       "link": "/collection/about/",
       "id": "navbar-dropdown-cbio-documents",
-      "className": "navMobileItem"
+      "className": "navMobileItem clickable"
     }
   ],
   "navbarSublists": {
