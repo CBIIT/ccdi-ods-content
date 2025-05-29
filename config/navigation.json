@@ -64,14 +64,6 @@
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Format Example",
-        "link": "/post/policy/MOCK_Format_Example",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
       }
     ],
     "Process":[
@@ -82,44 +74,34 @@
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
+      },
+      {
+        "name": "MOCK Format Example",
+        "link": "/post/process/MOCK_Format_Example",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
       }
     ],
     
     "Programs": [
       {
-        "name": "Accessing Genomic Data",
-        "link": "/post/program/Accessing_Genomic_Data",
+        "name": "MOCK Accessing Genomic Data",
+        "link": "/post/program/MOCK_Accessing_Genomic_Data",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Genomic Data Sharing (GDS) Policy Contact Information",
-        "link": "/post/program/GDS_Policy_Contact_Information",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Example Program 1",
-        "link": "/post/program/program1",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Example Program 2",
-        "link": "/post/program/program2",
+        "name": "MOCK Genomic Data Sharing (GDS) Policy Contact Information",
+        "link": "/post/program/MOCK_GDS_Policy_Contact_Information",
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
     ]
-
-
   }
 }

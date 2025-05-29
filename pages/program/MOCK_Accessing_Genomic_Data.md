@@ -1,11 +1,13 @@
 ---
-title: Accessing Genomic Data
+title: MOCK Accessing Genomic Data
 author: data sharing dev team
 date: 2025-05-21
 ---
 
 
-# Accessing Genomic Data
+# MOCK Accessing Genomic Data
+
+This is a **MOCK** example of content for development purposes.
 
 **Note:** On January 25, 2025, NIH will implement new security requirements for data repositories/systems managing controlled-access human genomic data and researchers working with these data. For further details, [check out our news article](https://datascience.cancer.gov/news-events/news/updates-nih-genomic-data-sharing-policy) and/or [read the notice](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-24-157.html) (NOT-OD-24-157) “Implementation Update for Data Management and Access Practices Under the Genomic Data Sharing Policy.”
 

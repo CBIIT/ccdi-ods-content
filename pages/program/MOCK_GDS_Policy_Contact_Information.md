@@ -1,11 +1,13 @@
 ---
-title: Genomic Data Sharing (GDS) Policy Contact Information
+title: MOCK Genomic Data Sharing (GDS) Policy Contact Information
 author: data sharing dev team
 date: 2025-05-21
 ---
 
 
-# Genomic Data Sharing (GDS) Policy Contact Information
+# MOCK Genomic Data Sharing (GDS) Policy Contact Information
+
+This is a **MOCK** example of content for development purposes.
 
 ![Contact - Decorative Image](https://datascience.cancer.gov/sites/default/files/inline-images/contactpicture_0.png)
 
