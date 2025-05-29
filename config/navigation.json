@@ -33,7 +33,7 @@
     },
     {
       "name": "About ODS",
-      "link": "/collection/About_ODS",
+      "link": "/collection/about/",
       "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem"
     }
@@ -100,6 +100,16 @@
         "external": true,
         "text": "",
         "id": "navbar-dropdown-item-navbar-subitem-2",
+        "className": "navMobileSubItem"
+      }
+    ],
+    "About": [
+      {
+        "name": "About the Office of Data Sharing (ODS)",
+        "link": "/post/about/About_ODS",
+        "external": true,
+        "text": "",
+        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       }
     ]
