@@ -32,8 +32,8 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "About",
-      "link": "/about",
+      "name": "About ODS",
+      "link": "/collection/About_ODS",
       "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem"
     }
