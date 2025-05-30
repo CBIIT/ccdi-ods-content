@@ -35,6 +35,11 @@
     
     "Policy": [
       {
+        "name": "How to Write a DMS Plan",
+        "link": "/post/policy/How_to_Write_a_DMS_Plan",
+        "className": "navMobileSubItem"
+      },
+      {
         "name": "MOCK Data Sharing Guidance",
         "link": "/post/policy/MOCK_Data_Sharing_Policy_Guidance",
         "className": "navMobileSubItem"
