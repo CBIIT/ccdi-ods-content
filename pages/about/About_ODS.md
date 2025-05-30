@@ -4,7 +4,6 @@ author: Data Sharing Hub Dev Team
 date: 2025-05-29
 ---
 
-
 # About the NCI Office of Data Sharing (ODS)
 
 ## ODS Mission
@@ -45,4 +44,4 @@ Now that you know more about ODS and the data sharing lifecycle, here are some g
 
 ---
 
-**Updated:** May 29, 2025
+**Updated:** May 30, 2025

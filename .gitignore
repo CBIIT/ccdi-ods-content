@@ -60,3 +60,6 @@ coverage/
 # Temporary files
 tmp/
 temp/
+
+# IDE Extension Configuration files
+.markdownlint.json
