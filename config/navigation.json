@@ -3,38 +3,31 @@
     {
       "name": "Data Sharing Hub",
       "link": "https://ccdi.cancer.gov/home",
-      "external": true,
-      "id": "navbar-link-back-to-ccdi-hub",
       "className": "navMobileItem"
     },
     {
       "name": "Index of NCI Studies",
       "link": "https://studycatalog.cancer.gov/",
-      "id": "navbar-link-datasets",
       "className": "navMobileItem"
     },
     {
       "name": "Policy",
       "link": "/collection/program",
-      "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem clickable"
     },
     {
       "name": "Process",
       "link": "/collection/program",
-      "id": "navbar-link-process",
       "className": "navMobileItem clickable"
     },
     {
       "name": "Programs",
       "link": "/collection/program",
-      "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem clickable"
     },
     {
       "name": "About",
       "link": "/collection/about/",
-      "id": "navbar-dropdown-cbio-documents",
       "className": "navMobileItem clickable"
     }
   ],
@@ -44,25 +37,16 @@
       {
         "name": "MOCK Data Sharing Guidance",
         "link": "/post/policy/MOCK_Data_Sharing_Policy_Guidance",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
         "name": "MOCK Accessing Research Data",
         "link": "/post/policy/MOCK_Accessing_Research_Data",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       },
       {
         "name": "MOCK Submitting Research Data",
         "link": "/post/policy/MOCK_Submitting_Research_Data",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
     ],
@@ -70,17 +54,11 @@
       {
         "name": "MOCK Sharing Data: The Basics",
         "link": "/post/process/MOCK_share_data_basics",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
         "name": "MOCK Format Example",
         "link": "/post/process/MOCK_Format_Example",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
     ],
@@ -89,17 +67,11 @@
       {
         "name": "MOCK Accessing Genomic Data",
         "link": "/post/program/MOCK_Accessing_Genomic_Data",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       },
       {
         "name": "MOCK Genomic Data Sharing (GDS) Policy Contact Information",
         "link": "/post/program/MOCK_GDS_Policy_Contact_Information",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-2",
         "className": "navMobileSubItem"
       }
     ],
@@ -107,9 +79,6 @@
       {
         "name": "About the Office of Data Sharing (ODS)",
         "link": "/post/about/About_ODS",
-        "external": true,
-        "text": "",
-        "id": "navbar-dropdown-item-navbar-subitem-1",
         "className": "navMobileSubItem"
       }
     ]
