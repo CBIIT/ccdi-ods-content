@@ -2,7 +2,7 @@
   "navList": [
     {
       "name": "Data Sharing Hub",
-      "link": "https://ccdi.cancer.gov/home",
+      "link": "https://ccdi-ods-ui.vercel.app/",
       "className": "navMobileItem"
     },
     {
@@ -40,17 +40,17 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "MOCK Accessing Research Data",
-        "link": "/post/policy/MOCK_Accessing_Research_Data",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "MOCK Submitting Research Data",
         "link": "/post/policy/MOCK_Submitting_Research_Data",
         "className": "navMobileSubItem"
       }
     ],
     "Process":[
+      {
+        "name": "Accessing Research Data",
+        "link": "/post/process/Accessing_Research_Data",
+        "className": "navMobileSubItem"
+      },
       {
         "name": "MOCK Sharing Data: The Basics",
         "link": "/post/process/MOCK_share_data_basics",

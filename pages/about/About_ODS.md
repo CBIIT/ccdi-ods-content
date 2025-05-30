@@ -1,6 +1,6 @@
 ---
 title: About the NCI Office of Data Sharing (ODS)
-author: Data Sharing Hub Dev Team
+author: ODS; Transcribed ZD
 date: 2025-05-29
 ---
 
