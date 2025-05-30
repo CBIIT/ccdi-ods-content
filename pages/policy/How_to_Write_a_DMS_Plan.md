@@ -182,3 +182,9 @@ Now that you have a sense of what your plan should contain, use the following re
 - [Data Sharing in the Context of Community-Engaged Research Partnerships](https://pubmed.ncbi.nlm.nih.gov/37062144/). *Social Science & Medicine*, 2023. | See recommendations you can use to better engage a broader community participation in data sharing.
 - [Ten Simple Rules for Maximizing the Recommendations of the NIH Data Management and Sharing Plan](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9348704/). *PLoS Computational Biology*, 2022. | Get additional tips on the core elements of a DMS Plan.
 - [Implementing the FAIR Data Principles in Precision Oncology: Review of Supporting Initiatives](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7299292/). *Briefings in Bioinformatics*, 2020. | See this systematic review of initiatives that follow FAIR data principles, as well as best practices for supporting data interoperability and reusability.
+
+&nbsp;  
+
+---
+
+**Updated:** May 30, 2025
