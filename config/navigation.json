@@ -40,11 +40,6 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "MOCK Data Sharing Guidance",
-        "link": "/post/policy/MOCK_Data_Sharing_Policy_Guidance",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "MOCK Submitting Research Data",
         "link": "/post/policy/MOCK_Submitting_Research_Data",
         "className": "navMobileSubItem"
@@ -81,6 +76,11 @@
       }
     ],
     "About": [
+      {
+        "name": "About the NCI Data Sharing Hub",
+        "link": "/post/about/About_NCI_Data_Sharing_Hub",
+        "className": "navMobileSubItem"
+      },
       {
         "name": "About the Office of Data Sharing (ODS)",
         "link": "/post/about/About_ODS",
