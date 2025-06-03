@@ -45,6 +45,11 @@
         "className": "navMobileSubItem"
       },
       {
+        "name": "NCI Public Access and Data Sharing (PADS) Policy",
+        "link": "/post/policy/NCI_Cancer_Moonshot_PADS",
+        "className": "navMobileSubItem"
+      },
+      {
         "name": "MOCK Submitting Research Data",
         "link": "/post/policy/MOCK_Submitting_Research_Data",
         "className": "navMobileSubItem"
