@@ -21,7 +21,7 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Programs",
+      "name": "Program",
       "link": "/collection/program",
       "className": "navMobileItem clickable"
     },
@@ -50,6 +50,11 @@
         "className": "navMobileSubItem"
       },
       {
+        "name": "NCI Expectations for Genomic Data Sharing",
+        "link": "/post/policy/NCI_Genomic_Data_Expectations_GDS",
+        "className": "navMobileSubItem"
+      },
+      {
         "name": "MOCK Submitting Research Data",
         "link": "/post/policy/MOCK_Submitting_Research_Data",
         "className": "navMobileSubItem"
@@ -68,7 +73,7 @@
       }
     ],
     
-    "Programs": [
+    "Program": [
       {
         "name": "MOCK Accessing Genomic Data",
         "link": "/post/program/MOCK_Accessing_Genomic_Data",
