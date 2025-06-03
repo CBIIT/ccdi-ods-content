@@ -86,6 +86,12 @@ Videos can be embedded using `iframe`.
   title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
 </iframe>
 
+### Gifs
+
+Existing gifs can be embedded as images with links:
+
+![Spinning protein structure gif](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif/651px-EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif?20180411005001)
+
 ## Section 3: Special characters
 
 ### Symbols (with HTML Entities)
