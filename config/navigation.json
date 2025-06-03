@@ -29,6 +29,11 @@
       "name": "About",
       "link": "/collection/about/",
       "className": "navMobileItem clickable"
+    },
+      {
+      "name": "Examples",
+      "link": "/collection/examples/",
+      "className": "navMobileItem clickable"
     }
   ],
   "navbarSublists": {
@@ -55,11 +60,6 @@
         "name": "MOCK Sharing Data: The Basics",
         "link": "/post/process/MOCK_share_data_basics",
         "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Format Example",
-        "link": "/post/process/MOCK_Format_Example",
-        "className": "navMobileSubItem"
       }
     ],
     
@@ -84,6 +84,13 @@
       {
         "name": "About the Office of Data Sharing (ODS)",
         "link": "/post/about/About_ODS",
+        "className": "navMobileSubItem"
+      }
+    ],
+    "Examples": [
+      {
+        "name": "MOCK Formatting Examples",
+        "link": "/post/examples/MOCK_Formatting_Examples",
         "className": "navMobileSubItem"
       }
     ]

@@ -54,7 +54,7 @@ def hello_world():
 ### Links
 
 [Example External Link: GitHub](https://github.com) &#8599;  
-[Example Internal Link: This Page](/post/process/MOCK_Format_Example) &#128279;
+[Example Internal Link: This Page](/post/examples/MOCK_Format_Example) &#128279;
 
 ### Just a line
 
