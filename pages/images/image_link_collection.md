@@ -10,9 +10,15 @@ This is a collection of external images used throughout the NCI Data Sharing Hub
 
 ### Stock Images
 
+Full size:  
 ![Stylized image of double-helix DNA structures overlayed on a circuit board pattern](https://datascience.cancer.gov/sites/default/files/inline-images/genomicdatasharing_square_2.jpg)
+Smaller html:  
+<img src="https://datascience.cancer.gov/sites/default/files/inline-images/genomicdatasharing_square_2.jpg" alt="Stylized image of double-helix DNA structures overlayed on a circuit board pattern" width="400"/>
 
+Full size:  
 ![Image of a lock in the middle with clouds around it](https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png)
+Smaller html:  
+<img src="https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png" alt="Image of a lock in the middle with clouds around it" width="400"/>
 
 ### Icons
 
