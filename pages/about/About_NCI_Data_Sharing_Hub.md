@@ -35,7 +35,7 @@ As mentioned in the video, ODS supports data sharing in three main ways. They:
 - implement policies that promote broad access and use of data, and
 - offer tools and processes that help ensure data are Findable, Accessible, Interoperable, and Reusable (FAIR).
 
-![Data Sharing Lifecycle Diagram](../images/ODSLifeCycleFINAL_0.png)
+![Data Sharing Lifecycle Diagram](https://datascience.cancer.gov/sites/default/files/2024-06/ODSLifeCycleFINAL.png)
 
 *Data sharing begins and ends with the cancer patient. Through informed consent, the patient authorizes her data for use in research. In the center are the people using her data. This includes researchers and people working in funding agencies, institutions, and the technology fields. The gold ring shows ODS' role, supporting programs, processes, and policy needs. The outer ring shows steps in data sharing, starting with identifying research needs and approaches, and applying for funding (shown in purple); followed by generating, collecting, and submitting data (in mauve); accessing, using, and retaining data (in teal); and ending in better treatments and therapies for cancer patients.*
 
@@ -152,4 +152,4 @@ Have general questions about data sharing? Email [NCI's Office of Data Sharing T
 
 ---
 
-**Updated:** May 30, 2025
+**Updated:** June 3, 2025

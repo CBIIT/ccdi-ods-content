@@ -8,6 +8,8 @@ date: 2025-04-25
 
 This page is used for testing and displaying examples of configurable text on site pages. This formatting can all be edited as a Content Update rather than a full Code Deployment.
 
+Update during the meeting.
+
 ## Section 1: Basics
 
 This is a paragraph with **bold text** and *italic text*. You can also use ***bold and italic*** together.
@@ -119,3 +121,9 @@ Videos can be embedded using `iframe`.
 - e + ̊: `e&#730;` → e̊
 - s + ̩: `s&#809;` → s̩
 - z + ̇: `z&#775;` → ż
+
+&nbsp;  
+
+---
+
+**Updated:** June 3, 2025
