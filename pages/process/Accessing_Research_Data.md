@@ -12,16 +12,20 @@ When investigators submit their data to repositories, they allow others to build
 
 ## Where to Access Scientific Data
 
-[NIH-supported Repositories for Accessing Scientific Data](https://sharing.nih.gov/accessing-data/accessing-scientific-data)  
-
-[NCI Data Catalog – Major NCI Initiatives and Widely Used Cancer Data Sets](https://datascience.cancer.gov/resources/nci-data-catalog)
+| | |
+|---|---|
+| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [NIH-supported Repositories for Accessing Scientific Data](https://sharing.nih.gov/accessing-data/accessing-scientific-data) |
+| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [NCI Data Catalog – Major NCI Initiatives and Widely Used Cancer Data Sets](https://datascience.cancer.gov/resources/nci-data-catalog) |
 
 ## Where to Access Genomic Data
 
-[Accessing Genomic Data from NIH Repositories](https://sharing.nih.gov/accessing-data/accessing-genomic-data/accessing-genomic-data-from-nih-repositories)
+| | |
+|---|---|
+| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [Accessing Genomic Data from NIH Repositories](https://sharing.nih.gov/accessing-data/accessing-genomic-data/accessing-genomic-data-from-nih-repositories) |
+| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [How to Request and Access Datasets from dbGaP](https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap) |
 
 &nbsp;  
 
 ---
 
-**Updated:** June 3, 2025
+**Updated:** June 4, 2025

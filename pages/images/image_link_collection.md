@@ -1,6 +1,14 @@
-# List of Links
+---
+title: Reference List of Image Links
+author: ZD
+date: 2025-06-03
+---
+
+# Reference List of Image Links
 
 This is a collection of external images used throughout the NCI Data Sharing Hub markdown pages.
+
+>&#10071; This page is not accessible via the navigation bar, but please be aware that it can still be found using the global search.
 
 ## From Data Science Site ([datascience.cancer.gov](https://datascience.cancer.gov))
 
