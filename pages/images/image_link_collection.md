@@ -31,3 +31,16 @@ Smaller html:
 ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png)
 
 ![Person icon](https://datascience.cancer.gov/sites/default/files/inline-images/contactgds-icon.png)
+
+## From [cancer.gov](https://cancer.gov)
+
+**Only used on Format Example page:**
+Full size:
+![An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals.](https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg)  
+Very small html:  
+<img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg" alt="An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals." width="100"/>
+
+## From [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page)
+
+**Only used on Format Example page:**
+![Spinning protein structure gif](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif/651px-EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif?20180411005001)
