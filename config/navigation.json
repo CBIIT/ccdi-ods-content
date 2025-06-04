@@ -67,6 +67,11 @@
         "className": "navMobileSubItem"
       },
       {
+        "name": "Submit Genomic Data from a Non-NCI-Funded Study",
+        "link": "/post//process/Submit_Genomic_Data_from_Non_NCI_Funded_Study",
+        "className": "navMobileSubItem"
+      },
+      {
         "name": "MOCK Sharing Data: The Basics",
         "link": "/post/process/MOCK_share_data_basics",
         "className": "navMobileSubItem"
