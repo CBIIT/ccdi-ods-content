@@ -6,7 +6,8 @@ date: 2025-04-25
 
 # Format Examples (MOCK)
 
-This page is used for testing and displaying examples of configurable text on site pages. It is useful for reference during development but will not be included in the final site.
+This page is used for testing and displaying examples of configurable text on site pages.  
+It is useful for reference during development but will not be included in the final site.
 
 ## How it works
 
@@ -16,14 +17,46 @@ Each page content is written in [Markdown Language](https://www.markdownguide.or
 
 The website frontend (i.e. what a visitor the site sees) is built as a series of templates that are able to pull the markdown content for each page in real-time. The frontend design takes more time and effort to develop than the markdown content: it involves UI design, writing code, testing the full site (to avoid unexpected, unintented changes), and then a deployment process handled by the CBIIT team.
 
-Changes to content can be rapid (a few days). Changes to the frontend will generally take longer (a few weeks).
+>&#128204; Changes to content can be rapid (a few days). Changes to the frontend will generally take longer (a few weeks).
 
 ### Example: Table of Contents
 
-The Table of Contents on the left side of the screen is part of the frontend template. It will always read the markdown content of a page and automatically fill in the headers. Changing the Table of Contents listed is as simple as changing the markdown (i.e. rapid content update).  
+The navigable Table of Contents on the left side of the page is part of the frontend template. It will always read the markdown content of a page and automatically fill in the headers. Changing the Table of Contents listed is as simple as changing the markdown (i.e. rapid content update).  
 However, moving the Table of Contents to the right side of the screen would require changing the template (i.e. code development and deployment).
 
-## Basics
+## Images
+
+### Images and Video
+
+Full-size images can be pulled from the web with links:  
+![An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals.](https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg)
+
+Image max size can be adjusted with html:
+<img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg" alt="An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals." width="200"/>
+
+Or custom images can be supported from hosted files: (in-progress)  
+![Local folder icon. Broken image expected right now.](../images/folder_icon.png)
+
+### Videos
+
+Videos can be embedded using `iframe`.
+
+<iframe
+  width="640"
+  height="360"
+  src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a"
+  frameborder="0"
+  allowfullscreen
+  title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
+</iframe>
+
+### Gifs
+
+Existing gifs can be embedded as images with links:
+
+![Spinning protein structure gif](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif/651px-EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif?20180411005001)
+
+## Basic Formatting
 
 This is a paragraph with **bold text** and *italic text*. You can also use ***bold and italic*** together.
 
@@ -76,37 +109,23 @@ def hello_world():
     print("Hello, World!")
 ```
 
-## Images
+## Callouts
 
-### Images & Video
+### Blocks
 
-Full-size images can be pulled from the web with links:  
-![An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals.](https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg)
+> **Note:**  
+> Blockquotes can be used to highlight important information, tips, or warnings.
+---
+> **&#9888; Note:**  
+> &#10071; Add emojis for extra emphasis.
 
-Image max size can be adjusted with html:
-<img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg" alt="An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals." width="100"/>
+### Collapsible Sections
 
-Or custom images can be supported from hosted files: (in-progress)  
-![Local folder icon. Broken image expected right now.](../images/folder_icon.png)
-
-### Videos
-
-Videos can be embedded using `iframe`.
-
-<iframe
-  width="640"
-  height="360"
-  src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a"
-  frameborder="0"
-  allowfullscreen
-  title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
-</iframe>
-
-### Gifs
-
-Existing gifs can be embedded as images with links:
-
-![Spinning protein structure gif](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif/651px-EF-G%2C_mRNA%2C_and_tRNAs_in_POST_state_PDB_4W29.gif?20180411005001)
+<details>
+  <summary>&#128161; Click to expand for more info</summary>
+    &#8505; This content is hidden until the user clicks the summary above.  
+    Useful for FAQs or advanced details. <br> Requires some html.
+</details>
 
 ## Special characters
 
@@ -160,26 +179,8 @@ Existing gifs can be embedded as images with links:
 - s + ̩: `s&#809;` → s̩
 - z + ̇: `z&#775;` → ż
 
-## Callouts
-
-### Blocks
-
-> **Note:**  
-> Blockquotes can be used to highlight important information, tips, or warnings.
----
-> **&#9888; Note:**  
-> &#10071; Add emojis for extra emphasis.
-
-### Collapsible Sections
-
-<details>
-  <summary>&#128161; Click to expand for more info</summary>
-    &#8505; This content is hidden until the user clicks the summary above.  
-    Useful for FAQs or advanced details. <br> Requires some html.
-</details>
-
 &nbsp;  
 
 ---
 
-**Updated:** June 3, 2025
+**Updated:** June 4, 2025
