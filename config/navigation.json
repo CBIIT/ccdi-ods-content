@@ -95,6 +95,11 @@
         "name": "MOCK Format Examples",
         "link": "/post/examples/MOCK_Format_Example",
         "className": "navMobileSubItem"
+      },
+      {
+        "name": "MOCK Style Test",
+        "link": "/post/examples/MOCK_Style_Test",
+        "className": "navMobileSubItem"
       }
     ]
   }

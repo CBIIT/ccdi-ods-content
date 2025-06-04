@@ -15,7 +15,7 @@ The goal of this site is to allow for **rapid content updates**, like changing o
 
 Each page content is written in [Markdown Language](https://www.markdownguide.org/basic-syntax/) and stored as a `[page_name].md` file within a `[navigation_group]` folder. The navigation bar at the top of the screen can be configured to add/change groups and the pages within. (This file is `Examples/MOCK_Format_Example.md`.)
 
-The website frontend (i.e. what a visitor the site sees) is built as a series of templates that are able to pull the markdown content for each page in real-time. The frontend design takes more time and effort to develop than the markdown content: it involves UI design, writing code, testing the full site (to avoid unexpected, unintented changes), and then a deployment process handled by the CBIIT team.
+The website frontend (i.e. what a visitor to the site sees) is built as a series of templates that are able to pull the markdown content for each page in real-time. The frontend design takes more time and effort to develop than the markdown content: it involves UI design, writing code, testing the full site (to avoid unexpected, unintended changes), and then a deployment process handled by the CBIIT team.
 
 >&#128204; Changes to content can be rapid (a few days). Changes to the frontend will generally take longer (a few weeks).
 
