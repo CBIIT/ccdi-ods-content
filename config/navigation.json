@@ -12,12 +12,12 @@
     },
     {
       "name": "Policy",
-      "link": "/collection/program",
+      "link": "/collection/policy",
       "className": "navMobileItem clickable"
     },
     {
       "name": "Process",
-      "link": "/collection/program",
+      "link": "/collection/process",
       "className": "navMobileItem clickable"
     },
     {
@@ -53,13 +53,9 @@
         "name": "NCI Expectations for Genomic Data Sharing",
         "link": "/post/policy/NCI_Genomic_Data_Expectations_GDS",
         "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Submitting Research Data",
-        "link": "/post/policy/MOCK_Submitting_Research_Data",
-        "className": "navMobileSubItem"
       }
     ],
+
     "Process":[
       {
         "name": "Accessing Research Data",
@@ -75,26 +71,12 @@
         "name": "Submit Genomic Data from a Non-NCI-Funded Study",
         "link": "/post/process/Submit_Genomic_Data_from_Non_NCI_Funded_Study",
         "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Sharing Data: The Basics",
-        "link": "/post/process/MOCK_share_data_basics",
-        "className": "navMobileSubItem"
       }
     ],
     
     "Program": [
-      {
-        "name": "MOCK Accessing Genomic Data",
-        "link": "/post/program/MOCK_Accessing_Genomic_Data",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Genomic Data Sharing (GDS) Policy Contact Information",
-        "link": "/post/program/MOCK_GDS_Policy_Contact_Information",
-        "className": "navMobileSubItem"
-      }
     ],
+
     "About": [
       {
         "name": "About the NCI Data Sharing Hub",
@@ -107,6 +89,7 @@
         "className": "navMobileSubItem"
       }
     ],
+
     "Examples": [
       {
         "name": "MOCK Format Examples",
