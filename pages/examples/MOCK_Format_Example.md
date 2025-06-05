@@ -9,10 +9,6 @@ date: 2025-04-25
 This page is used for testing and displaying examples of configurable text on site pages.  
 It is useful for reference during development but will not be included in the final site.
 
-
- test change 
-
- 
 ## How it works
 
 The goal of this site is to allow for **rapid content updates**, like changing or adding text-based pages with standard structure.
