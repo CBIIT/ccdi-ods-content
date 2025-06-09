@@ -6,7 +6,7 @@
       "className": "navMobileItem"
     },
     {
-      "name": "Index of NCI Studies",
+      "name": "Index of NCI Studies \u2197",
       "link": "https://studycatalog.cancer.gov/",
       "className": "navMobileItem"
     },
@@ -27,7 +27,7 @@
     },
     {
       "name": "About",
-      "link": "/collection/about/",
+      "link": "/collection/About/",
       "className": "navMobileItem clickable"
     },
       {
@@ -36,6 +36,7 @@
       "className": "navMobileItem clickable"
     }
   ],
+
   "navbarSublists": {
     
     "Guidance": [
@@ -89,8 +90,8 @@
 
     "About": [
       {
-        "name": "About the Office of Data Sharing (ODS)",
-        "link": "/post/about/About_ODS",
+        "name": "About the NCI Office of Data Sharing (ODS)",
+        "link": "/post/About/About-ODS",
         "className": "navMobileSubItem"
       }
     ],

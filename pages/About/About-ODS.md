@@ -24,7 +24,7 @@ The mission of ODS is to create a comprehensive vision and strategy to enhance b
 
 ## Who We Are
 
-[Placeholder for bio section?]
+**\#TODO:** Placeholder for ODS Bio(s)
 
 ## ODS Guiding Principles of Data Sharing
 
@@ -44,4 +44,4 @@ Now that you know more about ODS and the data sharing lifecycle, here are some g
 
 ---
 
-**Updated:** May 30, 2025
+**Updated:** June 9, 2025
