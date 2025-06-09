@@ -1,10 +1,10 @@
 ---
-title: Accessing Research Data 
+title: Access Cancer Data 
 author: ODS; Transcribed ZD
 date: 2025-05-30
 ---
 
-# Accessing Research Data
+# Access Cancer Data
 
 <img src="https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png" alt="Image of a lock in the middle with clouds around it" width="400"/>
 
@@ -28,4 +28,4 @@ When investigators submit their data to repositories, they allow others to build
 
 ---
 
-**Updated:** June 4, 2025
+**Updated:** June 9, 2025

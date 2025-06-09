@@ -1,10 +1,10 @@
 ---
-title: Submit Genomic Data from a Non-NCI-Funded Study
+title: Submit Cancer Data
 author: ODS; Transcribed ZD
 date: 2025-05-30
 ---
 
-# Submit Scientific Data
+# Submit Cancer Data
 
 <img src="https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png" alt="Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up." width="400"/>
 
@@ -35,4 +35,4 @@ Researchers submitting genomic data should refer to the data practices, file for
 
 ---
 
-**Updated:** June 4, 2025
+**Updated:** June 9, 2025

@@ -17,7 +17,7 @@
     },
     {
       "name": "Process",
-      "link": "/collection/process",
+      "link": "/collection/Process",
       "className": "navMobileItem clickable"
     },
     {
@@ -50,7 +50,7 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NIH Data Sharing Guidance\u2197",
+        "name": "NIH Data Sharing Guidance \u2197",
         "link": "https://sharing.nih.gov",
         "className": "navMobileSubItem"
       },
@@ -68,18 +68,18 @@
 
     "Process":[
       {
-        "name": "Accessing Research Data",
-        "link": "/post/process/Accessing_Research_Data",
+        "name": "Access Cancer Data",
+        "link": "/post/Process/Access-data",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Submit Scientific Data",
-        "link": "/post/process/Submitting_Research_Data",
+        "name": "Submit Cancer Data",
+        "link": "/post/Process/Submit-Data",
         "className": "navMobileSubItem"
       },
       {
-        "name": "Submit Genomic Data from a Non-NCI-Funded Study",
-        "link": "/post/process/Submit_Genomic_Data_from_Non_NCI_Funded_Study",
+        "name": "Submit Cancer Genomic Data from a Non-NCI-Funded Study",
+        "link": "/post/Process/non-NIH-funded-study-submission",
         "className": "navMobileSubItem"
       }
     ],
