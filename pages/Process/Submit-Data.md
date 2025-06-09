@@ -29,7 +29,7 @@ Researchers submitting genomic data should refer to the data practices, file for
 
 - [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap)
 
-- [Non-NCI Funded Studies](/post/process/Submit_Genomic_Data_from_Non_NCI_Funded_Study)
+- [Non-NCI Funded Studies](/post/Process/non-NIH-funded-study-submission)
 
 &nbsp;  
 
