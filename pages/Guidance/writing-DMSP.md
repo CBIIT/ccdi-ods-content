@@ -1,5 +1,5 @@
 ---
-title: How to Write a DMS Plan
+title: How to Write a Data Management and Sharing (DMS) Plan
 author: ODS; Transcribed ZD
 date: 2025-05-30
 ---
@@ -187,4 +187,4 @@ Now that you have a sense of what your plan should contain, use the following re
 
 ---
 
-**Updated:** May 30, 2025
+**Updated:** June 9, 2025

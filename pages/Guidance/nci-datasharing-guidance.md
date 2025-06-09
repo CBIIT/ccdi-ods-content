@@ -1,10 +1,10 @@
 ---
-title: About the NCI Data Sharing Hub
+title: NCI Data Sharing Guidance
 author: ODS; Transcribed ZD
 date: 2025-05-30
 ---
 
-# NCI Data Sharing Hub
+# NCI Data Sharing Guidance
 
 Looking for information on sharing NCI-funded cancer research data? This page details the people, policies, requirements, and resources you need to start sharing your data.
 
@@ -152,4 +152,4 @@ Have general questions about data sharing? Email [NCI's Office of Data Sharing T
 
 ---
 
-**Updated:** June 3, 2025
+**Updated:** June 9, 2025

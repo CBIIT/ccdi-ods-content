@@ -1,10 +1,10 @@
 ---
-title: NCI Expectations for Genomic Data Sharing
+title: NCI Expectations for Genomic Data Sharing (GDS Policy)
 author: ODS; Transcribed ZD
 date: 2025-06-03
 ---
 
-# NCI Expectations for Genomic Data Sharing
+# NCI Expectations for Genomic Data Sharing (GDS Policy)
 
 Investigators submitting their genomic research data to an NIH or NCI repository should review the following resources for information on the documents and processes.
 
@@ -29,7 +29,7 @@ Regardless of study design, NCI requires sharing of large-scale genomics researc
 | Metagenome (or microbiome) sequencing data | - 16S rRNA Sequencing<br>- Shotgun Metagenomics<br>- Whole-Genome Microbial Sequencing | 100 | 50 |
 | Metatranscriptome sequencing data | - Microbial/Microbiome Transcriptomics | 100 | 50 |
 
-\*Includes distinct individuals, species, strains, samples, treatments, time points, tissues, single cells, etc. (*e.g., data from 25 patients at 4 time points after treatment would reach a 100-sample threshold; data from 50 tumors-normal comparisons would reach a 100-sample threshold*).
+*Includes distinct individuals, species, strains, samples, treatments, time points, tissues, single cells, etc. (*e.g., data from 25 patients at 4 time points after treatment would reach a 100-sample threshold; data from 50 tumors-normal comparisons would reach a 100-sample threshold*).
 
 ## Additional Projects Subject to GDS under NCI-Specific Priorities Regardless of Scale
 
@@ -55,16 +55,16 @@ Research that does not meet the above criteria and involves instrument calibrati
 | | |
 |---|---|
 | ![DNA file icon](https://datascience.cancer.gov/sites/default/files/inline-images/gds-icon.png) | [Genomic Data Sharing Policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) |
-| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [Institutional Certifications](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications)\*\* |
+| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [Institutional Certifications](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications)** |
 | ![Gear with checkmark icon](https://datascience.cancer.gov/sites/default/files/inline-images/preparegenomic-icon.png) | [Harmonization of Sharing Plans](https://sharing.nih.gov/genomic-data-sharing-policy/developing-genomic-data-sharing-plans#after) |
-| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data)<br> Follow step-by-step instructions for submitting genomic data sets to dbGaP based on funding category:<br>- [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap) <br> - **TO DO: Add link to non-nci funded page on data hub Non-NCI Funded Studies** |
+| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data)<br> Follow step-by-step instructions for submitting genomic data sets to dbGaP based on funding category:<br>- [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap) <br> - **\#TODO: Add link to non-nci funded page on data hub Non-NCI Funded Studies** |
 | ![Person icon](https://datascience.cancer.gov/sites/default/files/inline-images/contactgds-icon.png) | [Contact](https://sharing.nih.gov/genomic-data-sharing-policy/resources/contacts-and-help#gds_support) <br> Find the appropriate Genomic Program Administrator to work with throughout the submission process. |
 
-\*\*Please note that General Research Use without any further restricting modifiers allows the maximal benefit of research funded with public dollars and is preferred whenever possible and consistent with informed consent. If disease-specific data use or data-use modifiers are required, please contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) for further guidance.
+**Please note that General Research Use without any further restricting modifiers allows the maximal benefit of research funded with public dollars and is preferred whenever possible and consistent with informed consent. If disease-specific data use or data-use modifiers are required, please contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) for further guidance.
 
 ## The Data Management and Sharing (DMS) Policy vs. Genomic Data Sharing (GDS) Policy: Which One Applies to You?
 
-**TO DO: Add [Decision Tree Graphic from Data Science page](https://datascience.cancer.gov/data-sharing/data-management-genomic-sharing-policy-harmonization-policy-decision-tree#TextDescriptionDecisionTree)**
+**\#TODO: Add [Decision Tree Graphic from Data Science page](https://datascience.cancer.gov/data-sharing/data-management-genomic-sharing-policy-harmonization-policy-decision-tree#TextDescriptionDecisionTree)**
 
 ### Chart Description
 
@@ -88,16 +88,16 @@ Research that does not meet the above criteria and involves instrument calibrati
     - Your data do not have to be submitted to NIH/NCI-supported repositories (e.g., dbGaP).
 
 - Question 5: Does the data meet [NCI thresholds](https://datascience.cancer.gov/data-sharing/genomic-data-sharing/about-the-genomic-data-sharing-policy) for either genomic data sharing or rare-cancers/program priorities?
-  - If no, follow DMS Policy expectations\* as defined by your NOFOs/ICO policy/program.
+  - If no, follow DMS Policy expectations* as defined by your NOFOs/ICO policy/program.
   - If yes, follow the GDS Policy expectations:
     - [Provide your Institutional Certification by Just In Time](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/completing-an-institutional-certification-form).
     - [Submit your data to NIH-supported repositories](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data).
     - [Observe the data submission/sharing timelines](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/completing-an-institutional-certification-form).
 
-\*You should consider protecting (i.e., de-identifying) participant information even if the genetic data are not required to be deposited into NIH/NCI repositories.
+*You should consider protecting (i.e., de-identifying) participant information even if the genetic data are not required to be deposited into NIH/NCI repositories.
 
 &nbsp;  
 
 ---
 
-**Updated:** June 3, 2025
+**Updated:** June 9, 2025

@@ -11,8 +11,8 @@
       "className": "navMobileItem"
     },
     {
-      "name": "Policy",
-      "link": "/collection/policy",
+      "name": "Guidance",
+      "link": "/collection/Guidance",
       "className": "navMobileItem clickable"
     },
     {
@@ -38,20 +38,30 @@
   ],
   "navbarSublists": {
     
-    "Policy": [
+    "Guidance": [
       {
-        "name": "How to Write a DMS Plan",
-        "link": "/post/policy/How_to_Write_a_DMS_Plan",
+        "name": "NCI Data Sharing Guidance",
+        "link": "/post/about/nci-datasharing-guidance",
         "className": "navMobileSubItem"
       },
       {
-        "name": "NCI Public Access and Data Sharing (PADS) Policy",
-        "link": "/post/policy/NCI_Cancer_Moonshot_PADS",
+        "name": "NCI Expectations for Genomic Data Sharing (GDS Policy)",
+        "link": "/post/Guidance/genomic-data-sharing",
         "className": "navMobileSubItem"
       },
       {
-        "name": "NCI Expectations for Genomic Data Sharing",
-        "link": "/post/policy/NCI_Genomic_Data_Expectations_GDS",
+        "name": "NIH Data Sharing Guidance ↗",
+        "link": "https://sharing.nih.gov",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "NCI Public Access and Data Policy (PADS)",
+        "link": "/post/Guidance/PADS",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "How to Write a Data Management and Sharing (DMS) Plan",
+        "link": "/post/Guidance/writing-DMSP",
         "className": "navMobileSubItem"
       }
     ],
@@ -78,11 +88,6 @@
     ],
 
     "About": [
-      {
-        "name": "About the NCI Data Sharing Hub",
-        "link": "/post/about/About_NCI_Data_Sharing_Hub",
-        "className": "navMobileSubItem"
-      },
       {
         "name": "About the Office of Data Sharing (ODS)",
         "link": "/post/about/About_ODS",

@@ -1,10 +1,10 @@
 ---
-title: NCI Public Access and Data Sharing (PADS) Policy
+title: NCI Public Access and Data Policy (PADS)
 author: ODS; Transcribed ZD
 date: 2025-06-03
 ---
 
-# NCI Public Access and Data Sharing (PADS) Policy
+# NCI Public Access and Data Policy (PADS)
 
 NCI seeks to create an infrastructure that enables researchers, clinicians, and patients to collaborate in sharing their collective data and knowledge about cancer to accelerate and improve cancer outcomes.
 
@@ -72,3 +72,9 @@ Applicants have the flexibility to develop a Public Access and Data Sharing Plan
 8. See 45 C.F.R. Part 164.
 
 9. For those primary studies that may be conducted outside of the United States then an analogous review committee to an IRB or privacy board may be asked to participate in this review of informed consents and proposed data disclosures for cancer research projects.
+
+&nbsp;
+
+---
+
+**Updated:** June 9, 2025
