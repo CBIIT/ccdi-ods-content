@@ -36,7 +36,7 @@
       "className": "navMobileItem clickable"
     },
       {
-      "name": "Examples",
+      "name": "Dev Examples",
       "link": "/collection/examples/",
       "className": "navMobileItem clickable"
     }
@@ -149,7 +149,7 @@
       }
     ],
 
-    "Examples": [
+    "Dev Examples": [
       {
         "name": "MOCK Format Examples",
         "link": "/post/examples/MOCK_Format_Example",
