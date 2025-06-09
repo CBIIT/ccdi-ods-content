@@ -41,7 +41,7 @@
     "Guidance": [
       {
         "name": "NCI Data Sharing Guidance",
-        "link": "/post/about/nci-datasharing-guidance",
+        "link": "/post/Guidance/nci-datasharing-guidance",
         "className": "navMobileSubItem"
       },
       {
@@ -50,7 +50,7 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NIH Data Sharing Guidance ↗",
+        "name": "NIH Data Sharing Guidance\u2197",
         "link": "https://sharing.nih.gov",
         "className": "navMobileSubItem"
       },
