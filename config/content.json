@@ -1,120 +1,50 @@
 {
-  "version": "1.0",
-  "lastUpdated": "2025-06-03",
   "hero": {
-    "header": {
-      "text": "<h1>Welcome to CCDI Open Data Sharing asfsdfads</h1>"
-    },
+    "title": "Discover the NCI Data Sharing Lifecycle ABCDESssfsd",
+    "subtitle": "NCI's Data Sharing Approach Starts and Ends with the Patient in Mind",
     "mission": {
-      "text": "**Empowering Research** through collaborative data sharing\n\nThe Childhood Cancer Data Initiative (CCDI) is committed to making pediatric cancer data accessible and reusable to drive scientific discovery and improve outcomes for children with cancer."
-    }
-  },
-  "banner": {
-    "cards": [
-      {
-        "id": "card1",
-        "title": "Data Submission",
-        "content": "Submit your research data to contribute to pediatric cancer research"
-      },
-      {
-        "id": "card2",
-        "title": "Data Access",
-        "content": "Access and analyze comprehensive pediatric cancer datasets"
-      },
-      {
-        "id": "card3",
-        "title": "Collaboration",
-        "content": "Connect with researchers and share insights"
-      }
-    ],
-    "contact": {
-      "text": "Contact the Help Desk",
-      "url": "mailto:support@ccdi.cancer.gov"
+      "title": "NCI Office of Data Sharing (ODS) Mission:",
+      "description": "To direct a comprehensive data sharing vision and strategy for NCI which advocates for proper broad and equitable data sharing and the needs of the cancer research and patient communities."
+    },
+    "image": {
+      "src": "/assets/hero.png",
+      "alt": "NCI Data Sharing Lifecycle diagram"
     }
   },
   "gallery": {
+    "title": "Latest Updates",
     "updates": [
       {
-        "id": "update1",
-        "title": "New Data Release",
-        "content": "Latest genomic dataset from the CCDI pediatric cancer study is now available",
-        "date": "2025-06-01"
-      },
-      {
-        "id": "update2",
-        "title": "Workshop Announcement",
-        "content": "Join our upcoming data harmonization workshop",
-        "date": "2025-06-15"
-      },
-      {
-        "id": "update3",
-        "title": "Platform Update",
-        "content": "New analysis tools added to the data portal",
-        "date": "2025-05-30"
+        "title": "New Release from CCDC",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "image": "https://cdn.builder.io/api/v1/image/assets/4ccc52d59fb54340b43b3652db0442b6/97f3bfc9e7e32638ff8308a056dc146908e32afd",
+        "readMoreColor": "[rgba(118,231,221,1)]",
+        "link": "/updates/ccdc-release"
       }
     ]
   },
   "guidance": {
-    "links": [
+    "title": "Data Sharing Guidance",
+    "leftColumnLinks": [
       {
-        "id": "guide1",
-        "text": "Data Submission Guidelines",
-        "url": "https://ccdi.cancer.gov/submit/guidelines"
-      },
+        "text": "Data Sharing Policy",
+        "href": "/policy"
+      }
+    ],
+    "rightColumnLinks": [
       {
-        "id": "guide2",
-        "text": "Data Access Policy",
-        "url": "https://ccdi.cancer.gov/access/policy"
-      },
-      {
-        "id": "guide3",
-        "text": "Best Practices",
-        "url": "https://ccdi.cancer.gov/resources/best-practices"
+        "text": "Documentation",
+        "href": "/docs"
       }
     ]
   },
-  "process": {
-    "steps": [
-      {
-        "id": "step1",
-        "title": "Prepare Your Data",
-        "description": "<p>Format your data according to CCDI standards</p><ul><li>Review data requirements</li><li>Validate metadata</li></ul>",
-        "order": 1
-      },
-      {
-        "id": "step2",
-        "title": "Submit Request",
-        "description": "<p>Complete the data submission request form</p><ul><li>Provide project details</li><li>Describe dataset contents</li></ul>",
-        "order": 2
-      },
-      {
-        "id": "step3",
-        "title": "Review Process",
-        "description": "<p>Data undergoes quality review</p><ul><li>Technical validation</li><li>Compliance check</li></ul>",
-        "order": 3
-      }
-    ]
-  },
-  "resources": {
-    "items": [
-      {
-        "id": "resource1",
-        "title": "Data Dictionary",
-        "description": "Comprehensive guide to CCDI data elements and definitions",
-        "url": "https://ccdi.cancer.gov/resources/dictionary"
-      },
-      {
-        "id": "resource2",
-        "title": "Analysis Tools",
-        "description": "Suite of tools for data analysis and visualization",
-        "url": "https://ccdi.cancer.gov/tools"
-      },
-      {
-        "id": "resource3",
-        "title": "API Documentation",
-        "description": "Technical documentation for programmatic data access",
-        "url": "https://ccdi.cancer.gov/api/docs"
-      }
+  "dataSharing": {
+    "title": "Data Sharing Process",
+    "processList": [
+      "Plan",
+      "Prepare",
+      "Submit",
+      "Share"
     ]
   }
 }
