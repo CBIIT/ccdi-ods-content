@@ -35,6 +35,19 @@ Full size:
 Smaller html:  
 <img src="https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png" alt="Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up." width="400"/>
 
+ODS Team Photos:
+
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/JaimeGuidryAuvil346x420.png" alt="Jaime M. Guidry Auvil, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/SubhashiniJagu346x420.png" alt="Subhashini Jagu, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2023-06/EmilyBoja346x420June2023.png" alt="Emily Boja, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Freddie%20Pruitt346x420.png" alt="Freddie L. Pruitt III, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Joe%20Flores%20Torres346x420.png" alt="Joe Flores-Toro, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/BrandonWright346x420.png" alt="Brandon J. Wright, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/HeatherBasehore346x420.png" alt="Heather K. Basehore, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/YingHuang346x420.png" alt="Ying Huang, M.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2022-10/NathanielBoyd346x420.png" alt="Nathan Boyd, Ph.D." width="100"/>
+| <img src="https://datascience.cancer.gov/sites/default/files/2023-05/MousumiBio346x420V2.png" alt="Mousumi Ghosh, Ph.D." width="100"/>
+
 ### Icons
 
 ![DNA file icon](https://datascience.cancer.gov/sites/default/files/inline-images/gds-icon.png)
