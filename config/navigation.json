@@ -32,8 +32,8 @@
     },
     {
       "name": "About",
-      "link": "/collection/About/",
-      "className": "navMobileItem clickable"
+      "link": "/post/About/About-ODS",
+      "className": "navMobileItem"
     },
       {
       "name": "Dev Examples",
@@ -104,14 +104,6 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
-        "className": "navMobileSubItem"
-      }
-    ],
-
-    "About": [
-      {
-        "name": "About the NCI Office of Data Sharing (ODS)",
-        "link": "/post/About/About-ODS",
         "className": "navMobileSubItem"
       }
     ],
