@@ -1,8 +1,8 @@
 {
   "navList": [
     {
-      "name": "Data Sharing Hub",
-      "link": "https://ccdi-ods-ui.vercel.app/",
+      "name": "Home",
+      "link": "/",
       "className": "navMobileItem"
     },
     {
