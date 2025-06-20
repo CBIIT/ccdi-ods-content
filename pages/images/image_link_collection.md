@@ -20,19 +20,8 @@ This is a collection of external images used throughout the NCI Data Sharing Hub
 
 ### Stock Images
 
-Full size:  
-![Stylized image of double-helix DNA structures overlayed on a circuit board pattern](https://datascience.cancer.gov/sites/default/files/inline-images/genomicdatasharing_square_2.jpg "Genomic Data")
-Smaller html:  
 <img src="https://datascience.cancer.gov/sites/default/files/inline-images/genomicdatasharing_square_2.jpg" alt="Stylized image of double-helix DNA structures overlayed on a circuit board pattern" width="400"/>
-
-Full size:  
-![Image of a lock in the middle with clouds around it](https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png "Data Lock")
-Smaller html:  
 <img src="https://datascience.cancer.gov/sites/default/files/2022-04/lockpicture-resize.png" alt="Image of a lock in the middle with clouds around it" width="400"/>
-
-Full size:
-![Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up.](https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png "Submitting Data")
-Smaller html:  
 <img src="https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png" alt="Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up." width="400"/>
 
 ODS Team Photos:
