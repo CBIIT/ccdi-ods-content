@@ -22,8 +22,8 @@
     },
     {
       "name": "Resources",
-      "link": "/collection/Resources",
-      "className": "navMobileItem clickable"
+      "link": "/post/Resources/resource-list",
+      "className": "navMobileItem"
     },
     {
       "name": "News",
@@ -90,39 +90,6 @@
       }
     ],
     
-    "Resources":[
-      {
-        "name": "Index of NCI Studies \u2197",
-        "link": "https://studycatalog.cancer.gov",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Database of Genotypes and Phenotypes (dbGaP) \u2197",
-        "link": "https://www.ncbi.nlm.nih.gov/gap/",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Childhood Cancer Data Initiative (CCDI) \u2197",
-        "link": "https://ccdi.cancer.gov/home",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Cancer Research Data Commons (CRDC) \u2197",
-        "link": "https://datacommons.cancer.gov/",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Cancer Genomics Cloud (CGC) \u2197",
-        "link": "https://www.cancergenomicscloud.org/",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "Resources for Researchers (R4R) \u2197",
-        "link": "https://www.cancer.gov/research/resources",
-        "className": "navMobileSubItem"
-      }
-    ],
-
     "News": [
       {
         "name": "Data Sharing Champions",
