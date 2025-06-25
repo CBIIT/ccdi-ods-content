@@ -23,6 +23,7 @@
         "image": "latest_doctor_and_patient.png",
         "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
