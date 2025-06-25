@@ -12,6 +12,19 @@
       "alt": "NCI Data Sharing Lifecycle diagram"
     }
   },
+  "banner": {
+    "supportTitle": "NCI ODS Supports Broad Data Sharing in 3 Ways",
+    "questionText": "Have a question about how to share your NCI-funded research?",
+    "homepageButton": {
+      "text": "Contact ODS",
+      "link": "mailto:NCIOfficeofDataSharing@mail.nih.gov"
+    },
+    "textFrame": [
+      "Advise on programs that define impactful data and resources",
+      "Implement guidance that promote broad access and use of data",
+      "Offer tools and processes that help ensure data are Findable, Accessable, Interoperable, and Resuable (FAIR)."
+    ]
+  },
   "gallery": {
     "title": "Latest Updates",
     "viewLatestButtonText": "VISIT THE LATEST UPDARES PAGE",
