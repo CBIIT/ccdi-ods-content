@@ -1,0 +1,68 @@
+
+{
+  "hero": {
+    "title": "Discover the NCI Data Sharing Lifecycle Yizhen AAA",
+    "subtitle": "NCI's Data Sharing Approach Starts and Ends with the Patient in Mind",
+    "mission": {
+      "title": "NCI Office of Data Sharing (ODS) Mission:",
+      "description": "To direct a comprehensive data sharing vision and strategy for NCI which advocates for proper broad and equitable data sharing and the needs of the cancer research and patient communities."
+    },
+    "image": {
+      "src": "/assets/hero.png",
+      "alt": "NCI Data Sharing Lifecycle diagram"
+    }
+  },
+  "gallery": {
+    "title": "Latest Updates",
+    "viewLatestButtonText": "VISIT THE LATEST UPDARES PAGE",
+    "viewLatestButtonLink": "/",
+    "newsletterButtonText": "SUBSCRIBE TO ODS NEWSLETTER",
+    "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
+    "updates": [
+      {
+        "image": "latest_doctor_and_patient.png",
+        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "link": "/updates/ccdc-release"
+      },
+      {
+        "image": "latest_nails_net.png",
+        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "readMoreColor": "[rgba(118,231,221,1)]",
+        "link": "/updates/ccdc-release"
+      },
+      {
+        "image": "latest_blue_wheel.png",
+        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "readMoreColor": "[rgba(118,231,221,1)]",
+        "link": "/updates/ccdc-release"
+      }
+    ]
+  },
+  "guidance": {
+    "title": "Data Sharing Guidance",
+    "leftColumnLinks": [
+      {
+        "text": "Data Sharing Policy",
+        "href": "/policy"
+      }
+    ],
+    "rightColumnLinks": [
+      {
+        "text": "Documentation",
+        "href": "/docs"
+      }
+    ]
+  },
+  "dataSharing": {
+    "title": "Data Sharing Process",
+    "processList": [
+      "Plan",
+      "Prepare",
+      "Submit",
+      "Share"
+    ]
+  }
+}
