@@ -35,9 +35,7 @@ Image max size can be adjusted with html:
 <img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg" alt="An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals." width="200"/>
 
 Or custom images can be supported from hosted files: (in-progress)  
-![Local folder icon. Broken image expected right now.](../images/folder_icon.png)
-![Local folder icon. Broken image expected right now.](https://github.com/CBIIT/ccdi-ods-content/blob/50503b6f4816ecc9375954138195d44ee80dea51/pages/images/folder_icon.png?raw=true
-)
+![Local folder icon](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png)
 
 ### Videos
 
@@ -90,10 +88,13 @@ This is a paragraph with **bold text** and *italic text*. You can also use ***bo
 |Cell 1 | Cell 2 |
 |Cell 3 | Cell 4 |
 
-### Links
+### Links & Files
 
 [Example External Link: GitHub](https://github.com) &#8599;  
 [Example Internal Link: This Page](/post/examples/MOCK_Format_Example) &#128279;
+
+[Example link to Word Doc](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/documents/DSHub_test_file.docx)
+[Example link to PDF](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/documents/DSHub_test_file.pdf)
 
 ### Just a line
 
