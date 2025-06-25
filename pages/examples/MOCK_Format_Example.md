@@ -36,6 +36,8 @@ Image max size can be adjusted with html:
 
 Or custom images can be supported from hosted files: (in-progress)  
 ![Local folder icon. Broken image expected right now.](../images/folder_icon.png)
+![Local folder icon. Broken image expected right now.](https://github.com/CBIIT/ccdi-ods-content/blob/50503b6f4816ecc9375954138195d44ee80dea51/pages/images/folder_icon.png?raw=true
+)
 
 ### Videos
 
