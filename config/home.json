@@ -60,30 +60,21 @@
       "title": "Data Sharing Guidance",
       "titleTextColor": "#7B3D7D",
       "links": [
-        { "text": "NIH Scientific Data Sharing Guidance", "href": "#nih-guidance" },
-        { "text": "Data Sharing Basics", "href": "#data-sharing-basics" },
-        { "text": "NCI Scientific Data Sharing Guidance", "href": "#nci-guidance" },
-        { "text": "NCI Requirements for GDS Policy", "href": "#nci-requirements" },
-        { "text": "Cancer Moonshot (PADS) Guidance", "href": "#cancer-moonshot" },
-        { "text": "Tips for Writing a DMS Plan", "href": "#dms-plan-tips" }
+        { "text": "NIH Scientific Data Sharing Guidance", "link": "#nih-guidance" },
+        { "text": "Data Sharing Basics", "link": "#data-sharing-basics" },
+        { "text": "NCI Scientific Data Sharing Guidance", "link": "#nci-guidance" },
+        { "text": "NCI Requirements for GDS Policy", "link": "#nci-requirements" },
+        { "text": "Cancer Moonshot (PADS) Guidance", "link": "#cancer-moonshot" },
+        { "text": "Tips for Writing a DMS Plan", "link": "#dms-plan-tips" }
       ]
     },
     {
       "title": "Data Sharing Process",
       "titleTextColor": "#00756A",
       "links": [
-        { "text": "Submit Non-NIH Funded Study to dbGaP", "href": "#submit-dbgap" },
-        { "text": "Accessing Scientific Data for Re-Use", "href": "#accessing-re-use" }
+        { "text": "Submit Non-NIH Funded Study to dbGaP", "link": "#submit-dbgap" },
+        { "text": "Accessing Scientific Data for Re-Use", "link": "#accessing-re-use" }
       ]
     }
-  ],
-  "dataSharing": {
-    "title": "Data Sharing Process",
-    "processList": [
-      "Plan",
-      "Prepare",
-      "Submit",
-      "Share"
-    ]
-  }
+  ]
 }
