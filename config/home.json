@@ -8,7 +8,7 @@
       "description": "To direct a comprehensive data sharing vision and strategy for NCI which advocates for proper broad and equitable data sharing and the needs of the cancer research and patient communities."
     },
     "image": {
-      "src": "/home/hero.png",
+      "src": "/hero.png",
       "alt": "NCI Data Sharing Lifecycle diagram"
     }
   },
@@ -33,21 +33,21 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "/home/latest_doctor_and_patient.png",
+        "image": "/latest_doctor_and_patient.png",
         "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
-        "image": "/home/latest_nails_net.png",
+        "image": "/latest_nails_net.png",
         "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
-        "image": "/home/latest_blue_wheel.png",
+        "image": "/latest_blue_wheel.png",
         "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
