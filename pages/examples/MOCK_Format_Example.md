@@ -31,11 +31,11 @@ However, moving the Table of Contents to the right side of the screen would requ
 Full-size images can be pulled from the web with links:  
 ![An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals.](https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg)
 
-Image max size can be adjusted with html:
+Image max size can be adjusted with html:  
 <img src="https://www.cancer.gov/sites/g/files/xnrzdm211/files/ncids_slim_hero/field_slim_hero_image/2025-03/CCDI-Illustrated-MLP-Banner-Design_Final.jpg" alt="An illustrated banner featuring interconnected scenes: researchers and data scientists with monitors displaying data, supercomputers, and cloud resources on the left and right side of the banner. In the middle of the banner, there are patients (children, adolescents, and young adults), families, pediatric oncologists, and other healthcare professionals." width="200"/>
 
-Or custom images can be supported from hosted files: (in-progress)  
-![Local folder icon](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png)
+Or custom images can be supported from hosted files. Link to file uploaded to this GitHub repo:  
+![Folder icon](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png?raw=true)
 
 ### Videos
 
@@ -93,7 +93,7 @@ This is a paragraph with **bold text** and *italic text*. You can also use ***bo
 [Example External Link: GitHub](https://github.com) &#8599;  
 [Example Internal Link: This Page](/post/examples/MOCK_Format_Example) &#128279;
 
-[Example link to Word Doc](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/documents/DSHub_test_file.docx)
+[Example link to Word Doc](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/documents/DSHub_test_file.docx)  
 [Example link to PDF](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/documents/DSHub_test_file.pdf)
 
 ### Just a line
