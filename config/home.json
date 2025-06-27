@@ -41,14 +41,14 @@
       },
       {
         "image": "/latest_nails_net.png",
-        "title": "Updated Guidance Available - \nLorem Ipsum Dolor Sit",
+        "title": "Updated Guidance Available",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
         "image": "/latest_blue_wheel.png",
-        "title": "Register for the Data Sharing \nSymposium",
+        "title": "Upcoming Event:\nRegister for the Data Sharing Symposium",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
