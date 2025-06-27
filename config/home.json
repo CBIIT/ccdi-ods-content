@@ -1,7 +1,7 @@
 
 {
   "hero": {
-    "title": "Discover the NCI Data Sharing Lifecycle Yizhen AAA",
+    "title": "Discover the NCI Data Sharing Lifecycle",
     "subtitle": "NCI's Data Sharing Approach Starts and Ends with the Patient in Mind",
     "mission": {
       "title": "NCI Office of Data Sharing (ODS) Mission:",
@@ -27,28 +27,28 @@
   },
   "gallery": {
     "title": "Latest Updates",
-    "viewLatestButtonText": "VISIT THE LATEST UPDARES PAGE",
+    "viewLatestButtonText": "VISIT THE LATEST UPDATES PAGE",
     "viewLatestButtonLink": "/",
     "newsletterButtonText": "SUBSCRIBE TO ODS NEWSLETTER",
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
         "image": "/latest_doctor_and_patient.png",
-        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "title": "New Release from CCDC",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
         "image": "/latest_nails_net.png",
-        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "title": "Updated Guidance Available - Lorem Ipsum Dolor Sit",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
       },
       {
         "image": "/latest_blue_wheel.png",
-        "title": "New Release from CCDC\nLorem Ipsum Dolor Sit Amet Con",
+        "title": "Register for the Data Sharing Symposium",
         "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
         "readMoreColor": "[rgba(118,231,221,1)]",
         "link": "/updates/ccdc-release"
