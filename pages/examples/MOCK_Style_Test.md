@@ -49,4 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur
 
 ---
 
+<a href="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/refs/heads/main/pages/documents/DSHub_test_file.pdf" target="_blank">Open PDF</a>
+
+
 **Updated:** June 26, 2025
