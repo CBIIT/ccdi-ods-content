@@ -24,23 +24,6 @@ The mission of ODS is to create a comprehensive vision and strategy to enhance b
 
 ## Who We Are
 
-### Table Test Default 1x10
-
-| | |
-|---|---|
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/JaimeGuidryAuvil346x420.png" alt="Jaime M. Guidry Auvil, Ph.D." width="100"/> | Jaime M. Guidry Auvil, Ph.D.<br>Director |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/SubhashiniJagu346x420.png" alt="Subhashini Jagu, Ph.D." width="100"/> | Subhashini Jagu, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-06/EmilyBoja346x420June2023.png" alt="Emily Boja, Ph.D." width="100"/> | Emily Boja, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Freddie%20Pruitt346x420.png" alt="Freddie L. Pruitt III, Ph.D." width="100"/> | Freddie L. Pruitt III, Ph.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Joe%20Flores%20Torres346x420.png" alt="Joe Flores-Toro, Ph.D." width="100"/> | Joe Flores-Toro, Ph.D.<br>Health Scientist Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/BrandonWright346x420.png" alt="Brandon J. Wright, Ph.D." width="100"/> | Brandon J. Wright, Ph.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/HeatherBasehore346x420.png" alt="Heather K. Basehore, Ph.D." width="100"/> | Heather K. Basehore, Ph.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/YingHuang346x420.png" alt="Ying Huang, M.D." width="100"/> | Ying Huang, M.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-10/NathanielBoyd346x420.png" alt="Nathan Boyd, Ph.D." width="100"/> | Nathan Boyd, Ph.D.<br> Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-05/MousumiBio346x420V2.png" alt="Mousumi Ghosh, Ph.D." width="100"/> | Mousumi Ghosh, Ph.D.<br> Health Science Administrator |
-
-### Table Test 2x5
-
 | | | | |
 |---|---|---|---|
 | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/JaimeGuidryAuvil346x420.png" alt="Jaime M. Guidry Auvil, Ph.D." width="100"/> | Jaime M. Guidry Auvil, Ph.D.<br>Director | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/SubhashiniJagu346x420.png" alt="Subhashini Jagu, Ph.D." width="100"/> | Subhashini Jagu, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator |
@@ -48,23 +31,6 @@ The mission of ODS is to create a comprehensive vision and strategy to enhance b
 | <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Joe%20Flores%20Torres346x420.png" alt="Joe Flores-Toro, Ph.D." width="100"/> | Joe Flores-Toro, Ph.D.<br>Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/BrandonWright346x420.png" alt="Brandon J. Wright, Ph.D." width="100"/> | Brandon J. Wright, Ph.D.<br>Health Science Administrator |
 | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/HeatherBasehore346x420.png" alt="Heather K. Basehore, Ph.D." width="100"/> | Heather K. Basehore, Ph.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/YingHuang346x420.png" alt="Ying Huang, M.D." width="100"/> | Ying Huang, M.D.<br>Health Science Administrator |
 | <img src="https://datascience.cancer.gov/sites/default/files/2022-10/NathanielBoyd346x420.png" alt="Nathan Boyd, Ph.D." width="100"/> | Nathan Boyd, Ph.D.<br> Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-05/MousumiBio346x420V2.png" alt="Mousumi Ghosh, Ph.D." width="100"/> | Mousumi Ghosh, Ph.D.<br> Health Science Administrator |
-
-### Table Test 3x4
-
-| | | | | | |
-|---|---|---|---|---|---|
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/JaimeGuidryAuvil346x420.png" alt="Jaime M. Guidry Auvil, Ph.D." width="100"/> | Jaime M. Guidry Auvil, Ph.D.<br>Director | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/SubhashiniJagu346x420.png" alt="Subhashini Jagu, Ph.D." width="100"/> | Subhashini Jagu, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-06/EmilyBoja346x420June2023.png" alt="Emily Boja, Ph.D." width="100"/> | Emily Boja, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Freddie%20Pruitt346x420.png" alt="Freddie L. Pruitt III, Ph.D." width="100"/> | Freddie L. Pruitt III, Ph.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Joe%20Flores%20Torres346x420.png" alt="Joe Flores-Toro, Ph.D." width="100"/> | Joe Flores-Toro, Ph.D.<br>Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/BrandonWright346x420.png" alt="Brandon J. Wright, Ph.D." width="100"/> | Brandon J. Wright, Ph.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/HeatherBasehore346x420.png" alt="Heather K. Basehore, Ph.D." width="100"/> | Heather K. Basehore, Ph.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/YingHuang346x420.png" alt="Ying Huang, M.D." width="100"/> | Ying Huang, M.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-10/NathanielBoyd346x420.png" alt="Nathan Boyd, Ph.D." width="100"/> | Nathan Boyd, Ph.D.<br> Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-05/MousumiBio346x420V2.png" alt="Mousumi Ghosh, Ph.D." width="100"/> | Mousumi Ghosh, Ph.D.<br> Health Science Administrator | | | | |
-
-### Table Test 4x3
-
-| | | | | | | | |
-|---|---|---|---|---|---|---|---|
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-07/JaimeGuidryAuvil346x420.png" alt="Jaime M. Guidry Auvil, Ph.D." width="100"/> | Jaime M. Guidry Auvil, Ph.D.<br>Director | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/SubhashiniJagu346x420.png" alt="Subhashini Jagu, Ph.D." width="100"/> | Subhashini Jagu, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-06/EmilyBoja346x420June2023.png" alt="Emily Boja, Ph.D." width="100"/> | Emily Boja, Ph.D.<br>Branch Chief, Supervisory Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Freddie%20Pruitt346x420.png" alt="Freddie L. Pruitt III, Ph.D." width="100"/> | Freddie L. Pruitt III, Ph.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2023-01/Joe%20Flores%20Torres346x420.png" alt="Joe Flores-Toro, Ph.D." width="100"/> | Joe Flores-Toro, Ph.D.<br>Health Scientist Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/BrandonWright346x420.png" alt="Brandon J. Wright, Ph.D." width="100"/> | Brandon J. Wright, Ph.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/HeatherBasehore346x420.png" alt="Heather K. Basehore, Ph.D." width="100"/> | Heather K. Basehore, Ph.D.<br>Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2022-07/YingHuang346x420.png" alt="Ying Huang, M.D." width="100"/> | Ying Huang, M.D.<br>Health Science Administrator |
-| <img src="https://datascience.cancer.gov/sites/default/files/2022-10/NathanielBoyd346x420.png" alt="Nathan Boyd, Ph.D." width="100"/> | Nathan Boyd, Ph.D.<br> Health Science Administrator | <img src="https://datascience.cancer.gov/sites/default/files/2023-05/MousumiBio346x420V2.png" alt="Mousumi Ghosh, Ph.D." width="100"/> | Mousumi Ghosh, Ph.D.<br> Health Science Administrator | | | | |
 
 ## ODS Guiding Principles of Data Sharing
 
