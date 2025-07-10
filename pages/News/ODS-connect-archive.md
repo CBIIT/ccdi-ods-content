@@ -15,13 +15,14 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ### May 2025
 
-- [Stay Connected with Data Sharing: May](https://nih.sharepoint.com/sites/NCI-CBIIT-OfficeofDataSharing/NCI%20Public%20Documents/Public%20Newsletter%20Archive/2025/Stay%20Connected%20with%20Data%20Sharing%20May.pdf?CT=1748365791777&OR=ItemsView)
-- [Save the Date - ODS Webinar: 2024 Public Access Policy Overview on June 18](https://nih.sharepoint.com/sites/NCI-CBIIT-OfficeofDataSharing/NCI%20Public%20Documents/Public%20Newsletter%20Archive/2025/Save%20the%20Date%20-%20ODS%20Webinar_%202024%20Public%20Access%20Policy%20Overview%20on%20June%2018.pdf?CT=1748365775276&OR=ItemsView)
+- <a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-05-08_Stay_Connected_with_Data_Sharing_May.pdf" target="_blank"> Stay Connected with Data Sharing - May</a>
+
+- <a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-05-22_Save_the_Date_ODS_Webinar_2024_Public_Access_Policy_Overview_on_June_18.pdf" target="_blank"> Save the Date - ODS Webinar: 2024 Public Access Policy Overview on June 18</a>
 
 ### April 2025
 
-- [Register Now for the NCI Office of Data Sharing Inaugural Data Jamboree](https://nih.sharepoint.com/sites/NCI-CBIIT-OfficeofDataSharing/NCI%20Public%20Documents/Public%20Newsletter%20Archive/2025/Register%20Now%20for%20the%20NCI%20Office%20of%20Data%20Sharing%20Inaugural%20Data%20Jamboree.pdf?CT=1745245788197&OR=ItemsView)
-- [Register for the Annual Data Sharing Symposium](https://nih.sharepoint.com/sites/NCI-CBIIT-OfficeofDataSharing/NCI%20Public%20Documents/Public%20Newsletter%20Archive/2025/Register%20for%20the%20Annual%20Data%20Sharing%20Symposium.pdf?CT=1745604784765&OR=ItemsView)
+- Register Now for the NCI Office of Data Sharing Inaugural Data Jamboree
+- Register for the Annual Data Sharing Symposium
 
 ### March 2025
 
