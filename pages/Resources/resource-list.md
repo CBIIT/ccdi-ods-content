@@ -78,7 +78,7 @@ The **Childhood Cancer Survivor Study (CCSS)** is a long-term follow-up study of
 
 ## CIBMTR
 
-The **Center for International Blood & Marrow Transplant Research (CIBMTR)** is a research collaboration that maintains a database of outcomes data on bone marrow transplants and cellular therapies used to treat blood cancers like leukemia and lymphoma. CIBMTR facilitates critical research to improve survival and quality of life for cancer patients receiving these life-saving treatments.
+The **Center for International Blood and Marrow Transplant Research (CIBMTR)** is a research collaboration that maintains a database of outcomes data on bone marrow transplants and cellular therapies used to treat blood cancers like leukemia and lymphoma. CIBMTR facilitates critical research to improve survival and quality of life for cancer patients receiving these life-saving treatments.
 
 [CIBMTR Website](https://cibmtr.org/) | [Data Access](https://cibmtr.org/CIBMTR/Resources/Publicly-Available-Datasets#)
 
@@ -112,11 +112,11 @@ The **Cancer Systems Biology Consortium (CSBC)** is a research consortium that a
 
 [CSBC Website](https://www.cancer.gov/about-nci/organization/dcb/research-programs/csbc) | [Data Access](https://www.cancercomplexity.synapse.org/)
 
-## CTD^2
+## CTD&#178;
 
-The **Cancer Target Discovery and Development (CTD^2)** is a network that systematically identifies and validates cancer therapeutic targets through functional genomics approaches. CTD^2 develops tools and resources to accelerate translation of genomic discoveries into clinical applications.
+The **Cancer Target Discovery and Development (CTD&#178;)** is a network that systematically identifies and validates cancer therapeutic targets through functional genomics approaches. CTD&#178; develops tools and resources to accelerate translation of genomic discoveries into clinical applications.
 
-[CTD^2 Website](https://www.cancer.gov/ccg/research/functional-genomics/ctd2) | [Data Access](https://www.cancer.gov/ccg/research/functional-genomics/ctd2/data-portal)
+[CTD&#178; Website](https://www.cancer.gov/ccg/research/functional-genomics/ctd2) | [Data Access](https://www.cancer.gov/ccg/research/functional-genomics/ctd2/data-portal)
 
 ## DCEG
 
