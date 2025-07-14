@@ -6,9 +6,9 @@ date: 2025-06-20
 
 # Cancer Data Resources
 
-The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key resources supporting the cancer research community.
+The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key data resources supporting the cancer research community.
 
-**Have a resource to suggest?** Contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) to recommend additional data resources for inclusion here.
+**Have a resource to suggest?** Contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov?subject=NCI%20Data%20Sharing%20Hub%20-%20Data%20Resource%20Suggestion) to recommend additional data resources to include here.
 
 ## INS
 
