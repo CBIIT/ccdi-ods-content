@@ -1,12 +1,14 @@
 ---
-title: Resources
+title: Cancer Data Resources
 author: ZD
 date: 2025-06-20
 ---
 
-# Data Portals
+# Cancer Data Resources
 
-The following data sharing resources offer access to data or analysis tools to advance cancer research. This list is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and is not exhaustive.
+The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key resources supporting the cancer research community.
+
+**Have a resource to suggest?** Contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) to recommend additional data resources for inclusion here.
 
 ## INS
 
@@ -308,4 +310,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** July 8, 2025
+**Updated:** July 14, 2025
