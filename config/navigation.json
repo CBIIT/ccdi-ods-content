@@ -6,7 +6,7 @@
       "className": "navMobileItem"
     },
     {
-      "name": "Index of NCI Studies \u2197",
+      "name": "Index of NCI Studies",
       "link": "https://studycatalog.cancer.gov/",
       "className": "navMobileItem"
     },
@@ -21,8 +21,8 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Resources",
-      "link": "/post/Resources/resource-list",
+      "name": "Data",
+      "link": "/post/Data/cancer-data-resources",
       "className": "navMobileItem"
     },
     {

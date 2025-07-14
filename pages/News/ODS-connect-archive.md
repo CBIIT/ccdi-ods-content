@@ -10,6 +10,10 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2025
 
+### June 2025
+
+- <a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-06-05_Register_Now_for_June_18_ODS_Webinar_2024_Public_Access_Policy_Overview.pdf" target="_blank"> Register Now for June 18 ODS Webinar - 2024 Public Access Policy Overview</a>
+
 ### May 2025
 
 - <a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-05-08_Stay_Connected_with_Data_Sharing_May.pdf" target="_blank"> Stay Connected with Data Sharing - May</a>
