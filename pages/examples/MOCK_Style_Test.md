@@ -31,6 +31,7 @@ date: 2025-06-04
 
 [cancer.gov &#8599;](https://cancer.gov)  
 [This page](/post/examples/MOCK_Style_Test)
+[Test Open PDF](https://cbiit.github.io/ccdi-ods-content/pages/documents/DSHub_test_file.pdf){:target="_blank"}
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
@@ -48,8 +49,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur
 &nbsp;  
 
 ---
-
-<a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/DSHub_test_file.pdf" target="_blank">Open PDF</a>
-
 
 **Updated:** June 26, 2025
