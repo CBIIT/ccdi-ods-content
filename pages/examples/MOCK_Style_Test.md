@@ -30,8 +30,8 @@ date: 2025-06-04
 &#8505; Info | &#128204; Pushpin | &#128161; Lightbulb
 
 [cancer.gov &#8599;](https://cancer.gov)  
-[This page](/post/examples/MOCK_Style_Test)
-[Test Open PDF](https://cbiit.github.io/ccdi-ods-content/pages/documents/DSHub_test_file.pdf){:target="_blank"}
+[This page](/post/examples/MOCK_Style_Test)  
+<a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/DSHub_test_file.pdf" target="_blank">Test Open PDF</a>
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
