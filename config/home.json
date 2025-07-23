@@ -34,7 +34,7 @@
     "updates": [
       {
         "image": "/latest_doctor_and_patient.png",
-        "title": "NCI Office of Data Sharing Third Annual Symposium",
+        "title": "NCI Office of Data Sharing Third Annual Symposium TEST TITLE LENGTH 1 EST TITLE LENGTH 2 TEST TITLE LENGTH 3",
         "description": "Join us in person or virtually on September 30 and October 1, 2025 for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium/registration"
@@ -42,14 +42,14 @@
       {
         "image": "/latest_nails_net.png",
         "title": "Childhood Cancer Data Initiative Symposium",
-        "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025.",
+        "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025.\n",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/nci/ccdisymposium/registration"
       },
       {
         "image": "/latest_blue_wheel.png",
         "title": "Notice of Updated Effective Date for the 2024 NIH Public Access Policy",
-        "description": "The NIH Public Access Policy is now effective July 1, 2025. This will allow researchers and the public to have speedier access to NIH-supported findings.",
+        "description": "The NIH Public Access Policy is now effective July 1, 2025. This will allow researchers and the public to have speedier access to NIH-supported findings.\n",
         "readMoreColor": "[#76E7DD]",
         "link": "https://grants.nih.gov/policy-and-compliance/policy-topics/public-access"
       }
