@@ -58,22 +58,22 @@
   "linkList": [
     {
       "title": "Data Sharing Guidance",
-      "titleTextColor": "#7B3D7D",
+      "titleTextColor": "#00756A",
       "links": [
-        { "text": "NIH Scientific Data Sharing Guidance", "link": "#nih-guidance" },
-        { "text": "Data Sharing Basics", "link": "#data-sharing-basics" },
-        { "text": "NCI Scientific Data Sharing Guidance", "link": "#nci-guidance" },
-        { "text": "NCI Requirements for GDS Policy", "link": "#nci-requirements" },
-        { "text": "Cancer Moonshot (PADS) Guidance", "link": "#cancer-moonshot" },
-        { "text": "Tips for Writing a DMS Plan", "link": "#dms-plan-tips" }
+        {"text": "NCI Data Sharing Guidance", "link": "/post/Guidance/nci-datasharing-guidance"},
+        {"text": "NCI Expectations for Genomic Data Sharing (GDS Policy)", "link": "/post/Guidance/genomic-data-sharing"},
+        {"text": "NIH Data Sharing Guidance", "link": "https://sharing.nih.gov"},
+        {"text": "NCI Public Access and Data Policy (PADS)", "link": "/post/Guidance/PADS"},
+        {"text": "How to Write a Data Management and Sharing (DMS) Plan","link": "/post/Guidance/writing-DMSP"}
       ]
     },
     {
       "title": "Data Sharing Process",
       "titleTextColor": "#00756A",
       "links": [
-        { "text": "Submit Non-NIH Funded Study to dbGaP", "link": "#submit-dbgap" },
-        { "text": "Accessing Scientific Data for Re-Use", "link": "#accessing-re-use" }
+        {"text": "Access Cancer Data", "link": "/post/Process/Access-data"},
+        {"text": "Submit Cancer Data","link": "/post/Process/Submit-Data"},
+        {"text": "Submit Cancer Genomic Data from a Non-NCI-Funded Study","link": "/post/Process/non-NIH-funded-study-submission"}
       ]
     }
   ]
