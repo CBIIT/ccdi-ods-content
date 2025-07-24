@@ -33,21 +33,21 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://github.com/CBIIT/ccdi-ods-content/blob/dev/pages/images/stock/Symposium_Collaboration_01.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/Symposium_Collaboration_01.png",
         "title": "NCI Office of Data Sharing Third Annual Symposium",
         "description": "Join us in person or virtually on September 30 and October 1, 2025 for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research. ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium/registration"
       },
       {
-        "image": "https://github.com/CBIIT/ccdi-ods-content/blob/dev/pages/images/custom/CCDI_Communications_Logo_01.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/CCDI_Communications_Logo_01.png",
         "title": "Childhood Cancer Data Initiative Symposium",
         "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025. \n \n  ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/nci/ccdisymposium/registration"
       },
       {
-        "image": "https://github.com/CBIIT/ccdi-ods-content/blob/dev/pages/images/stock/Science_Journal_Stack.jpg",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/Science_Journal_Stack.jpg",
         "title": "Notice of Updated Effective Date for the 2024 NIH Public Access Policy",
         "description": "The NIH Public Access Policy is now effective July 1, 2025. This will allow researchers and the public to have speedier access to NIH-supported findings. ",
         "readMoreColor": "[#76E7DD]",
