@@ -136,7 +136,7 @@ Prostate cancer, the most common non-skin cancer in people with a prostate, rank
 
 The thyroid, a butterfly-shaped gland in the throat, produces hormones controlling heart rate, body temperature, metabolism, and blood calcium levels using iodine. In 2023, the National Cancer Institute's SEER database predicts 43,720 thyroid cancer diagnoses in the US, resulting in 2,120 deaths, with a high five-year survival rate of 98.5 percent. Four main types exist: papillary (85% of cases, highly curable if caught early), follicular (10%, slow-growing and treatable when detected early), medullary (associated with a specific gene mutation and detectable through blood tests), and anaplastic (rare, aggressive, and challenging to treat, mostly affecting older individuals). Risk factors include radiation exposure, family history, and sex assigned at birth.
 
-N[CI resources currently offer at least 5 Thyroid Cancer focused data sets](https://cbiit.github.io/ccdi-ods-content/pages/documents/data-spotlight-cancer-subtypes/Thyroid.xlsx). Additionally, other data sets are also available which include Thyroid Cancer data as part of larger studies encompassing many cancer subtypes.
+[NCI resources currently offer at least 5 Thyroid Cancer focused data sets](https://cbiit.github.io/ccdi-ods-content/pages/documents/data-spotlight-cancer-subtypes/Thyroid.xlsx). Additionally, other data sets are also available which include Thyroid Cancer data as part of larger studies encompassing many cancer subtypes.
 
 ### Uterine Cancer Awareness Month
 
