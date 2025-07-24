@@ -35,21 +35,21 @@
       {
         "image": "https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png?raw=true",
         "title": "NCI Office of Data Sharing Third Annual Symposium",
-        "description": "Join us in person or virtually on September 30 and October 1, 2025 for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research. ",
+        "description": "Join us in person or virtually for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research (Sept 30th and Oct 1st). ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium/registration"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/folder_icon.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/CCDI_Toolkit_Sample_Social_Graphic_2.jpg",
         "title": "Childhood Cancer Data Initiative Symposium",
-        "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025. \n \n  ",
+        "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025. ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/nci/ccdisymposium/registration"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/ODSLifeCycleFINAL_0.png",
-        "title": "Notice of Updated Effective Date for the 2024 NIH Public Access Policy",
-        "description": "The NIH Public Access Policy is now effective July 1, 2025. This will allow researchers and the public to have speedier access to NIH-supported findings. ",
+        "title": "2024 NIH Public Access Policy: New Effective Date",
+        "description": "The NIH Public Access Policy is effective July 1, 2025, allowing researchers and the public to have speedier access to NIH-supported findings. ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://grants.nih.gov/policy-and-compliance/policy-topics/public-access"
       }
