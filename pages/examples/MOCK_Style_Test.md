@@ -36,7 +36,7 @@ date: 2025-06-04
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
-| Row 1 | 999 | Empty below | ![Folder icon](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png?raw=true) |
+| Row 1 | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/folder_icon.png) |
 | Row 2 | Multi-<br>Line | | &alpha; &beta; &delta; &gamma; &mu; |
 
 ---

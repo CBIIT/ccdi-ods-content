@@ -14,8 +14,8 @@ Data sharing allows data generated from one research study to be used to answe
 
 | | |
 |---|---|
-| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) |
-| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) |
+| ![Data cloud icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) |
+| ![Folder icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/folder_icon.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) |
 
 ## Submitting Genomic Data
 
