@@ -8,7 +8,7 @@ date: 2025-06-03
 
 Investigators submitting their genomic research data to an NIH or NCI repository should review the following resources for information on the documents and processes.
 
-![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/stock/dna_art_01_800x335.png)
+![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/stock/dna_art_01_800x335.jpg)
 
 ## Examples of Projects That Fall Under GDS Policy
 
