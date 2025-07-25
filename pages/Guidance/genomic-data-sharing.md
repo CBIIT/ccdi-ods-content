@@ -8,7 +8,7 @@ date: 2025-06-03
 
 Investigators submitting their genomic research data to an NIH or NCI repository should review the following resources for information on the documents and processes.
 
-<img src="https://datascience.cancer.gov/sites/default/files/inline-images/genomicdatasharing_square_2.jpg" alt="Stylized image of double-helix DNA structures overlayed on a circuit board pattern" width="400"/>
+![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/stock/dna_art_01_800x335.png)
 
 ## Examples of Projects That Fall Under GDS Policy
 
