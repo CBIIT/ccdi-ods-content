@@ -34,11 +34,6 @@
       "name": "About",
       "link": "/post/About/About-ODS",
       "className": "navMobileItem"
-    },
-      {
-      "name": "Dev Examples",
-      "link": "/collection/examples/",
-      "className": "navMobileItem clickable"
     }
   ],
 
@@ -56,7 +51,7 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NIH Data Sharing Guidance \u2197",
+        "name": "NIH Data Sharing Guidance",
         "link": "https://sharing.nih.gov",
         "className": "navMobileSubItem"
       },
@@ -104,19 +99,6 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
-        "className": "navMobileSubItem"
-      }
-    ],
-
-    "Dev Examples": [
-      {
-        "name": "MOCK Format Examples",
-        "link": "/post/examples/MOCK_Format_Example",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Style Test",
-        "link": "/post/examples/MOCK_Style_Test",
         "className": "navMobileSubItem"
       }
     ]

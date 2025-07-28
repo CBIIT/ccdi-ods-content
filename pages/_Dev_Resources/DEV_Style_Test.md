@@ -1,5 +1,5 @@
 ---
-title: MOCK Style Test
+title: DEV Style Test
 author: ZD
 date: 2025-06-04
 ---
@@ -29,13 +29,26 @@ date: 2025-06-04
 
 &#8505; Info | &#128204; Pushpin | &#128161; Lightbulb
 
-[cancer.gov &#8599;](https://cancer.gov)  
-[This page](/post/examples/MOCK_Style_Test)
+[External link - cancer.gov](https://cancer.gov)  
+[Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
+[PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+[DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
-| Row 1 | 999 | Empty below | ![Folder icon](https://github.com/CBIIT/ccdi-ods-content/blob/main/pages/images/folder_icon.png?raw=true) |
+| Row 1 | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) |
 | Row 2 | Multi-<br>Line | | &alpha; &beta; &delta; &gamma; &mu; |
+
+## Embedded video
+
+<iframe
+  width="640"
+  height="360"
+  src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a"
+  frameborder="0"
+  allowfullscreen
+  title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
+</iframe>
 
 ---
 
@@ -48,8 +61,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur
 &nbsp;  
 
 ---
-
-<a href="https://cbiit.github.io/ccdi-ods-content/pages/documents/DSHub_test_file.pdf" target="_blank">Open PDF</a>
-
 
 **Updated:** June 26, 2025

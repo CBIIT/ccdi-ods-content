@@ -33,47 +33,47 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "/latest_doctor_and_patient.png",
-        "title": "New Release from CCDC",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Symposium_Collaboration_01.png",
+        "title": "NCI Office of Data Sharing Third Annual Symposium",
+        "description": "Join us in person or virtually for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research (Sept 30th and Oct 1st). ",
         "readMoreColor": "[#76E7DD]",
-        "link": "/updates/ccdc-release"
+        "link": "https://events.cancer.gov/ods/annualdatasharingsymposium/registration"
       },
       {
-        "image": "/latest_nails_net.png",
-        "title": "Test: Updated Guidance Available",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/CCDI_Communications_Logo_01.png",
+        "title": "Childhood Cancer Data Initiative Symposium",
+        "description": "Join us in person or virtually for the Childhood Cancer Data Initiative (CCDI) Symposium on October 6 and 7, 2025. ",
         "readMoreColor": "[#76E7DD]",
-        "link": "/updates/ccdc-release"
+        "link": "https://events.cancer.gov/nci/ccdisymposium/registration"
       },
       {
-        "image": "/latest_blue_wheel.png",
-        "title": "Upcoming Event:\nRegister for the Data Sharing Symposium",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor adipisicing elit, sed do eiusmod tempor incididunt ut labore et do.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
+        "title": "2024 NIH Public Access Policy: New Effective Date",
+        "description": "The NIH Public Access Policy is effective July 1, 2025, allowing researchers and the public to have speedier access to NIH-supported findings. ",
         "readMoreColor": "[#76E7DD]",
-        "link": "/updates/ccdc-release"
+        "link": "https://grants.nih.gov/policy-and-compliance/policy-topics/public-access"
       }
     ]
   },
   "linkList": [
     {
       "title": "Data Sharing Guidance",
-      "titleTextColor": "#7B3D7D",
+      "titleTextColor": "#00756A",
       "links": [
-        { "text": "NIH Scientific Data Sharing Guidance", "link": "#nih-guidance" },
-        { "text": "Data Sharing Basics", "link": "#data-sharing-basics" },
-        { "text": "NCI Scientific Data Sharing Guidance", "link": "#nci-guidance" },
-        { "text": "NCI Requirements for GDS Policy", "link": "#nci-requirements" },
-        { "text": "Cancer Moonshot (PADS) Guidance", "link": "#cancer-moonshot" },
-        { "text": "Tips for Writing a DMS Plan", "link": "#dms-plan-tips" }
+        {"text": "NCI Data Sharing Guidance", "link": "/post/Guidance/nci-datasharing-guidance"},
+        {"text": "NCI Expectations for Genomic Data Sharing (GDS Policy)", "link": "/post/Guidance/genomic-data-sharing"},
+        {"text": "NIH Data Sharing Guidance", "link": "https://sharing.nih.gov"},
+        {"text": "NCI Public Access and Data Policy (PADS)", "link": "/post/Guidance/PADS"},
+        {"text": "How to Write a Data Management and Sharing (DMS) Plan","link": "/post/Guidance/writing-DMSP"}
       ]
     },
     {
       "title": "Data Sharing Process",
       "titleTextColor": "#00756A",
       "links": [
-        { "text": "Submit Non-NIH Funded Study to dbGaP", "link": "#submit-dbgap" },
-        { "text": "Accessing Scientific Data for Re-Use", "link": "#accessing-re-use" }
+        {"text": "Access Cancer Data", "link": "/post/Process/Access-data"},
+        {"text": "Submit Cancer Data","link": "/post/Process/Submit-Data"},
+        {"text": "Submit Cancer Genomic Data from a Non-NCI-Funded Study","link": "/post/Process/non-NIH-funded-study-submission"}
       ]
     }
   ]

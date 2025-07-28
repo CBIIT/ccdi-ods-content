@@ -64,7 +64,7 @@ NCI ODS will register the study in dbGaP - a detailed [study submission guide](h
 
 As a short checklist summarizing the above steps, refer to the following infographic.
 
-![Process Infographic: 1. Complete documentation: Complete and submit the online non-NCI-Funded study information form, Fill in Institutional Certification (IC) form, Share IC with institutional review board for consultation, ask your institutional signing official to sign IC form, sign the IC form. 2. Email IC Form to NCI ODS mailbox. 3. Await Decision: Respond to any question from ODS and await decision (~2 weeks) 4. Submit Metadata and upload data: accept dbGaP invitation to upload metadata within 72 hours. Upload metadata within 2 weeks. Work with NCI repository to upload data within 6 weeks.](https://datascience.cancer.gov/sites/default/files/inline-images/NonNIHFundedResearchersInfographicV13.png "Submitting Non-NCI-Funded Genomic Data")
+![Process Infographic: 1. Complete documentation: Complete and submit the online non-NCI-Funded study information form, Fill in Institutional Certification (IC) form, Share IC with institutional review board for consultation, ask your institutional signing official to sign IC form, sign the IC form. 2. Email IC Form to NCI ODS mailbox. 3. Await Decision: Respond to any question from ODS and await decision (~2 weeks) 4. Submit Metadata and upload data: accept dbGaP invitation to upload metadata within 72 hours. Upload metadata within 2 weeks. Work with NCI repository to upload data within 6 weeks.](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/Non-NIH-Funded-Researchers-Infographic.png "Submitting Non-NCI-Funded Genomic Data")
 
 ## NIH Repositories Data Set Release Expectations
 

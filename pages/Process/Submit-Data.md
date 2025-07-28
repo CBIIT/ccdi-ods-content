@@ -6,7 +6,7 @@ date: 2025-05-30
 
 # Submit Cancer Data
 
-<img src="https://datascience.cancer.gov/sites/default/files/2024-02/SubmittingData-compressed.png" alt="Female doctor in a white lab coat holding a computer tablet in front of her. She is wearing a stethoscope around her neck and you can only see her from the neck up." width="400"/>
+![Stylized image of glowing data node cubes across a blue background that evokes both a circuit board and a map](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_nodes_01_800x335.png)
 
 Data sharing allows data generated from one research study to be used to answer questions beyond the original study. It reinforces open scientific inquiry, encourages diversity of analysis, supports studies on data collection methods and measurement, facilitates the education of new researchers, enables the exploration of topics not envisioned by the initial investigators, and permits the creation of new datasets when data from multiple sources are combined.
 
@@ -14,8 +14,8 @@ Data sharing allows data generated from one research study to be used to answe
 
 | | |
 |---|---|
-| ![Data cloud icon](https://datascience.cancer.gov/sites/default/files/inline-images/submitgenomic-icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) |
-| ![Folder icon](https://datascience.cancer.gov/sites/default/files/inline-images/key-docs-icon_0.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) |
+| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) |
 
 ## Submitting Genomic Data
 

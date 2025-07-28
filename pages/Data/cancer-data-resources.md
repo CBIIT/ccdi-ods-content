@@ -1,10 +1,10 @@
 ---
-title: Cancer Data Resources
+title: Data Resources
 author: ZD
 date: 2025-06-20
 ---
 
-# Cancer Data Resources
+# Data Resources
 
 The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key data resources supporting the cancer research community.
 
@@ -198,11 +198,17 @@ The **Moonshot Biobank** is a cancer-focused biobanking initiative that collects
 
 [Moonshot Biobank Website](https://moonshotbiobank.cancer.gov/) | [Data Access](https://moonshotbiobank.cancer.gov/)
 
-## NCCR
+## NCCR Explorer
 
-The **National Childhood Cancer Registry (NCCR)** is a population-based registry collecting comprehensive data on childhood cancer cases in the United States. NCCR provides surveillance data on pediatric cancer incidence, survival, and trends to support research and public health efforts.
+The **National Childhood Cancer Registry (NCCR) Explorer** is a public web tool for viewing statistics and trends on childhood, adolescent, and young adult cancers in the U.S. Users can explore incidence, survival, and prevalence data using interactive charts and tables.
 
-[NCCR Website](https://nccrexplorer.ccdi.cancer.gov/nccr.html) | [Data Access](https://nccrexplorer.ccdi.cancer.gov/data-products.html)
+[NCCR Explorer Website](https://nccrexplorer.ccdi.cancer.gov/) | [Data Access](https://nccrexplorer.ccdi.cancer.gov/application.html)
+
+## NCCR Data Platform
+
+The **National Childhood Cancer Registry (NCCR) Data Platform** is a secure system for authorized researchers to search, request, and analyze de-identified childhood cancer data. It supports cohort discovery, data visualization, and custom dataset requests.
+
+[NCCR Data Platform Website](https://nccrdataplatform.ccdi.cancer.gov/about) | [Data Access](https://nccrdataplatform.ccdi.cancer.gov/login)
 
 ## NCI-MATCH
 
@@ -310,4 +316,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** July 14, 2025
+**Updated:** July 15, 2025
