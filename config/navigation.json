@@ -34,11 +34,6 @@
       "name": "About",
       "link": "/post/About/About-ODS",
       "className": "navMobileItem"
-    },
-      {
-      "name": "Dev Resources",
-      "link": "/collection/_Dev_Resources/",
-      "className": "navMobileItem clickable"
     }
   ],
 
@@ -104,14 +99,6 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
-        "className": "navMobileSubItem"
-      }
-    ],
-
-    "Dev Resources": [
-      {
-        "name": "DEV Style Test",
-        "link": "/post/_Dev_Resources/DEV_Style_Test",
         "className": "navMobileSubItem"
       }
     ]
