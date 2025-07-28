@@ -36,8 +36,8 @@
       "className": "navMobileItem"
     },
       {
-      "name": "Dev Examples",
-      "link": "/collection/examples/",
+      "name": "Dev Resources",
+      "link": "/collection/_Dev_Resources/",
       "className": "navMobileItem clickable"
     }
   ],
@@ -108,15 +108,10 @@
       }
     ],
 
-    "Dev Examples": [
+    "Dev Resources": [
       {
-        "name": "MOCK Format Examples",
-        "link": "/post/examples/MOCK_Format_Example",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "MOCK Style Test",
-        "link": "/post/examples/MOCK_Style_Test",
+        "name": "DEV Style Test",
+        "link": "/post/_Dev_Resources/DEV_Style_Test",
         "className": "navMobileSubItem"
       }
     ]
