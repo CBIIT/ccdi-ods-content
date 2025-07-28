@@ -8,7 +8,7 @@ date: 2025-06-03
 
 Investigators submitting their genomic research data to an NIH or NCI repository should review the following resources for information on the documents and processes.
 
-![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/stock/dna_art_01_800x335.jpg)
+![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/dna_art_01_800x335.jpg)
 
 ## Examples of Projects That Fall Under GDS Policy
 
@@ -54,11 +54,11 @@ Research that does not meet the above criteria and involves instrument calibrati
 
 | | |
 |---|---|
-| ![DNA file icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/dna_file_icon.png) | [Genomic Data Sharing Policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) |
-| ![Folder icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/folder_icon.png) | [Institutional Certifications](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications)** |
-| ![Gear with checkmark icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/gear_checkmark_icon.png) | [Harmonization of Sharing Plans](https://sharing.nih.gov/genomic-data-sharing-policy/developing-genomic-data-sharing-plans#after) |
-| ![Data cloud icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/cloud_upload_icon.png) | [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data)<br> Follow step-by-step instructions for submitting genomic data sets to dbGaP based on funding category:<br>- [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap) <br> - [Non-NCI Funded Studies](/post/Process/non-NIH-funded-study-submission) |
-| ![Person icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/person_icon.png) | [Contact](https://sharing.nih.gov/genomic-data-sharing-policy/resources/contacts-and-help#gds_support) <br> Find the appropriate Genomic Program Administrator to work with throughout the submission process. |
+| ![DNA file icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/dna_file_icon.png) | [Genomic Data Sharing Policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing/gds-policy-overview) |
+| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Institutional Certifications](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/about-institutional-certifications)** |
+| ![Gear with checkmark icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/gear_checkmark_icon.png) | [Harmonization of Sharing Plans](https://sharing.nih.gov/genomic-data-sharing-policy/developing-genomic-data-sharing-plans#after) |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [Where to Submit Genomic Data](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/where-to-submit-genomic-data)<br> Follow step-by-step instructions for submitting genomic data sets to dbGaP based on funding category:<br>- [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap) <br> - [Non-NCI Funded Studies](/post/Process/non-NIH-funded-study-submission) |
+| ![Person icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/person_icon.png) | [Contact](https://sharing.nih.gov/genomic-data-sharing-policy/resources/contacts-and-help#gds_support) <br> Find the appropriate Genomic Program Administrator to work with throughout the submission process. |
 
 **Please note that General Research Use without any further restricting modifiers allows the maximal benefit of research funded with public dollars and is preferred whenever possible and consistent with informed consent. If disease-specific data use or data-use modifiers are required, please contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) for further guidance.
 

@@ -32,11 +32,11 @@ date: 2025-06-04
 [External link - cancer.gov](https://cancer.gov)  
 [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
 [PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
-[DOCX link - Direct Download](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/documents/test/DSHub_test_file.docx)  
+[DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
-| Row 1 | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/cbiit/ccdi-ods-content/dev/pages/images/icons/folder_icon.png) |
+| Row 1 | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) |
 | Row 2 | Multi-<br>Line | | &alpha; &beta; &delta; &gamma; &mu; |
 
 ## Embedded video
