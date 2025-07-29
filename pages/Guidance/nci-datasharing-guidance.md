@@ -43,90 +43,80 @@ As mentioned in the video, ODS supports data sharing in three main ways. They:
 
 Here's a sampling of data policies applicable to NCI-funded research. For additional policies on NIH data sharing, visit [NIH's Scientific Data Sharing website](https://sharing.nih.gov/other-sharing-policies).
 
-### NIH Data Management and Sharing (DMS) Policy
+### [NIH Data Management and Sharing (DMS) Policy](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview#after)
 
-- **Full Details**: [sharing.nih.gov](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview#after)
+**Effective**: January 25, 2023
 
-- **Effective**: January 25, 2023
-
-- **Applicability**: New applications (Type 1) & competitive renewals (Type 2)
+**Applicability**: New applications (Type 1) & competitive renewals (Type 2)
 Competitive revisions (Type 3) & administrative supplements are not subject to the policy
 
-  Not applicable to research & other activities that do not generate scientific data
+Not applicable to research & other activities that do not generate scientific data
 
-- **Expectations**: Prospectively plan how to preserve & share scientific data
+**Expectations**: Prospectively plan how to preserve & share scientific data
 
-- **Sharing Timelines**: Share scientific data as soon as possible, but not later than the time of associated publication or end of performance period
+**Sharing Timelines**: Share scientific data as soon as possible, but not later than the time of associated publication or end of performance period
 
-- **Data Location(s)**: Repository appropriate for the data generated from the research project, or as in NOFO
+**Data Location(s)**: Repository appropriate for the data generated from the research project, or as in NOFO
 
-- [DMS Policy FAQs](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm)
+[DMS Policy FAQs](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm)
 
-### NIH Genomic Data Sharing (GDS) Policy
+### [NIH Genomic Data Sharing (GDS) Policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing)
 
-- **Full Details**: [sharing.nih.gov](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing)
+**Effective**: January 25, 2015
 
-- **Effective**: January 25, 2015
+**Applicability**: New applications that generate large-scale genomic data & smaller-scale studies (of programmatic priority, or rare diseases)
 
-- **Applicability**: New applications that generate large-scale genomic data & smaller-scale studies (of programmatic priority, or rare diseases)
+Thresholds & assay types clearly defined for meeting GDS
 
-  Thresholds & assay types clearly defined for meeting GDS
+**Expectations**: Include a genomic data sharing plan as part of DMS plan
 
-- **Expectations**: Include a genomic data sharing plan as part of DMS plan
+**Sharing Timelines**: Release lower-level primary data (L2/L3) by 9 months after data generation/QC
 
-- **Sharing Timelines**: Release lower-level primary data (L2/L3) by 9 months after data generation/QC
+Release summary analyses at publication or end of the project period
 
-  Release summary analyses at publication or end of the project period
+**Data Location(s)**: NIH-designated data repositories
 
-- **Data Location(s)**: NIH-designated data repositories
+[GDS Policy FAQs](https://sharing.nih.gov/faqs#/genomic-data-sharing-policy.htm)
 
-- [GDS Policy FAQs](https://sharing.nih.gov/faqs#/genomic-data-sharing-policy.htm)
+### [Cancer Moonshot<sup>SM</sup> Public Access and Data Sharing (PADS) Policy](https://www.cancer.gov/research/key-initiatives/moonshot-cancer-initiative/funding/public-access-policy)
 
-### Cancer Moonshot<sup>SM</sup> Public Access and Data Sharing (PADS) Policy
+**Effective**: October 1, 2017
 
-- **Full Details**: [datasharing.cancer.gov](/post/Guidance/PADS)
+**Applicability**: Cancer Moonshot research project NOFOs, contracts, and intramural projects generating Publications and Underlying Primary Data
 
-- **Effective**: October 1, 2017
+**Expectations**: Submit "Public Access and Data Sharing Plans" that describe proposed process for making publications and the underlying primary data immediately and broadly available to the public.
 
-- **Applicability**: Cancer Moonshot research project NOFOs, contracts, and intramural projects generating Publications and Underlying Primary Data
+**Sharing Timelines**: Immediately and broadly available
 
-- **Expectations**: Submit "Public Access and Data Sharing Plans" that describe proposed process for making publications and the underlying primary data immediately and broadly available to the public.
+**Data Location(s)**: an appropriate data repository such as the [Genomic Data Commons](https://gdc.cancer.gov/), [dbGaP](https://www.ncbi.nlm.nih.gov/gap/), [TCIA](http://www.cancerimagingarchive.net/), or a [non-NIH repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) that conforms with the principles articulated in this Policy
 
-- **Sharing Timelines**: Immediately and broadly available
+### [Dissemination of NIH-Funded Clinical Trial Information Policy](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/nih-policy)
 
-- **Data Location(s)**: an appropriate data repository such as the [Genomic Data Commons](https://gdc.cancer.gov/), [dbGaP](https://www.ncbi.nlm.nih.gov/gap/), [TCIA](http://www.cancerimagingarchive.net/), or a [non-NIH repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) that conforms with the principles articulated in this Policy
+**Effective**: January 18, 2017
 
-### Dissemination of NIH-Funded Clinical Trial Information Policy
+**Applicability**: All clinical trials funded in whole or in part by NIH
 
-- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/nih-policy)
+**Expectations**: Submit a plan for dissemination of clinical trial information as part of DMS plan
 
-- **Effective**: January 18, 2017
+**Sharing Timelines**: Registration within 21 days of first enrollment; results not later than 1 year after primary completion date
 
-- **Applicability**: All clinical trials funded in whole or in part by NIH
+**Data Location(s)**: ClinicalTrials.org
 
-- **Expectations**: Submit a plan for dissemination of clinical trial information as part of DMS plan
+[NIH Clinical Trial Dissemination Policy FAQs](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/steps)
 
-- **Sharing Timelines**: Registration within 21 days of first enrollment; results not later than 1 year after primary completion date
+### [Intramural Research Program Human Data Sharing (HDS) Policy](https://oir.nih.gov/sourcebook/intramural-program-oversight/intramural-data-sharing/human-data-sharing)
 
-- **Data Location(s)**: ClinicalTrials.org
+**Effective**: October 1, 2015
 
-- [NIH Clinical Trial Dissemination Policy FAQs](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/steps)
+**Applicability**: Intramural research activities resulting in human data collection, including human subjects data, and human data needed to validate research findings in publications regardless of where data originated
 
-### Intramural Research Program Human Data Sharing (HDS) Policy
+**Expectations**: Develop a Data Sharing Plan as part of DMS plan
 
-- **Full Details**: [oir.nih.gov](https://oir.nih.gov/sourcebook/intramural-program-oversight/intramural-data-sharing/human-data-sharing)
+Enable broad data sharing
 
-- **Effective**: October 1, 2015
+**Sharing Timelines**: No later than publication
 
-- **Applicability**: Intramural research activities resulting in human data collection, including human subjects data, and human data needed to validate research findings in publications regardless of where data originated
-
-- **Expectations**: Develop a Data Sharing Plan as part of DMS plan
-
-  Enable broad data sharing
-
-- **Sharing Timelines**: No later than publication
-
-- **Data Location(s)**: Publicly accessible research repositories, as appropriate
+**Data Location(s)**: Publicly accessible research repositories, as appropriate
 
 ## What Resources are Available?
 
