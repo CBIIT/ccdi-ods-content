@@ -11,17 +11,17 @@
       "className": "navMobileItem"
     },
     {
-      "name": "Guidance",
+      "name": "Data Sharing Guidance",
       "link": "/collection/Guidance",
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Process",
+      "name": "Data Sharing Process",
       "link": "/collection/Process",
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data",
+      "name": "Data Sharing Tools & Resources",
       "link": "/post/Data/cancer-data-resources",
       "className": "navMobileItem"
     },
@@ -39,7 +39,7 @@
 
   "navbarSublists": {
     
-    "Guidance": [
+    "Data Sharing Guidance": [
       {
         "name": "NCI Data Sharing Guidance",
         "link": "/post/Guidance/nci-datasharing-guidance",
@@ -67,7 +67,7 @@
       }
     ],
 
-    "Process":[
+    "Data Sharing Process":[
       {
         "name": "Access Cancer Data",
         "link": "/post/Process/Access-data",
