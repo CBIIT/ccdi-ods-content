@@ -32,8 +32,8 @@
     },
     {
       "name": "About",
-      "link": "/post/About/About-ODS",
-      "className": "navMobileItem"
+      "link": "/post/About",
+      "className": "navMobileItem clickable"
     }
   ],
 
@@ -99,6 +99,19 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
+        "className": "navMobileSubItem"
+      }
+    ],
+    
+    "About": [
+      {
+        "name": "About the Office of Data Sharing",
+        "link": "/post/About/About-ODS",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "ODS Guiding Principles of Data Sharing",
+        "link": "/post/About/ODS-Guiding-Principles",
         "className": "navMobileSubItem"
       }
     ]
