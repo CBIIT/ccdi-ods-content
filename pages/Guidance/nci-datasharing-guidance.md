@@ -17,6 +17,7 @@ In short, when you have a question about how and when to share your NCI-funded r
 NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director [Dr. Jaime Guidry Auvil](https://datascience.cancer.gov/content/jaime-m-guidry-auvil-phd) will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
 
 <iframe
+  width=800
   src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a"
   frameborder="0"
   allowfullscreen
