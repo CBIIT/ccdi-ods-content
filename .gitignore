@@ -1,3 +1,6 @@
+# Testing pages to remove from main branch
+pages/_Dev_Resources
+
 # macOS system files
 .DS_Store
 .AppleDouble
