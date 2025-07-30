@@ -23,6 +23,8 @@ NCI's data sharing approach starts and ends with the patient in mind. So, what d
   title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
 </iframe>
 
+&nbsp;
+
 As mentioned in the video, ODS supports data sharing in three main ways. They:
 
 - advise on programs that define impactful data and resources,
