@@ -6,10 +6,6 @@ date: 2025-05-30
 
 # NCI Data Sharing Guidance
 
-Looking for information on sharing NCI-funded cancer research data? This page details the people, policies, requirements, and resources you need to start sharing your data.
-
-## How Does NCI Approach Data Sharing, Management, and Access?
-
 If you're generating, collecting, leveraging, or managing NCI-funded research data, you'll need to stay up to date on the latest data sharing requirements.
 
 NCI established the [Office of Data Sharing](https://datascience.cancer.gov/about/organization/office-data-sharing-ods) (ODS) to help you navigate these requirements. This team is your primary source for information on the policies and processes for sharing and using research data.
@@ -21,8 +17,6 @@ In short, when you have a question about how and when to share your NCI-funded r
 NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director [Dr. Jaime Guidry Auvil](https://datascience.cancer.gov/content/jaime-m-guidry-auvil-phd) will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
 
 <iframe
-  width="640"
-  height="360"
   src="https://nci.rev.vbrick.com/embed?id=a938aa7e-3d6e-4dfa-94b5-18ceae3c179a"
   frameborder="0"
   allowfullscreen
@@ -140,19 +134,9 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 - [OER/OSP Guidance on Informed Consent for Secondary Research with Data and Biospecimens](https://osp.od.nih.gov/wp-content/uploads/Informed-Consent-Resource-for-Secondary-Research-with-Data-and-Biospecimens.pdf): Use this templated language to write your informed consent documents and maximize data sharing.
 
-### Writing a Plan
+### Projects
 
-- [Writing Applicable Activity Codes](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
-
-- [DMPTool](https://www.nnlm.gov/guides/data-glossary/data-management-planning-tool-dmptool): Sign up to use this free software, which will walk you through creating DMS plans based on NIH templates.
-
-- [NIH Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/): Write your DMS plan using one, or preferably both, templates offered by the Federal Demonstration Partnership. After you use these pilot templates, be sure you give feedback! This will help NIH create an NIH-wide plan template in the future.
-
-- [Tips for Writing a DMS Plan](https://datascience.cancer.gov/training/improve-data-science-skills/training-library/how-to-write-data-sharing-plan): Read these quick tips to help you write your plan for NCI-funded or sponsored research.
-
-- [Glossary for Broad Data Types for DMS Plans](https://datascience.cancer.gov/data-sharing/glossary-data-types-terms-data-management-plan): Review this glossary to get ideas for accurately describing your research data.
-
-- [NIH-Supported Scientific Data Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data): For examples, explore this list of repositories which house various types of data.
+- NCI’s [Informatics Technology for Cancer Research (ITCR) Program](https://itcr.cancer.gov/) has training courses available via the [ITCR Training Network](https://www.itcrtraining.org/). The course, “[Ethical Data Handling for Cancer Research](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/index.html)” has tips on data privacy, security, sharing, and ethics.
 
 ## Need More Help?
 
