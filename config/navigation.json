@@ -56,11 +56,6 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NCI Public Access and Data Policy (PADS)",
-        "link": "/post/Guidance/PADS",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "How to Write a Data Management and Sharing (DMS) Plan",
         "link": "/post/Guidance/writing-DMSP",
         "className": "navMobileSubItem"

@@ -80,7 +80,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 ### Cancer Moonshot<sup>SM</sup> Public Access and Data Sharing (PADS) Policy
 
-- **Full Details**: [datasharing.cancer.gov](/post/Guidance/PADS)
+- **Full Details**: [cancer.gov](https://www.cancer.gov/grants-training/policies-process/nci-policies#:~:text=The%20NCI%20Cancer%20Moonshot%20Public%20Access%20and%20Data%20Sharing%20Policy)
 
 - **Effective**: October 1, 2017
 
