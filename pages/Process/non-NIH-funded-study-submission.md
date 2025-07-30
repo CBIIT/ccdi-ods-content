@@ -1,10 +1,10 @@
 ---
-title: Submit Cancer Genomic Data from a Non-NCI-Funded Study
+title: Request to Submit Cancer Genomic Data from a Non-NIH-Funded Study
 author: ODS; Transcribed ZD
 date: 2025-05-30
 ---
 
-# Submit Cancer Genomic Data from a Non-NCI-Funded Study
+# Request to Submit Cancer Genomic Data from a Non-NIH-Funded Study
 
 If your study is not funded by NCI, you may still be able to share your genomic and other -omics study data through an NIH repository. An NCI subcommittee will review each application on a case-by-case basis considering the scientific value of the data, its usage of NIH resources, and the data use limitations (DULs). NCI will only accept data that complies with NIH's [Genomic Data Sharing (GDS) Policy](https://datascience.cancer.gov/data-sharing/genomic-data-sharing/about-the-genomic-data-sharing-policy). Though this process will register your study through the database of Genotypes and Phenotypes (dbGaP), NCI may deposit your data into [any NIH repository](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
 
