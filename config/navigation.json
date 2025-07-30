@@ -16,12 +16,12 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data Sharing Process",
+      "name": "Data Sharing Processes",
       "link": "/collection/Process",
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data Sharing Tools & Resources",
+      "name": "Data Tools & Resources",
       "link": "/post/Data/cancer-data-resources",
       "className": "navMobileItem"
     },
@@ -67,7 +67,7 @@
       }
     ],
 
-    "Data Sharing Process":[
+    "Data Sharing Processes":[
       {
         "name": "Access Cancer Data",
         "link": "/post/Process/Access-data",
