@@ -1,10 +1,10 @@
 ---
-title: Data Resources
+title: Tools and Resources
 author: ZD
 date: 2025-06-20
 ---
 
-# Data Resources
+# Tools and Resources
 
 The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key data resources supporting the cancer research community.
 

@@ -14,7 +14,7 @@ Please note that this isn't an exhaustive description of what's needed for NIH. 
 
 The DMS Plan reflects NIH's 2023 DMS Policy. With this policy, NIH is looking to significantly expand data sharing, ensuring that the research community has timely access to NIH-funded scientific data. (For general information on NIH policy expectations for sharing research data, visit the [Scientific Data Sharing](https://sharing.nih.gov/data-management-and-sharing-policy) website.)
 
-## Do I Need a DMS Plan?
+## When is a DMS Plan Required?
 
 The policy pertains to you if:
 
@@ -43,20 +43,9 @@ Want to know more about the "gift of data" and what it means for today's cancer 
 
 NIH identified six key elements to consider in your plan. Those core elements will help ensure that the data you collect, manage, and share have a meaningful impact on future research. For additional guidance, see the "[Supplemental Information to the NIH Policy for Data Management and Sharing: Elements of a Data Management and Sharing Plan](https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-014.html)."
 
-### What Format Works Best?
+### What are the Six Core Elements that I Need to Address?
 
-The format you use can vary. To keep it simple, you might want to consider using a template, such as a table, to capture important details about your data and your approach to managing and sharing those data. Below is an example of some key items to capture in your DMS Plan.
-
-| Data Types to be Generated/Collected | Data to be Shared | Brief Description of Methodology (Including Timelines) | Software/Codes for Accessing/Manipulating Data | Data Standards | Name(s) of Repositories | Estimated Data Sharing Timelines | Oversight of DMS |
-|---|---|---|---|---|---|---|---|
-| Genomics/Genetics | Yes, all data sets | 200 human subjects before and after therapy | GATK -- open source | FASTQ, BAM, VCF (HG38) HTAN model | SRA | Submission: L2/L3 data to SRA by June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
-| Clinical Data (Routine Care and Clinical Research) | Yes, all data sets | 200 human subjects before and after therapy | No special software needed to access and use the data | JSON, CaDSR | dbGaP deidentified (Safe Harbor) | Submission: June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
-
-For additional ideas on formatting your DMS Plan, visit the [Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/). There, you'll find pilot templates to help you create your DMS Plan.
-
-## What are the Six Core Elements that I Need to Address?
-
-### Element 1: Describe Your Data
+#### Element 1: Describe Your Data
 
 Describe the types and amounts of data that you expect to generate, manage, preserve, and share. You'll want to acknowledge any differences in the data you'll be working with (i.e., data you generate/collect vs. existing data you manage and use in your research) and give a justification for any data you won't be sharing. Be sure to include:
 
@@ -73,7 +62,7 @@ Describe the types and amounts of data that you expect to generate, manage, pres
 
 **TIP:** *NCI's Office of Data Sharing strongly recommends that you include data types described in your research strategy section in the DMS Plan. This will create consistency between the research proposal and the DMS Plan, and also make progress reporting easier.*
 
-### Element 2: Describe the Tools, Software, or Code Needed to Access and Manipulate Your Data
+#### Element 2: Describe the Tools, Software, or Code Needed to Access and Manipulate Your Data
 
 Describe any specialized tools, software, and/or code that others will need to access or work with your shared scientific data. Be sure to include:
 
@@ -82,7 +71,7 @@ Describe any specialized tools, software, and/or code that others will need to a
 
 **TIP:** *Whenever possible, NIH encourages the use of open-source code and tools to ensure broad and equitable data access and reuse.*
 
-### Element 3: Define the Standards You'll Be Using With Your Data
+#### Element 3: Define the Standards You'll Be Using With Your Data
 
 Describe the metadata and standards you'll use to improve your data's operability. Be sure to include:
 
@@ -91,7 +80,7 @@ Describe the metadata and standards you'll use to improve your data's operabilit
 
 **TIP:** *In setting your data standards, NIH encourages you to follow well-accepted practices in the cancer research field. Apply those standards to vocabularies, terminologies, ontologies, and data models; formats; analytical approaches; and metadata. See the Resources section for specific examples. Also, be sure to check with bioinformaticians (e.g., core facilities) and librarians at your institutions.*
 
-### Element 4: Explain How You Will Preserve Your Data and When Those Data Will be Made Available (Including Four Sub-Elements)
+#### Element 4: Explain How You Will Preserve Your Data and When Those Data Will be Made Available (Including Four Sub-Elements)
 
 Describe how and when you'll be archiving your scientific data and metadata. Be sure to include:
 
@@ -112,7 +101,7 @@ Describe how and when you'll be archiving your scientific data and metadata. Be 
 - *Your repository(ies) may include [Generalist Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/generalist-repositories), unless otherwise specified by the funding opportunity announcements or NCI-specific policy(ies).*
 - *If you plan on depositing data into one of [NCI's Cancer Research Data Commons (CRDC) repositories](https://datascience.cancer.gov/data-commons/repositories), such as [GDC](https://gdc.cancer.gov/), [PDC](https://pdc.cancer.gov/pdc/), [CDS](https://datacommons.cancer.gov/repository/cancer-data-service), [ICDC](https://datacommons.cancer.gov/repository/integrated-canine-data-commons), be aware that you'll need prior approval.*
 
-### Element 5: Explain How Data Users Will Access and Reuse Your Data
+#### Element 5: Explain How Data Users Will Access and Reuse Your Data
 
 Describe how others can access and reuse your scientific data for each data type. [Find examples of justifiable reasons for limiting the sharing of data](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm?anchor=56549). Be sure to include:
 
@@ -128,7 +117,7 @@ Describe how others can access and reuse your scientific data for each data type
 - *Include any restrictions imposed by federal, Tribal, or state laws, regulations, or policies.*
 - *Consider any existing or anticipated agreements (e.g., with third-party funders, partners, and/or HIPAA-covered entities). Those agreements may require additional protections on health information that could impact your DMS Plan.*
 
-### Element 6: Describe the Oversight of Your Data Management and Sharing
+#### Element 6: Describe the Oversight of Your Data Management and Sharing
 
 Describe how you'll govern your DMS Plan. Be sure to include:
 
@@ -136,6 +125,17 @@ Describe how you'll govern your DMS Plan. Be sure to include:
 - the approach and schedule they'll use for monitoring your plan.
 
 **TIP:** *When submitting your application, remember to include the costs you'll incur in managing and sharing your data. Break down those costs into categories (e.g., personnel, equipment, supplies, and other expenses).*
+
+### What Format Works Best?
+
+The format you use can vary. To keep it simple, you might want to consider using a template, such as a table, to capture important details about your data and your approach to managing and sharing those data. Below is an example of some key items to capture in your DMS Plan.
+
+| Data Types to be Generated/Collected | Data to be Shared | Brief Description of Methodology (Including Timelines) | Software/Codes for Accessing/Manipulating Data | Data Standards | Name(s) of Repositories | Estimated Data Sharing Timelines | Oversight of DMS |
+|---|---|---|---|---|---|---|---|
+| Genomics/Genetics | Yes, all data sets | 200 human subjects before and after therapy | GATK -- open source | FASTQ, BAM, VCF (HG38) HTAN model | SRA | Submission: L2/L3 data to SRA by June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
+| Clinical Data (Routine Care and Clinical Research) | Yes, all data sets | 200 human subjects before and after therapy | No special software needed to access and use the data | JSON, CaDSR | dbGaP deidentified (Safe Harbor) | Submission: June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
+
+For additional ideas on formatting your DMS Plan, visit the [Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/). There, you'll find pilot templates to help you create your DMS Plan.
 
 ## DMS Plan Resources, Tools, and Initiatives
 
@@ -146,6 +146,10 @@ Now that you have a sense of what your plan should contain, use the following re
 - [DMS Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan): Learn what NIH expects in a DMS Plan and get additional direction on developing a plan.
 - Repositories: Visit our [NCI Data Catalog](https://datascience.cancer.gov/resources/nci-data-catalog) for a list of data collections produced by major NCI initiatives and other widely used data sets. Also, [visit the NIH Scientific Data Sharing website](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) for a full list of NIH-supported repositories.
 - [Training Modules](https://www.nigms.nih.gov/training/pages/clearinghouse-for-training-modules-to-enhance-data-reproducibility.aspx): Watch these training modules on how to enhance data reproducibility.
+- [Writing Applicable Activity Codes](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
+- [DMPTool](https://www.nnlm.gov/guides/data-glossary/data-management-planning-tool-dmptool): Sign up to use this free software, which will walk you through creating DMS plans based on NIH templates.
+- [NIH Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/): Write your DMS plan using one, or preferably both, templates offered by the Federal Demonstration Partnership. After you use these pilot templates, be sure you give feedback! This will help NIH create an NIH-wide plan template in the future.
+- [NIH-Supported Scientific Data Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data): For examples, explore this list of repositories which house various types of data.
 
 ### Tools to Help Standardize Data
 
@@ -172,10 +176,6 @@ Now that you have a sense of what your plan should contain, use the following re
 - [Your Guide to the 2023 NIH Data Management and Sharing Policy](https://datascience.cancer.gov/news-events/blog/your-guide-2023-nih-data-management-and-sharing-policy): See the differences between the most recent 2023 policy and the older 2003 version.
 - [Breaking Down Barriers to Sharing Cancer Data---The NIH Generalist Repository Ecosystem Initiative](https://datascience.cancer.gov/news-events/blog/breaking-down-barriers-sharing-cancer-data-nih-generalist-repository-ecosystem): Discover how NIH is working to make generalist repositories (GRs) part of the data sharing ecosystem. The goal is to minimize sharing barriers while still taking advantage of GR convenience and usability.
 - [Data Sharing Advocacy---How a Cancer Survivor Seeks to Enhance Data Sharing to Better the Patient Experience](https://datascience.cancer.gov/news-events/blog/data-sharing-advocacy-cancer-survivor-better-patient-experience): Read this personal testimony from Mr. Steve Friedman---a cancer survivor and NCI employee---who has witnessed firsthand the power of data science and sharing tools.
-
-### Projects
-
-- NCI's [Informatics Technology for Cancer Research (ITCR) Program](https://itcr.cancer.gov/) has training courses available via the [ITCR Training Network](https://www.itcrtraining.org/). The course, "[Ethical Data Handling for Cancer Research](https://hutchdatascience.org/Ethical_Data_Handling_for_Cancer_Research/index.html)" has tips on data privacy, security, sharing, and ethics.
 
 ### Publications
 

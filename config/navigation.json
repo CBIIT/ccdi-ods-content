@@ -16,12 +16,12 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data Sharing Process",
+      "name": "Data Sharing Processes",
       "link": "/collection/Process",
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data Sharing Tools & Resources",
+      "name": "Data Tools & Resources",
       "link": "/post/Data/cancer-data-resources",
       "className": "navMobileItem"
     },
@@ -32,8 +32,8 @@
     },
     {
       "name": "About",
-      "link": "/post/About/About-ODS",
-      "className": "navMobileItem"
+      "link": "/post/About",
+      "className": "navMobileItem clickable"
     }
   ],
 
@@ -56,18 +56,13 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "NCI Public Access and Data Policy (PADS)",
-        "link": "/post/Guidance/PADS",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "How to Write a Data Management and Sharing (DMS) Plan",
         "link": "/post/Guidance/writing-DMSP",
         "className": "navMobileSubItem"
       }
     ],
 
-    "Data Sharing Process":[
+    "Data Sharing Processes":[
       {
         "name": "Access Cancer Data",
         "link": "/post/Process/Access-data",
@@ -99,6 +94,19 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
+        "className": "navMobileSubItem"
+      }
+    ],
+    
+    "About": [
+      {
+        "name": "About the Office of Data Sharing",
+        "link": "/post/About/About-ODS",
+        "className": "navMobileSubItem"
+      },
+      {
+        "name": "ODS Guiding Principles of Data Sharing",
+        "link": "/post/About/ODS-Guiding-Principles",
         "className": "navMobileSubItem"
       }
     ]
