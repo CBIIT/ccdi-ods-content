@@ -1,7 +1,7 @@
 ---
 title: ODS Guiding Principles of Data Sharing
 author: ODS; Transcribed ZD
-date: 2025-07-39
+date: 2025-07-31
 ---
 
 # ODS Guiding Principles of Data Sharing
