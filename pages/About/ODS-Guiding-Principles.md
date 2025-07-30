@@ -6,6 +6,8 @@ date: 2025-07-31
 
 # ODS Guiding Principles of Data Sharing
 
+## Effective Data Sharing
+
 When sharing research data, follow these Office of Data Sharing (ODS) principles to make your shared data as impactful and reusable as possible for the broader research community:
 
 - Designate data for “General Research Use” when you seek informed consent from research participants. This means others can use the data for research purposes only.
