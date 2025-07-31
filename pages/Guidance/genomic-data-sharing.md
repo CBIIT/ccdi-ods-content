@@ -12,7 +12,7 @@ Investigators submitting their genomic research data to an NIH or NCI repository
 
 ## Examples of Projects That Fall Under GDS Policy
 
-The GDS Policy applies to all NCI-funded research that generates large-scale human or non-human genomic data, as well as the use of these data for subsequent research. NCI may choose to apply the GDS Policy to projects generating smaller scale genomic data depending on the state of the science, the needs of the research community, and programmatic priorities. Investigators should consult with appropriate NCI Program Officers or Intramural Scientific Directors as early as possible in the genomic research planning process.
+The GDS Policy applies to all NCI-funded research that generates large-scale human or non-human genomic data, as well as the use of these data for subsequent research. NCI may choose to apply the GDS Policy to projects generating smaller scale genomic data depending on the state of the science, the needs of the research community, and programmatic priorities. Investigators should consult with corresponding NCI Program Officers or Intramural Scientific Directors as early as possible in the genomic research planning process.
 
 ## General Guidelines for Large-Scale Research Projects
 
@@ -101,4 +101,4 @@ Research that does not meet the above criteria and involves instrument calibrati
 
 ---
 
-**Updated:** July 14, 2025
+**Updated:** July 31, 2025

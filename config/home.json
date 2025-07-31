@@ -63,7 +63,6 @@
         {"text": "NCI Data Sharing Guidance", "link": "/post/Guidance/nci-datasharing-guidance"},
         {"text": "NCI Expectations for Genomic Data Sharing (GDS Policy)", "link": "/post/Guidance/genomic-data-sharing"},
         {"text": "NIH Data Sharing Guidance", "link": "https://sharing.nih.gov"},
-        {"text": "NCI Public Access and Data Policy (PADS)", "link": "/post/Guidance/PADS"},
         {"text": "How to Write a Data Management and Sharing (DMS) Plan","link": "/post/Guidance/writing-DMSP"}
       ]
     },
