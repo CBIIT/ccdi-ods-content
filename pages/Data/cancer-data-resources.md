@@ -54,6 +54,12 @@ The **Barrett's Esophagus Translational Research Network (BETRNet)** is a transl
 
 [BETRNet Website](https://prevention.cancer.gov/major-programs/barretts-esophagus-translational-research-network-betrnet) | [Data Access](https://www.vumc.org/cqs/statistical-data-centers)
 
+## CAP-IT
+
+The **Cancer Prevention-Interception Targeted Agent Discovery Program (CAP-IT)** is a collaborative research initiative focused on discovering and developing agents that can prevent or intercept cancer at its earliest stages in higher-risk cohorts. CAP-IT utilizes precision cancer prevention-interception to support the identification, validation, and advancement of novel preventive agents and strategies. Datasets associated with CAP-IT are inventoried in the CAP-IT Data Sharing Catalog.
+
+[CAP-IT Website](https://prevention.cancer.gov/research-areas/networks-consortia-programs/cap-it) | [Data Access](https://ncicapit.org/en/resources/data/)
+
 ## CCBIR
 
 **Cellular Cancer Biology Imaging Research (CCBIR)** is a research program focused on developing and applying advanced imaging technologies to study cancer biology. Supports development of imaging tools and techniques to visualize cellular processes in cancer development and treatment.
@@ -316,4 +322,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** July 31, 2025
+**Updated:** August 7, 2025
