@@ -56,7 +56,7 @@ The **Barrett's Esophagus Translational Research Network (BETRNet)** is a transl
 
 ## CAP-IT
 
-The **Cancer Prevention-Interception Targeted Agent Discovery Program (CAP-IT)** is a collaborative research initiative focused on discovering and developing agents that can prevent or intercept cancer at its earliest stages in higher-risk cohorts. CAP-IT utilizes precision cancer prevention-interception to support the identification, validation, and advancement of novel preventive agents and strategies.
+The **Cancer Prevention-Interception Targeted Agent Discovery Program (CAP-IT)** is a collaborative research initiative focused on discovering and developing agents that can prevent or intercept cancer at its earliest stages in higher-risk cohorts. CAP-IT utilizes precision cancer prevention-interception to support the identification, validation, and advancement of novel preventive agents and strategies. Datasets associated with CAP-IT are inventoried in the CAP-IT Data Sharing Catalog.
 
 [CAP-IT Website](https://prevention.cancer.gov/research-areas/networks-consortia-programs/cap-it) | [Data Access](https://ncicapit.org/en/resources/data/)
 
@@ -322,4 +322,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** August 8, 2025
+**Updated:** August 7, 2025
