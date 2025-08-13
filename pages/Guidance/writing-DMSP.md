@@ -8,11 +8,11 @@ date: 2025-05-30
 
 If you're a researcher seeking NIH funding, you're likely aware that you need to prepare and submit a detailed Data Management and Sharing (DMS) Plan along with your funding application. In this article, we'll highlight key components of this DMS Plan.
 
-Please note that this isn't an exhaustive description of what's needed for NIH. For detailed instructions, we encourage you to refer to the [application guide](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan#after), as well as requirements outlined in your funding opportunity.
+Please note that this isn't an exhaustive description of what's needed for NIH. For detailed instructions, we encourage you to refer to the [application guide](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/writing-dms-plan), as well as requirements outlined in your funding opportunity.
 
 ## What is a DMS Plan?
 
-The DMS Plan reflects NIH's 2023 DMS Policy. With this policy, NIH is looking to significantly expand data sharing, ensuring that the research community has timely access to NIH-funded scientific data. (For general information on NIH policy expectations for sharing research data, visit the [Scientific Data Sharing](https://sharing.nih.gov/data-management-and-sharing-policy) website.)
+The DMS Plan reflects NIH's 2023 DMS Policy. With this policy, NIH is looking to significantly expand data sharing, ensuring that the research community has timely access to NIH-funded scientific data. (For general information on NIH policy expectations for sharing research data, visit the [Scientific Data Sharing](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms) website.)
 
 ## When is a DMS Plan Required?
 
@@ -27,7 +27,7 @@ The 2023 DMS Policy defines scientific data as recorded, factual information tha
 
 ### Other Considerations
 
-In addition to the 2023 DMS Policy, there may be other policies that apply to your work. For example, if you're conducting large-scale genomic research, your DMS Plan should include elements described in the NIH [Genomics Data Sharing (GDS) Policy](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing) (e.g., type of genomic assay, number of subjects and timeline for submission to an NIH-designated repository, etc.). NIH's GDS Policy applies to all NIH-funded research (e.g., grants, contracts, intramural research, regardless of funding level) that generates or reuses genomic data from large-scale human or non-human research.
+In addition to the 2023 DMS Policy, there may be other policies that apply to your work. For example, if you're conducting large-scale genomic research, your DMS Plan should include elements described in the NIH [Genomics Data Sharing (GDS) Policy](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/overview) (e.g., type of genomic assay, number of subjects and timeline for submission to an NIH-designated repository, etc.). NIH's GDS Policy applies to all NIH-funded research (e.g., grants, contracts, intramural research, regardless of funding level) that generates or reuses genomic data from large-scale human or non-human research.
 
 ## Why Do I Need a DMS Plan?
 
@@ -85,7 +85,7 @@ Describe the metadata and standards you'll use to improve your data's operabilit
 Describe how and when you'll be archiving your scientific data and metadata. Be sure to include:
 
 - the names of the repository(ies) where you will preserve and share your data.
-  - [Learn more about selecting a repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/selecting-a-data-repository).
+  - [Learn more about selecting a repository](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/selecting-a-data-repository).
 - a timeline for when the data will be available to other researchers.
   - You should share your results as soon as possible (i.e., by the time you publish your first results or by the end of the performance period, *whichever comes first*.)
 - an estimate for how long you will preserve and share your data.
@@ -98,12 +98,12 @@ Describe how and when you'll be archiving your scientific data and metadata. Be 
 - *When setting realistic timelines for preserving and sharing your data, be sure to consider tasks that could alter your data sharing timeline (e.g., repository policies, award record retention requirements, journal publication schedules). You'll need to indicate if any of your data subsets have different timelines. If you're completing a GDS and DMS Plan, be sure the timelines align and meet policy expectations.*
 - *Make certain your data are FAIR (i.e., findable, accessible, interoperable, and reusable) and include any necessary digital object identifiers, accession numbers, and hyperlinks to data sets.*
 - *You may deposit different types of data from the same participants into several repositories, as long as the secondary users are aware of where to find and access those data sets.*
-- *Your repository(ies) may include [Generalist Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/generalist-repositories), unless otherwise specified by the funding opportunity announcements or NCI-specific policy(ies).*
-- *If you plan on depositing data into one of [NCI's Cancer Research Data Commons (CRDC) repositories](https://datascience.cancer.gov/data-commons/repositories), such as [GDC](https://gdc.cancer.gov/), [PDC](https://pdc.cancer.gov/pdc/), [CDS](https://datacommons.cancer.gov/repository/cancer-data-service), [ICDC](https://datacommons.cancer.gov/repository/integrated-canine-data-commons), be aware that you'll need prior approval.*
+- *Your repository(ies) may include [Generalist Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific#generalist-repositories), unless otherwise specified by the funding opportunity announcements or NCI-specific policy(ies).*
+- *If you plan on depositing data into one of [NCI's Cancer Research Data Commons (CRDC) repositories](https://datascience.cancer.gov/data-commons/repositories), such as [GDC](https://gdc.cancer.gov/), [PDC](https://pdc.cancer.gov/pdc/), [GC](https://datacommons.cancer.gov/repository/general-commons), [ICDC](https://datacommons.cancer.gov/repository/integrated-canine-data-commons), be aware that you'll need prior approval.*
 
 #### Element 5: Explain How Data Users Will Access and Reuse Your Data
 
-Describe how others can access and reuse your scientific data for each data type. [Find examples of justifiable reasons for limiting the sharing of data](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm?anchor=56549). Be sure to include:
+Describe how others can access and reuse your scientific data for each data type. [Find examples of justifiable reasons for limiting the sharing of data](https://grants.nih.gov/faqs#/data-management-and-sharing-policy.htm?anchor=56549). Be sure to include:
 
 - a thorough description of how others can access your data.
   - Will the data be open access or available with permission? How will you manage that access (e.g., through prior registration with the repository).
@@ -143,13 +143,13 @@ Now that you have a sense of what your plan should contain, use the following re
 
 ### Resources and Tools
 
-- [DMS Plan](https://sharing.nih.gov/data-management-and-sharing-policy/planning-and-budgeting-for-data-management-and-sharing/writing-a-data-management-and-sharing-plan): Learn what NIH expects in a DMS Plan and get additional direction on developing a plan.
-- Repositories: Visit our [NCI Data Catalog](https://datascience.cancer.gov/resources/nci-data-catalog) for a list of data collections produced by major NCI initiatives and other widely used data sets. Also, [visit the NIH Scientific Data Sharing website](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) for a full list of NIH-supported repositories.
+- [DMS Plan](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/writing-dms-plan): Learn what NIH expects in a DMS Plan and get additional direction on developing a plan.
+- Repositories: Visit our [NCI Data Catalog](https://datascience.cancer.gov/resources/nci-data-catalog) for a list of data collections produced by major NCI initiatives and other widely used data sets. Also, [visit the NIH Scientific Data Sharing website](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) for a full list of NIH-supported repositories.
 - [Training Modules](https://www.nigms.nih.gov/training/pages/clearinghouse-for-training-modules-to-enhance-data-reproducibility.aspx): Watch these training modules on how to enhance data reproducibility.
-- [Writing Applicable Activity Codes](https://sharing.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
+- [Writing Applicable Activity Codes](https://grants.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
 - [DMPTool](https://www.nnlm.gov/guides/data-glossary/data-management-planning-tool-dmptool): Sign up to use this free software, which will walk you through creating DMS plans based on NIH templates.
 - [NIH Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/): Write your DMS plan using one, or preferably both, templates offered by the Federal Demonstration Partnership. After you use these pilot templates, be sure you give feedback! This will help NIH create an NIH-wide plan template in the future.
-- [NIH-Supported Scientific Data Repositories](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data): For examples, explore this list of repositories which house various types of data.
+- [NIH-Supported Scientific Data Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific): For examples, explore this list of repositories which house various types of data.
 
 ### Tools to Help Standardize Data
 
