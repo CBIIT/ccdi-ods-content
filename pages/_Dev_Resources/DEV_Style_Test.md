@@ -42,8 +42,8 @@ date: 2025-06-04
 
 [External link - cancer.gov](https://cancer.gov)  
 [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
-[Internal anchor link - This page](#lorem-ipsum)
-[Internal anchor link - separate page](/post/About/About-ODS#who-we-are)  
+[Internal anchor link - This page](#lorem-ipsum)  
+[Internal anchor link - Different page](/post/About/About-ODS#who-we-are)  
 [PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 [DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
 
