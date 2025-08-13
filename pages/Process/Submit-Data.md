@@ -14,7 +14,7 @@ Data sharing allows data generated from one research study to be used to answe
 
 | | |
 |---|---|
-| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) (CRDC)* |
 
 ***Prior approval is required for submission to the CRDC. See [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit) for more information.**
@@ -29,7 +29,7 @@ Submitting genomic research data enables translating research findings into know
 Researchers submitting genomic data should refer to the data practices, file formats, resources, and processes:
 
 - [Sharing Data: The Basics](https://datascience.cancer.gov/training/learn-data-science/share-data-basics)
-- [Intramural and Extramural NCI Investigators](https://sharing.nih.gov/genomic-data-sharing-policy/submitting-genomic-data/how-to-register-and-submit-a-study-in-dbgap)
+- [Intramural and Extramural NCI Investigators](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/register-submit-study-dbgap)
 - [Non-NCI Funded Studies](/post/Process/non-NIH-funded-study-submission)
 
 &nbsp;  
