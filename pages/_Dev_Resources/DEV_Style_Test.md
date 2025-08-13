@@ -33,15 +33,19 @@ date: 2025-06-04
 
 &#8505; Info | &#128204; Pushpin | &#128161; Lightbulb
 
-[External link - cancer.gov](https://cancer.gov)  
-[Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
-[PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
-[DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
-
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
 |---|---|---|---|
 | Multi-<br>Line<br>Content | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) |
 | [Link in table (cancer.gov)](https://cancer.gov)   | 00001 | | &alpha; &beta; &delta; &gamma; &mu; |
+
+## Links
+
+[External link - cancer.gov](https://cancer.gov)  
+[Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
+[Internal anchor link - This page](#lorem-ipsum)
+[Internal anchor link - separate page](/post/About/About-ODS#who-we-are)  
+[PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+[DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
 
 ## Embedded video
 
