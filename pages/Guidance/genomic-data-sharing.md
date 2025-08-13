@@ -65,7 +65,7 @@ Research that does not meet the above criteria and involves instrument calibrati
 ## The Data Management and Sharing (DMS) Policy vs. Genomic Data Sharing (GDS) Policy: Which One Applies to You?
 
 [Text Description of Chart](#chart-description)  
-![Decision Tree for GDS/DMS Policy Harmonization](https://cbiit.github.io/ccdi-ods-content/pages/images/custom/gds-dms-policy-harmonization-decision-tree.png)
+![Decision Tree for GDS/DMS Policy Harmonization](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/DecisionTreeGDS_DMS_outlineV4.svg)
 
 ### Chart Description
 
