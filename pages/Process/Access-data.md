@@ -22,21 +22,21 @@ Some repositories allow access to their data only if users are registered with t
 
 In addition to open-access data sets, NCI facilitates requests to controlled-access data for NCI intramural staff scientists and extramural investigators. To use controlled data, you must obtain prior authorization through a Data Access Committee. NCI’s data access processes ensure that requests comply with NIH’s data sharing policies, and the data are used in ways that adhere to the consent given by research participants in their original studies.
 
-***All users are expected to use the data responsibly.** [See Using Genomic Data Responsibly Under the NIH Genomic Data Sharing Policy](https://sharing.nih.gov/accessing-data/accessing-genomic-data/using-genomic-data-responsibly)
+***All users are expected to use the data responsibly.** [See Using Genomic Data Responsibly Under the NIH Genomic Data Sharing Policy](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/using-genomic-data)
 
 ## Where to Find Scientific Data
 
 | | |
 |---|---|
-| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Accessing Scientific Data](https://sharing.nih.gov/accessing-data/accessing-scientific-data) |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Accessing Scientific Data](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Index of NCI Studies](https://studycatalog.cancer.gov) |
 
 ## Where to Find Genomic Data
 
 | | |
 |---|---|
-| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [Accessing Genomic Data from NIH Repositories](https://sharing.nih.gov/accessing-data/accessing-genomic-data/accessing-genomic-data-from-nih-repositories) |
-| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [How to Request and Access Datasets from dbGaP](https://sharing.nih.gov/accessing-data/accessing-genomic-data/how-to-request-and-access-datasets-from-dbgap) |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [Accessing Genomic Data from NIH Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/genomic-data) |
+| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [How to Request and Access Datasets from dbGaP](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/dbgap) |
 
 &nbsp;  
 

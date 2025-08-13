@@ -8,13 +8,13 @@ date: 2025-05-30
 
 If you're generating, collecting, leveraging, or managing NCI-funded research data, you'll need to stay up to date on the latest data sharing requirements.
 
-NCI established the [Office of Data Sharing](https://datascience.cancer.gov/about/organization/office-data-sharing-ods) (ODS) to help you navigate these requirements. This team is your primary source for information on the policies and processes for sharing and using research data.
+NCI established the [Office of Data Sharing](/post/About/About-ODS) (ODS) to help you navigate these requirements. This team is your primary source for information on the policies and processes for sharing and using research data.
 
 In short, when you have a question about how and when to share your NCI-funded research, ODS is here to help you. ([contact ODS](mailto:NCIOfficeofDataSharing@mail.nih.gov)).
 
 **What is NCI's Overall Data Sharing Process?**
 
-NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director [Dr. Jaime Guidry Auvil](https://datascience.cancer.gov/content/jaime-m-guidry-auvil-phd) will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
+NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director Dr. Jaime Guidry Auvil will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
 
 <iframe
   height=458
@@ -41,11 +41,11 @@ As mentioned in the video, ODS supports data sharing in three main ways. They:
 
 ## Which Sharing Policies Apply to NCI-Funded Research?
 
-Here's a sampling of data policies applicable to NCI-funded research. For additional policies on NIH data sharing, visit [NIH's Scientific Data Sharing website](https://sharing.nih.gov/other-sharing-policies).
+Here's a sampling of data policies applicable to NCI-funded research. For additional policies on NIH data sharing, visit [NIH's Grants Policy website](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies).
 
 ### NIH Data Management and Sharing (DMS) Policy
 
-- **Full Details**: [sharing.nih.gov](https://sharing.nih.gov/data-management-and-sharing-policy/about-data-management-and-sharing-policies/data-management-and-sharing-policy-overview#after)
+- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms)
 - **Effective**: January 25, 2023
 - **Applicability**: New applications (Type 1) & competitive renewals (Type 2)
 Competitive revisions (Type 3) & administrative supplements are not subject to the policy
@@ -53,11 +53,11 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 - **Expectations**: Prospectively plan how to preserve & share scientific data
 - **Sharing Timelines**: Share scientific data as soon as possible, but not later than the time of associated publication or end of performance period
 - **Data Location(s)**: Repository appropriate for the data generated from the research project, or as in NOFO
-- [DMS Policy FAQs](https://sharing.nih.gov/faqs#/data-management-and-sharing-policy.htm)
+- [DMS Policy FAQs](https://grants.nih.gov/faqs#/data-management-and-sharing-policy.htm)
 
 ### NIH Genomic Data Sharing (GDS) Policy
 
-- **Full Details**: [sharing.nih.gov](https://sharing.nih.gov/genomic-data-sharing-policy/about-genomic-data-sharing)
+- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds)
 - **Effective**: January 25, 2015
 - **Applicability**: New applications that generate large-scale genomic data & smaller-scale studies (of programmatic priority, or rare diseases)
   Thresholds & assay types clearly defined for meeting GDS
@@ -65,7 +65,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 - **Sharing Timelines**: Release lower-level primary data (L2/L3) by 9 months after data generation/QC
   Release summary analyses at publication or end of the project period
 - **Data Location(s)**: NIH-designated data repositories
-- [GDS Policy FAQs](https://sharing.nih.gov/faqs#/genomic-data-sharing-policy.htm)
+- [GDS Policy FAQs](https://grants.nih.gov/faqs#/genomic-data-sharing-policy.htm)
 
 ### Cancer Moonshot<sup>SM</sup> Public Access and Data Sharing (PADS) Policy
 
@@ -74,7 +74,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 - **Applicability**: Cancer Moonshot research project NOFOs, contracts, and intramural projects generating Publications and Underlying Primary Data
 - **Expectations**: Submit "Public Access and Data Sharing Plans" that describe proposed process for making publications and the underlying primary data immediately and broadly available to the public.
 - **Sharing Timelines**: Immediately and broadly available
-- **Data Location(s)**: an appropriate data repository such as the [Genomic Data Commons](https://gdc.cancer.gov/), [dbGaP](https://www.ncbi.nlm.nih.gov/gap/), [TCIA](http://www.cancerimagingarchive.net/), or a [non-NIH repository](https://sharing.nih.gov/data-management-and-sharing-policy/sharing-scientific-data/repositories-for-sharing-scientific-data) that conforms with the principles articulated in this Policy
+- **Data Location(s)**: an appropriate data repository such as the [Genomic Data Commons](https://gdc.cancer.gov/), [dbGaP](https://www.ncbi.nlm.nih.gov/gap/), [TCIA](http://www.cancerimagingarchive.net/), or a [non-NIH repository](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) that conforms with the principles articulated in this Policy
 
 ### Dissemination of NIH-Funded Clinical Trial Information Policy
 
@@ -100,9 +100,9 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 ### Understanding Policies
 
-- [Policy Decision Tool](https://sharing.nih.gov/other-sharing-policies/which-policies-apply-to-my-research): Use this web application to see which NIH policies might apply to your research.
+- [Policy Decision Tool](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/which-policies-apply-to-my-research): Use this web application to see which NIH policies might apply to your research.
 - [Toolkit for DMS Policy](https://www.nnlm.gov/guides/nnlm-toolkit-nih-data-management-and-sharing-policy): Learn more about the DMS policy by visiting the National Library of Medicine.
-- [Decision Tree for GDS and 2023 DMS Policy Harmonization](https://datascience.cancer.gov/data-sharing/data-management-genomic-sharing-policy-harmonization-policy-decision-tree): Answer three questions to see if your research must apply the GDS Policy, 2023 DMS Policy, or both.
+- [Decision Tree for GDS and 2023 DMS Policy Harmonization](/post/Guidance/genomic-data-sharing): Answer three questions to see if your research must apply the GDS Policy, 2023 DMS Policy, or both.
 - [OER/OSP Guidance on Informed Consent for Secondary Research with Data and Biospecimens](https://osp.od.nih.gov/wp-content/uploads/Informed-Consent-Resource-for-Secondary-Research-with-Data-and-Biospecimens.pdf): Use this templated language to write your informed consent documents and maximize data sharing.
 
 ### Projects

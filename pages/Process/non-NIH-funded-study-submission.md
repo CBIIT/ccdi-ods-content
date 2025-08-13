@@ -6,13 +6,13 @@ date: 2025-05-30
 
 # Request to Submit Cancer Genomic Data from a Non-NIH-Funded Study
 
-If your study is not funded by NCI, you may still be able to share your genomic and other -omics study data through an NIH repository. An NCI subcommittee will review each application on a case-by-case basis considering the scientific value of the data, its usage of NIH resources, and the data use limitations (DULs). NCI will only accept data that complies with NIH's [Genomic Data Sharing (GDS) Policy](https://datascience.cancer.gov/data-sharing/genomic-data-sharing/about-the-genomic-data-sharing-policy). Though this process will register your study through the database of Genotypes and Phenotypes (dbGaP), NCI may deposit your data into [any NIH repository](https://www.nlm.nih.gov/NIHbmic/nih_data_sharing_repositories.html).
+If your study is not funded by NCI, you may still be able to share your genomic and other -omics study data through an NIH repository. An NCI subcommittee will review each application on a case-by-case basis considering the scientific value of the data, its usage of NIH resources, and the data use limitations (DULs). NCI will only accept data that complies with NIH's [Genomic Data Sharing (GDS) Policy](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/overview). Though this process will register your study through the database of Genotypes and Phenotypes (dbGaP), NCI may deposit your data into [any NIH repository](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific).
 
 To apply to share your data set through NCI, follow the steps below:
 
 ## Step 1: Complete Documentation
 
-You must complete both the [Institutional Certification](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/completing-an-institutional-certification-form) (IC) form and the [Online Non-NCI-Funded Study](https://forms.office.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBjcbADvs4RxIobADe4cxh_ZURUxNNUUzU0NTWDdGR0dLWjdPSFg4SVRDUi4u) Information forms.
+You must complete both the [Institutional Certification](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/completing-institutional-certification-form) (IC) form and the [Online Non-NCI-Funded Study](https://forms.office.com/Pages/ResponsePage.aspx?id=eHW3FHOX1UKFByUcotwrBjcbADvs4RxIobADe4cxh_ZURUxNNUUzU0NTWDdGR0dLWjdPSFg4SVRDUi4u) Information forms.
 
 ### **Tips for Completing the IC Form**
 
@@ -30,7 +30,7 @@ We've outlined a few points to clarify common questions from previous data submi
 
 #### **Page 3: Data Use Limitations**
 
-- Select appropriate DULS and/or DUL modifiers based on the language of participant's consent form and your IRB's advisement. You can learn more about what is imposed by these restrictions by reading the [Standard Data Use Limitations](https://sharing.nih.gov/genomic-data-sharing-policy/institutional-certifications/completing-an-institutional-certification-form#step-5) table created by NIH's Office of Science Policy.
+- Select appropriate DULS and/or DUL modifiers based on the language of participant's consent form and your IRB's advisement. You can learn more about what is imposed by these restrictions by reading the [Standard Data Use Limitations](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/completing-institutional-certification-form#step-5) table created by NIH's Office of Science Policy.
 
 > **Please note that General Research Use without any further restricting modifiers allows the maximal benefit of research funded with public dollars and is preferred whenever possible and consistent with informed consent. If disease-specific data use or data-use modifiers are required, please [contact the NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov) for further guidance.**
 
@@ -74,7 +74,7 @@ If you encounter difficulties submitting data to dbGaP, please contact their hel
 |------------|---------|
 | Database of Genotypes and Phenotypes (dbGaP) | [dbGaP Contact Form](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login) |
 | Sequence Read Archive (SRA) | [SRA Help Desk](mailto:sra@ncbi.nlm.nih.gov) |
-| Other National Center for Biotechnology Information (NCBI) [Data Repositories](https://support.nlm.nih.gov/support/create-case) | [National Library of Medicine Help Desk](https://support.nlm.nih.gov/support/create-case) |
+| Other National Center for Biotechnology Information (NCBI) | [National Library of Medicine Help Desk](https://support.nlm.nih.gov/support/create-case) |
 
 For additional questions about data sharing, please contact [NCI's Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov).
 
