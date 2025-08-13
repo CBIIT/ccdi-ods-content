@@ -148,6 +148,7 @@ Now that you have a sense of what your plan should contain, use the following re
 - [Training Modules](https://www.nigms.nih.gov/training/pages/clearinghouse-for-training-modules-to-enhance-data-reproducibility.aspx): Watch these training modules on how to enhance data reproducibility.
 - [Writing Applicable Activity Codes](https://grants.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
 - [DMPTool](https://www.nnlm.gov/guides/data-glossary/data-management-planning-tool-dmptool): Sign up to use this free software, which will walk you through creating DMS plans based on NIH templates.
+- [Decision Tree for GDS/DMS Policy Harmonization](/post/Guidance/genomic-data-sharing): The Data Management and Sharing (DMS) Policy vs. Genomic Data Sharing (GDS) Policy: Which One Applies to You?
 - [NIH Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/): Write your DMS plan using one, or preferably both, templates offered by the Federal Demonstration Partnership. After you use these pilot templates, be sure you give feedback! This will help NIH create an NIH-wide plan template in the future.
 - [NIH-Supported Scientific Data Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific): For examples, explore this list of repositories which house various types of data.
 
