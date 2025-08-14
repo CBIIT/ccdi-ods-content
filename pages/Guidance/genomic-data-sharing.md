@@ -66,7 +66,7 @@ Research that does not meet the above criteria and involves instrument calibrati
 
 [Text Description of Chart](#chart-description)  
 
-![Decision Tree for GDS/DMS Policy Harmonization](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/DecisionTreeGDS_DMS_outlineV4.svg)
+![Decision Tree for GDS/DMS Policy Harmonization](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/DecisionTreeGDS_DMS_outlineV4.svg)
 
 ### Chart Description
 
