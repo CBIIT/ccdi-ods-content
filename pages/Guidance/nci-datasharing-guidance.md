@@ -37,8 +37,6 @@ As mentioned in the video, ODS supports data sharing in three main ways. They:
 
 *Data sharing begins and ends with the cancer patient. Through informed consent, the patient authorizes her data for use in research. In the center are the people using her data. This includes researchers and people working in funding agencies, institutions, and the technology fields. The gold ring shows ODS' role, supporting programs, processes, and policy needs. The outer ring shows steps in data sharing, starting with identifying research needs and approaches, and applying for funding (shown in purple); followed by generating, collecting, and submitting data (in mauve); accessing, using, and retaining data (in teal); and ending in better treatments and therapies for cancer patients.*
 
-&nbsp;
-
 ## Which Sharing Policies Apply to NCI-Funded Research?
 
 Here's a sampling of data policies applicable to NCI-funded research. For additional policies on NIH data sharing, visit [NIH's Grants Policy website](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies).
