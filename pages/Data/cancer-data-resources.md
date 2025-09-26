@@ -112,7 +112,7 @@ The **Cancer Prevention Clinical Trials Network (CP-CTNet)** is a clinical trial
 
 The **Clinical Proteomic Tumor Analysis Consortium (CPTAC)** is a multi-institutional consortium that conducts comprehensive proteomic analysis of cancer samples from TCGA and other sources. CPTAC generates high-quality proteomic data to complement genomic information for cancer research.
 
-[CPTAC Website](https://proteomics.cancer.gov/programs/cptac) | [Data Access](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac)
+[CPTAC Website](https://dctd.cancer.gov/research/networks/cptac) | [Data Access](https://pdc.cancer.gov/pdc/)
 
 ## CSBC
 
