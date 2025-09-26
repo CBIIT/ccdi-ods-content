@@ -32,9 +32,9 @@ The **Index of NCI Studies (INS)** compiles and shares publicly available inform
 
 ## APOLLO
 
-The **Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) network (APOLLO)** is a multi-institutional network that integrates proteomics and genomics data to improve cancer patient outcomes. APOLLO connects proteomic research with clinical practice to advance precision oncology and personalized treatment approaches.
+The **Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) network** is a multi-institutional network that integrates proteomics and genomics data to improve cancer patient outcomes. APOLLO connects proteomic research with clinical practice to advance precision oncology and personalized treatment approaches.
 
-[APOLLO Website](https://proteomics.cancer.gov/programs/apollo-network) | [Data Access](https://proteomics.cancer.gov/data-portal)
+[APOLLO Website](https://dctd.cancer.gov/research/networks/apollo) | [Data Access](https://pdc.cancer.gov/pdc/)
 
 ## ARTNet
 
