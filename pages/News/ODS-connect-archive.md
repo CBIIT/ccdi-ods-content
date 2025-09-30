@@ -10,6 +10,10 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2025
 
+### August 2025
+
+- [Explore the New NCI Data Sharing Hub](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-08-07_Explore_the_New_NCI_Data_Sharing_Hub.pdf)
+
 ### July 2025
 
 - [Annual Data Sharing Symposium Abstract Submissions Due September 1](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-07-10_Annual_Data_Sharing_Symposium_Abstract_Submissions_Due_September_1.pdf)
@@ -145,4 +149,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** July 31, 2025
+**Updated:** September 30, 2025

@@ -32,9 +32,9 @@ The **Index of NCI Studies (INS)** compiles and shares publicly available inform
 
 ## APOLLO
 
-The **Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) network (APOLLO)** is a multi-institutional network that integrates proteomics and genomics data to improve cancer patient outcomes. APOLLO connects proteomic research with clinical practice to advance precision oncology and personalized treatment approaches.
+The **Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) network** is a multi-institutional network that integrates proteomics and genomics data to improve cancer patient outcomes. APOLLO connects proteomic research with clinical practice to advance precision oncology and personalized treatment approaches.
 
-[APOLLO Website](https://proteomics.cancer.gov/programs/apollo-network) | [Data Access](https://proteomics.cancer.gov/data-portal)
+[APOLLO Website](https://dctd.cancer.gov/research/networks/apollo) | [Data Access](https://pdc.cancer.gov/pdc/)
 
 ## ARTNet
 
@@ -112,7 +112,7 @@ The **Cancer Prevention Clinical Trials Network (CP-CTNet)** is a clinical trial
 
 The **Clinical Proteomic Tumor Analysis Consortium (CPTAC)** is a multi-institutional consortium that conducts comprehensive proteomic analysis of cancer samples from TCGA and other sources. CPTAC generates high-quality proteomic data to complement genomic information for cancer research.
 
-[CPTAC Website](https://proteomics.cancer.gov/programs/cptac) | [Data Access](https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/clinical-proteomic-tumor-analysis-consortium-cptac)
+[CPTAC Website](https://dctd.cancer.gov/research/networks/cptac) | [Data Access](https://pdc.cancer.gov/pdc/)
 
 ## CSBC
 
@@ -322,4 +322,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** August 7, 2025
+**Updated:** September 30, 2025
