@@ -1,10 +1,10 @@
 ---
-title: Office of Data Sharing Events
+title: ODS Events and Webinars
 author: ZD
 date: 2025-10-08
 ---
 
-# Office of Data Sharing Events and Webinars
+# ODS Events and Webinars
 
 The NCI [Office of Data Sharing](/post/About/About-ODS) (ODS) hosts regular events and webinars to provide updates and promote a culture of data sharing within the cancer research community.
 
@@ -38,16 +38,16 @@ The ODS Webinar Series features expert speakers discussing current topics in dat
 
 [Advancing Data Sharing through the Cancer Moonshot℠](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/advancing-data-sharing-through-cancer-moonshot)
 
-[Many more...]
+[Many more...](https://www.cancer.gov/search/results?swKeyword=office+of+data+sharing)
 
 ### 2020-2023
 
 <details>
   <summary>
-    Click to see PDF-archived events
+    Click to see archived events (PDF)
   </summary>
 
-### 2022
+#### 2022
 
 [Webinar - Obtaining Access to Controlled Data in theGenomic Data Commons SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
@@ -55,12 +55,12 @@ The ODS Webinar Series features expert speakers discussing current topics in dat
 
 [News - NIH Seeks PublicComments on Draft ofSupplemental Information to the NIH Policy for DataManagement and Sharing SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
-### 2021
+#### 2021
 
 [Webinar - The Future of Clinical Trial Data Sharing....The Art of The Possible SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
 [News - NIH Requests Information on Developing ConsentLanguage for Future Use ofData and Biospecimens — Comments Due Sept 29 SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
-### 2020
+#### 2020
 
 [News - Updated NIH Data Sharing Policy Released SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
