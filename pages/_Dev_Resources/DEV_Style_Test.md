@@ -33,10 +33,19 @@ date: 2025-06-04
 
 &#8505; Info | &#128204; Pushpin | &#128161; Lightbulb
 
-| Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header*** |
+### Standard Table
+
+| Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header with many characters that will need multiple lines for display with text wrapping*** |
 |---|---|---|---|
-| Multi-<br>Line<br>Content | 999 | Empty below | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) |
-| [Link in table (cancer.gov)](https://cancer.gov)   | 00001 | | &alpha; &beta; &delta; &gamma; &mu; |
+| Forced<br>Multi-<br>Line<br>Content | 999 | Empty below | &alpha; &beta; &delta; &gamma; &mu; |
+| [Link in table (cancer.gov)](https://cancer.gov)   | 00001 | | Many character word wrap: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. |
+
+### Headerless Table
+
+| | |
+|---|---|
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [External link - cancer.gov](https://cancer.gov)  |
+| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  |
 
 ## Links
 
