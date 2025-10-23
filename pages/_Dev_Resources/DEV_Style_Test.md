@@ -35,10 +35,10 @@ date: 2025-06-04
 
 ### Standard Table
 
-| Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header with many characters that will need multiple lines for display with text wrapping*** |
+| Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header. This is an example of a header that contains many characters, which will require the header to use multiple lines for display because of text wrapping to accommodate a necessarily verbose table column header that includes a self-referential run-on sentence.*** |
 |---|---|---|---|
 | Forced<br>Multi-<br>Line<br>Content | 999 | Empty below | &alpha; &beta; &delta; &gamma; &mu; |
-| [Link in table (cancer.gov)](https://cancer.gov)   | 00001 | | Many character word wrap: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. |
+| ABC | 00001 | | Many character word wrap: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. |
 
 ### Headerless Table
 
