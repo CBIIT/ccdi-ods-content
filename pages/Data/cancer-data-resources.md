@@ -30,6 +30,12 @@ The **Index of NCI Studies (INS)** compiles and shares publicly available inform
 
 [All of Us Website](https://allofus.nih.gov/) | [Data Access](https://www.researchallofus.org/)
 
+## ASA24
+
+The **Automated Self-Administered 24-Hour (ASA24®) Dietary Assessment Tool** is a free, web-based tool that enables multiple, automatically coded, self-administered 24-hour diet recalls and food records. ASA24 supports epidemiologic, interventional, behavioral, and clinical research by collecting dietary data to study cancer risk factors and nutrition-related health outcomes.
+
+[ASA24 Website](https://epi.grants.cancer.gov/asa24/) | [Data Access](https://epi.grants.cancer.gov/asa24/researcher/features.html)
+
 ## APOLLO
 
 The **Applied Proteogenomics OrganizationaL Learning and Outcomes (APOLLO) network** is a multi-institutional network that integrates proteomics and genomics data to improve cancer patient outcomes. APOLLO connects proteomic research with clinical practice to advance precision oncology and personalized treatment approaches.
@@ -149,6 +155,12 @@ The **Early Detection Research Network (EDRN)** is a research network focused on
 The **Gabriella Miller Kids First Pediatric Research Program (Kids First)** is a pediatric research program that generates and analyzes genomic data from children with cancer and structural birth defects. Kids First aims to accelerate childhood cancer research by identifying genetic causes of pediatric cancers and developing new treatments for children with cancer.
 
 [Kids First Website](https://commonfund.nih.gov/kidsfirst) | [Data Access](https://kidsfirstdrc.org/)
+
+## GEMShare
+
+The **GEMINI Shared Repository (GEMShare)** is a data sharing platform managed by NCI's Division of Cancer Epidemiology & Genetics (DCEG). It provides access to datasets from population-based studies conducted in Northern Iran, which is part of the "Asian esophageal cancer belt", which h some of the world's highest rates of esophageal cancer. GEMShare facilitates collaborative research through a long-standing partnership between DCEG, Tehran University, and the International Agency for Research on Cancer (IARC) to study cancer, cardiovascular disease, lifestyle factors, and mortality in these high-risk populations.
+
+[GEMShare Website](https://dceg2.cancer.gov/gemshare/) | [Data Access](https://dceg2.cancer.gov/gemshare/studies/)
 
 ## HCMI
 
