@@ -158,7 +158,7 @@ The **Gabriella Miller Kids First Pediatric Research Program (Kids First)** is a
 
 ## GEMShare
 
-The **GEMINI Shared Repository (GEMShare)** is a data sharing platform managed by NCI's Division of Cancer Epidemiology & Genetics (DCEG). It provides access to datasets from population-based studies conducted in Northern Iran, which is part of the "Asian esophageal cancer belt", which h some of the world's highest rates of esophageal cancer. GEMShare facilitates collaborative research through a long-standing partnership between DCEG, Tehran University, and the International Agency for Research on Cancer (IARC) to study cancer, cardiovascular disease, lifestyle factors, and mortality in these high-risk populations.
+The **GEMINI Shared Repository (GEMShare)** is a data sharing platform managed by NCI's Division of Cancer Epidemiology & Genetics (DCEG). It provides access to datasets from population-based studies conducted in Northern Iran, which is part of the "Asian esophageal cancer belt" and has some of the world's highest rates of esophageal cancer. GEMShare facilitates collaborative research through a long-standing partnership between DCEG, Tehran University, and the International Agency for Research on Cancer (IARC) to study cancer, cardiovascular disease, lifestyle factors, and mortality in these high-risk populations.
 
 [GEMShare Website](https://dceg2.cancer.gov/gemshare/) | [Data Access](https://dceg2.cancer.gov/gemshare/studies/)
 
