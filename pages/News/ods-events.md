@@ -16,11 +16,17 @@ The NCI [Office of Data Sharing](/post/About/About-ODS) (ODS) hosts regular even
 
 The ODS Data Sharing Symposium is an annual event to bring together all members of the cancer data community, including researchers, policymakers, patient advocates, and the general public. This interactive event helps to drive innovation and collaboration towards the goal of better data-driven outcomes for cancer treatment.
 
-**2025**: [How Data Advances the Impact of Cancer Research](https://events.cancer.gov/ods/annualdatasharingsymposium)
+### 2025: How Data Advances the Impact of Cancer Research
 
-**2024**: [Driving Cancer Advances Through Impactful Research](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/nci-office-data-sharings-annual-data-sharing-symposium-2024-driving-cancer)
+Executive Summary (in-progress) | [Event page](https://events.cancer.gov/ods/annualdatasharingsymposium)
 
-**2023**: [Data as a Gift: Data Sharing Symposium](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/annual-nci-office-data-sharing-symposium-2023)
+### 2024: Driving Cancer Advances Through Impactful Research
+
+[Executive Summary](/post/News/symposium-2024) | [Event page](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/)
+
+### 2023: Data as a Gift (Inaugural Data Sharing Symposium)
+
+[Executive Summary](/post/News/symposium-2023) | [Event page](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/annual-nci-office-data-sharing-symposium-2023)
 
 ## ODS Workshops
 
@@ -30,37 +36,44 @@ ODS workshops feature presentations or discussions led by subject matter experts
 
 The ODS Webinar Series features expert speakers discussing current topics in data sharing, policy updates, and best practices. The goal is to promote broad data sharing and reuse that benefits the entire cancer community.
 
-## Past Events and Webinars
+## News Briefs (pdf)
 
-### 2024
+## 2025
 
-[Office of Data Sharing Webinar: 2024 Public Access Policy Overview](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/office-data-sharing-webinar-2024-public-access-policy-overview)
+- [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+- [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
-[Advancing Data Sharing through the Cancer Moonshot℠](https://www.cancer.gov/about-nci/organization/cbiit/news-events/events/past-events/advancing-data-sharing-through-cancer-moonshot)
 
-[Many more...](https://www.cancer.gov/search/results?swKeyword=office+of+data+sharing)
+## 2024
 
-### 2020-2023
+- [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+- [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+
+### Older News Briefs
 
 <details>
-  <summary>
-    Click to see archived events (PDF)
-  </summary>
 
-#### 2022
+  <summary>Click to view...</summary>
 
-[Webinar - Obtaining Access to Controlled Data in theGenomic Data Commons SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  #### 2023
 
-[News - NCI Requests Your Input on the Use and Reuse of Cancer Metabolomics Data SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
-[News - NIH Seeks PublicComments on Draft ofSupplemental Information to the NIH Policy for DataManagement and Sharing SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  #### 2022
 
-#### 2021
+  - [NCI Requests your Input on the Use and Reuse of Cancer Metabolomics Data SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [NIH Seeks Public Comments on Draft of Supplemental Information to the NIH Policy for Data Management and Sharing SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [Obtaining Access to Controlled Data in the Genomic Data Commons SAMPLE LNK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
-[Webinar - The Future of Clinical Trial Data Sharing....The Art of The Possible SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  #### 2021
 
-[News - NIH Requests Information on Developing ConsentLanguage for Future Use ofData and Biospecimens — Comments Due Sept 29 SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
-#### 2020
+  #### 2020
 
-[News - Updated NIH Data Sharing Policy Released SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+
+</details>
