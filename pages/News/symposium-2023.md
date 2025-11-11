@@ -4,17 +4,19 @@ author: ODS, Transcribed ZD
 date: 2025-11-11
 ---
 
-# 2023: Inaugural NCI Office of Data Sharing Symposium
+# 2023 Annual Data Sharing Symposium
 
-**Meeting Dates:**  
+## Inaugural Data Sharing Symposium: Data as a Gift
+
+**Meeting Dates**  
 October 16th and 17th, 2023
 
-**Other Annual Data Sharing Symposium Summaries:**  
+**Other Annual Data Sharing Symposium Executive Summaries**  
 [2024](/post/News/symposium-2024) | 2023
 
 The National Cancer Institute’s (NCI) Office of Data Sharing (ODS) held its inaugural Data Sharing symposium on October 16th and 17th 2023, bringing the full cancer community (biomedical, advocacy, and industry) together to kick off what is intended to be a continuous, open discussion on the current and future states of scientific data sharing for NCI-supported care and research. This meeting was intentionally divided into one full day, that focused primarily on more immediate data sharing issues and practical ways to meet those needs, and another half day to explore aspirational goals moving forward towards more Open Science implementations as an overall ideal for government funded research. The ODS and NCI are committed to ensuring that the full cancer community can benefit from all the data collected in NCI studies in ways that accelerate novel discovery and innovation for understanding biology and optimally treating each patient with cancer.
 
-## Day One
+## Day 1: Monday, October 16
 
 ### Welcome and Introduction
 
@@ -71,7 +73,7 @@ There were several key points discussed in the Breakout Session focusing on metr
 
 During the Institutional Approaches Breakout, it was evident that while large and well-resourced academic institutions are actively pursuing strategies to promote data sharing and management in line with NCI and NIH policies: such as using electronic notebooks and educating researchers on data standards, smaller institutions have experienced challenges in providing support to faculty to develop DMS plans and noted a lack of data sharing infrastructure for cross-institutional partnerships. Panelists noted challenges in sharing data in a public repository due to lack of defined or consistent expectations for standardized data, limited institutional resources to support data management activities, trust and bias issues in community-based participatory research that result from a lack of consultation with the community from which data is generated or collected, and a lack of data management infrastructure for cross-institutional collaborations. To address trust and bias concerns, Dr. Carla Williams provided an innovative vision to propose a "TRUST 2.0" framework, based on [TRUST principles](https://www.nature.com/articles/s41597-020-0486-7), that emphasized building capacity, readiness, unbiased data (representation, context and meaning), sharing, and trustworthiness to ensure that communities benefit from their contributions to research, shifting the perspective of these research participants from "subjects" to "contributors." This comprehensive approach aims to enhance data management and sharing practices, emphasizing health equity and community involvement. Recommendations for improvement shared by panelists included incorporating data sharing activities alongside publications in the NIH Biosketch template, addressing institutional support and building capacity for long-term data storage within institutions, integrating data management training in onboarding and offboarding processes at each institution (by NIH or each Institution), and promoting data annotation efforts.
 
-## Day Two
+## Day 2: Tuesday, October 17
 
 ### Year of Open Science
 
