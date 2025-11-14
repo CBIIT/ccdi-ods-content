@@ -43,17 +43,16 @@ The ODS Webinar Series features expert speakers discussing current topics in dat
 - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
-
 ## 2024
 
 - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 - [Example Recent News Brief](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
-### Older News Briefs
+### Archived News Briefs
 
 <details>
 
-  <summary>Click to view...</summary>
+  <summary>Click to show more...</summary>
 
   #### 2023
 
@@ -68,12 +67,11 @@ The ODS Webinar Series features expert speakers discussing current topics in dat
 
   #### 2021
 
-  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
-  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [The Future of Clinical Trial Data Sharing... The Art of the Possible SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [NIH Requests Information on Developing Consent Language for Future Use of Data and Biospecimens - Comments Due Sept 29](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
   #### 2020
 
-  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
-  - [Other example links](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
+  - [Updated NIH Data Sharing Policy Released](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
 
 </details>
