@@ -6,13 +6,13 @@ date: 2025-11-11
 
 # 2024 Annual Data Sharing Symposium
 
+**Other Annual Data Sharing Symposium Executive Summaries**  
+2024 | [2023](/post/News/symposium-2023)
+
 ## Driving Cancer Advances through Impactful Research
 
 **Meeting Dates**  
 October 15th and 16th, 2024
-
-**Other Annual Data Sharing Symposium Executive Summaries**  
-2024 | [2023](/post/News/symposium-2023)
 
 The National Cancer Institute (NCI) Office of Data Sharing (ODS) Annual Data Sharing Symposium convened the cancer community stakeholders to work together on critical data sharing efforts; discuss respective successes and challenges; identify knowledge gaps and evolving needs across the field; and explore solutions that align community efforts in ways that benefit the majority. High-level goals for the 2024 symposium included:
 

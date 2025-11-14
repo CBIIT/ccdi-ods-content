@@ -6,13 +6,13 @@ date: 2025-11-11
 
 # 2023 Annual Data Sharing Symposium
 
+**Other Annual Data Sharing Symposium Executive Summaries**  
+[2024](/post/News/symposium-2024) | 2023
+
 ## Inaugural Data Sharing Symposium: Data as a Gift
 
 **Meeting Dates**  
 October 16th and 17th, 2023
-
-**Other Annual Data Sharing Symposium Executive Summaries**  
-[2024](/post/News/symposium-2024) | 2023
 
 The National Cancer Institute’s (NCI) Office of Data Sharing (ODS) held its inaugural Data Sharing symposium on October 16th and 17th 2023, bringing the full cancer community (biomedical, advocacy, and industry) together to kick off what is intended to be a continuous, open discussion on the current and future states of scientific data sharing for NCI-supported care and research. This meeting was intentionally divided into one full day, that focused primarily on more immediate data sharing issues and practical ways to meet those needs, and another half day to explore aspirational goals moving forward towards more Open Science implementations as an overall ideal for government funded research. The ODS and NCI are committed to ensuring that the full cancer community can benefit from all the data collected in NCI studies in ways that accelerate novel discovery and innovation for understanding biology and optimally treating each patient with cancer.
 
