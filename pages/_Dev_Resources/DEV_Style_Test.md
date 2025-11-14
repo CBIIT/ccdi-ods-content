@@ -47,7 +47,7 @@ date: 2025-06-04
 | ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [External link - cancer.gov](https://cancer.gov)  |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  |
 
-## [Links](/post/_Dev_Resources/DEV_Style_Test)
+## Links
 
 [External link - cancer.gov](https://cancer.gov)  
 [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  
@@ -56,8 +56,6 @@ date: 2025-06-04
 [Internal anchor link - Different page](/post/About/About-ODS#who-we-are)  
 [PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 [DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
-
-### [External H3 Link - cancer.gov](https://cancer.gov)
 
 ## Embedded video
 
