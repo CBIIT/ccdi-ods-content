@@ -63,7 +63,7 @@ The ODS Webinar Series features expert speakers discussing current topics in dat
 
   - [NCI Requests your Input on the Use and Reuse of Cancer Metabolomics Data SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
   - [NIH Seeks Public Comments on Draft of Supplemental Information to the NIH Policy for Data Management and Sharing SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)
-  - [Obtaining Access to Controlled Data in the Genomic Data Commons SAMPLE LNK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
+  - [Obtaining Access to Controlled Data in the Genomic Data Commons SAMPLE LINK](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 
   #### 2021
 
