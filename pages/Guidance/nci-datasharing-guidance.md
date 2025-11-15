@@ -14,7 +14,7 @@ In short, when you have a question about how and when to share your NCI-funded r
 
 **What is NCI's Overall Data Sharing Process?**
 
-NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director Dr. Jaime Guidry Auvil will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
+<!-- NCI's data sharing approach starts and ends with the patient in mind. So, what does this approach look like in its entirety? In this video, ODS Director Dr. Jaime Guidry Auvil will introduce all the stages of the data sharing lifecycle and share how she and ODS can help you navigate the various steps.
 
 <iframe
   height=458
@@ -27,7 +27,9 @@ NCI's data sharing approach starts and ends with the patient in mind. So, what d
 
 &nbsp;
 
-As mentioned in the video, ODS supports data sharing in three main ways. They:
+As mentioned in the video,  -->
+
+ODS supports data sharing in three main ways. They:
 
 - advise on programs that define impactful data and resources,
 - implement policies that promote broad access and use of data, and
