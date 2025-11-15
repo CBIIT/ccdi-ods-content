@@ -6,6 +6,11 @@ date: 2025-05-30
 
 # Access Data
 
+> **&#10071; NOTICE:**  
+> **We apologize for any temporary delays in processing NCI data access requests due to the recent federal government closure. We appreciate your patience as we work to restore normal operations as quickly as possible. Thank you for your understanding and continued collaboration in advancing cancer research.**
+
+&nbsp;
+
 ![Stylized image of a magnifying glass over a digital landscape of data visualizations](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_800x335.png)
 
 When investigators submit their data to repositories, they allow others to build on their original discoveries and share insight through secondary data use. NCI and NIH offer multiple data repositories to ensure broad sharing of cancer research data from federally funded research.
@@ -42,4 +47,4 @@ In addition to open-access data sets, NCI facilitates requests to controlled-acc
 
 ---
 
-**Updated:** August 14, 2025
+**Updated:** November 14, 2025
