@@ -7,7 +7,7 @@ date: 2025-05-30
 # Access Data
 
 > **&#10071; NOTICE:**  
-> We apologize for any temporary delays in processing NCI data access requests due to the recent federal government closure. We appreciate your patience as we work to restore normal operations as quickly as possible. Thank you for your understanding and continued collaboration in advancing cancer research.
+> **We apologize for any temporary delays in processing NCI data access requests due to the recent federal government closure. We appreciate your patience as we work to restore normal operations as quickly as possible. Thank you for your understanding and continued collaboration in advancing cancer research.**
 
 &nbsp;
 
