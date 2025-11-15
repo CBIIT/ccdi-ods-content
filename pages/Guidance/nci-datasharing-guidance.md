@@ -29,7 +29,7 @@ In short, when you have a question about how and when to share your NCI-funded r
 
 As mentioned in the video, -->
 
-NCI's data sharing approach starts and ends with the patient in mind, and ODS supports data sharing in three main ways. They:
+ODS supports data sharing in three main ways. They:
 
 - advise on programs that define impactful data and resources,
 - implement policies that promote broad access and use of data, and
