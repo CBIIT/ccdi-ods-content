@@ -34,7 +34,7 @@
     "updates": [
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Announcement_Icon_01.png",
-        "title": "Temporary Delay in dbGaP Data Access and Submission Request Processing",
+        "title": "Temporary Delay in dbGaP Data Access and Submission Requests",
         "description": "We apologize for any temporary delays in processing NCI data requests due to the recent federal government closure. We appreciate your patience as we work to restore normal operations as quickly as possible.",
         "readMoreColor": "[#76E7DD]",
         "link": "/post/Process/Access-data/"
