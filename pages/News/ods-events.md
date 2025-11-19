@@ -10,7 +10,7 @@ The NCI [Office of Data Sharing](/post/About/About-ODS) (ODS) hosts regular even
 
 **[Sign up for the ODS Newsletter](https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332)** to stay up-to-date on upcoming events.
 
-![Stylized image of glowing data node cubes across a blue background that evokes both a circuit board and a map](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_nodes_01_800x335.png)
+![Image of a blurry, professionally dressed crowd walking through a large conference space with stylized splashes of orange and blue light.](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/conference_crowd_01_900x300.png)
 
 ## Annual Data Sharing Symposium
 
