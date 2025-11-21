@@ -82,11 +82,6 @@
     
     "News": [
       {
-        "name": "Events and Webinars",
-        "link": "/post/News/ods-events",
-        "className": "navMobileSubItem"
-      },
-      {
         "name": "Data Sharing Champions",
         "link": "/post/News/data-sharing-champions",
         "className": "navMobileSubItem"
