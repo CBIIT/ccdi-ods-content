@@ -40,11 +40,11 @@
         "link": "/post/Process/Access-data/"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Symposium_Collaboration_01.png",
-        "title": "NCI Office of Data Sharing Third Annual Symposium",
-        "description": "Join us in person or virtually for the Third Annual Data Sharing Symposium: How Data Advances the Impact of Cancer Research (Sept 30th and Oct 1st). ",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Data_Science_01.png",
+        "title": "ODS Webinar: Cancer Data Sharing in Action",
+        "description": "ODS Symposium highlights: Resources, examples, and the far-reaching impact of data sharing and reuse.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://events.cancer.gov/ods/annualdatasharingsymposium/registration"
+        "link": "https://cbiit.webex.com/weblink/register/r7e9a8d609dfd9849a5a5772ff7df9f94"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
