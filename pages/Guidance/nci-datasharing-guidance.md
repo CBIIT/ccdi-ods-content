@@ -27,7 +27,7 @@ In short, when you have a question about how and when to share your NCI-funded r
 
 &nbsp;
 
-As mentioned in the video,  -->
+As mentioned in the video, -->
 
 ODS supports data sharing in three main ways. They:
 

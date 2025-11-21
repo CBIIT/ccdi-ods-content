@@ -10,6 +10,10 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2025
 
+### September 2025
+
+- [Highlighting Childhood Cancer Awareness Month](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-09-05_Highlighting_Childhood_Cancer_Awareness_Month.pdf)
+
 ### August 2025
 
 - [Explore the New NCI Data Sharing Hub](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-08-07_Explore_the_New_NCI_Data_Sharing_Hub.pdf)
@@ -149,4 +153,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** September 30, 2025
+**Updated:** November 21, 2025
