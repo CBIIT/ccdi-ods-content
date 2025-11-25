@@ -82,8 +82,8 @@
     
     "News": [
       {
-        "name": "ODS Events",
-        "link": "/post/News/ODS-events",
+        "name": "ODS Events and Webinars",
+        "link": "/post/News/ods-events",
         "className": "navMobileSubItem"
       },
       {
