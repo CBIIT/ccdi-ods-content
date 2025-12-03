@@ -21,25 +21,25 @@ Beginning in January 2026, ODS will kick off a data jamboree public webinar seri
 
 ## Upcoming Webinars
 
-**NCI ODS Data Jamboree Seminar Series**  
+### NCI ODS Data Jamboree Seminar Series I
+
 Tuesday, January 13 2026 11:00 AM - 1:00 PM EST  
 [Register Here](https://cbiit.webex.com/weblink/register/r296cb77a3dc34d5b357f1cb0c33efead)
 
-**Speakers and Topics**  
+**Speakers and Topics**
 
 - Michael Sierk, CBIIT, NCI, NIH: VCF Table Viewer: Interactive Visualization of VCF Files from Childhood Cancer Data Initiative (CCDI)
 - *James Galbraith, *Lucy Han; Abdullah Awaysheh, Abegail Gill, Anna Fernandez, Booz Allen Hamilton: Practical Quality Assessment & Enrichment of Childhood/AYA Cancer Datasets.
 - David Higgins, Children's Hospital of Philadelphia: Tutorial and Example Notebooks for the Kids First Variant Workbench
 - Matthew Gavriel, St. Jude Children's Research Hospital: Identifying and Annotating Variants Associated with Headaches in Childhood Cancer Survivors
 
----
+### NCI ODS Data Jamboree Seminar Series II
 
-**NCI ODS Data Jamboree Seminar Series**  
 Tuesday, February 24, 2026 11:00 AM - 1:00 PM EST  
 [Register Here](https://cbiit.webex.com/weblink/register/re77cc232f45cdfcf2e60194280569037
 )
 
-**Speakers and Topics**  
+**Speakers and Topics**
 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Aenean sodales urna et vehicula porta. Maecenas quis sapien auctor, vehicula neque eleifend, fringilla nisi.
@@ -47,11 +47,11 @@ Tuesday, February 24, 2026 11:00 AM - 1:00 PM EST
 
 ## Past Webinars
 
-**ODS Webinar Series: Innaugural Webinar**  
+### ODS Webinar Series: Innaugural Webinar 
 Tuesday, February 24, 2025 11:00 AM - 1:00 PM EST  
 [View Recording]((https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf))
 
-Speakers and Topics
+**Speakers and Topics**
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 Aenean sodales urna et vehicula porta. Maecenas quis sapien auctor, vehicula neque eleifend, fringilla nisi.
