@@ -100,6 +100,11 @@
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
         "className": "navMobileSubItem"
+      },
+      {
+        "name": "ODS News",
+        "link": "/post/News/ods-news",
+        "className": "navMobileSubItem"
       }
     ],
     
