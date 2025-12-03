@@ -28,4 +28,4 @@ The inaugural ODS Data Jamboree, held in September 2025, brought together divers
 
 The ODS Webinar Series features expert speakers discussing current topics in data sharing, policy updates, and best practices. The goal is to promote broad data sharing and reuse that benefits the entire cancer community.
 
-[Learn more about ODS Webinars](/post/ods-webinars)
+[Learn more about ODS Webinars](/post/News/ods-webinars)
