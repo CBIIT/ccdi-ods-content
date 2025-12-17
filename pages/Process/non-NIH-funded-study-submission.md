@@ -75,7 +75,7 @@ For additional questions about submitting data to NCI and NIH repositories, plea
 
 If you encounter difficulties submitting data to dbGaP, please contact their help resources directly.
 
-| Repository | Contact |
+| **Repository** | **Contact** |
 |------------|---------|
 | Database of Genotypes and Phenotypes (dbGaP) | [dbGaP Contact Form](https://dbgap.ncbi.nlm.nih.gov/aa/wga.cgi?page=email&from=login) |
 | Sequence Read Archive (SRA) | [SRA Help Desk](mailto:sra@ncbi.nlm.nih.gov) |

@@ -130,7 +130,7 @@ Describe how you'll govern your DMS Plan. Be sure to include:
 
 The format you use can vary. To keep it simple, you might want to consider using a template, such as a table, to capture important details about your data and your approach to managing and sharing those data. Below is an example of some key items to capture in your DMS Plan.
 
-| Data Types to be Generated/Collected | Data to be Shared | Brief Description of Methodology (Including Timelines) | Software/Codes for Accessing/Manipulating Data | Data Standards | Name(s) of Repositories | Estimated Data Sharing Timelines | Oversight of DMS |
+| **Data Types to be Generated/Collected** | **Data to be Shared** | **Brief Description of Methodology (Including Timelines)** | **Software/Codes for Accessing/Manipulating Data** | **Data Standards** | **Name(s) of Repositories** | **Estimated Data Sharing Timelines** | **Oversight of DMS** |
 |---|---|---|---|---|---|---|---|
 | Genomics/Genetics | Yes, all data sets | 200 human subjects before and after therapy | GATK -- open source | FASTQ, BAM, VCF (HG38) HTAN model | SRA | Submission: L2/L3 data to SRA by June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
 | Clinical Data (Routine Care and Clinical Research) | Yes, all data sets | 200 human subjects before and after therapy | No special software needed to access and use the data | JSON, CaDSR | dbGaP deidentified (Safe Harbor) | Submission: June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
