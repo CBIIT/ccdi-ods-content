@@ -83,7 +83,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 - **Applicability**: All clinical trials funded in whole or in part by NIH
 - **Expectations**: Submit a plan for dissemination of clinical trial information as part of DMS plan
 - **Sharing Timelines**: Registration within 21 days of first enrollment; results not later than 1 year after primary completion date
-- **Data Location(s)**: ClinicalTrials.org
+- **Data Location(s)**: [ClinicalTrials.gov](https://clinicaltrials.gov/)
 - [NIH Clinical Trial Dissemination Policy FAQs](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/steps)
 
 ### Intramural Research Program Human Data Sharing (HDS) Policy
