@@ -11,7 +11,7 @@ date: 2025-05-30
 
 &nbsp;
 
-![Stylized image of a magnifying glass over a digital landscape of data visualizations](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_800x335.png)
+![Stylized image of a magnifying glass over a digital landscape of data visualizations](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/data_magnifying_glass_01_900x300.png)
 
 When investigators submit their data to repositories, they allow others to build on their original discoveries and share insight through secondary data use. NCI and NIH offer multiple data repositories to ensure broad sharing of cancer research data from federally funded research.
 
