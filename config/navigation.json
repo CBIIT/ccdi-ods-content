@@ -26,7 +26,7 @@
       "className": "navMobileItem"
     },
     {
-      "name": "News & Events",
+      "name": "News",
       "link": "/collection/News",
       "className": "navMobileItem clickable"
     },
@@ -80,12 +80,7 @@
       }
     ],
     
-    "News & Events": [
-      {
-        "name": "ODS Events and Webinars",
-        "link": "/post/News/ods-events",
-        "className": "navMobileSubItem"
-      },
+    "News": [
       {
         "name": "Data Sharing Champions",
         "link": "/post/News/data-sharing-champions",
@@ -99,11 +94,6 @@
       {
         "name": "ODS Connect Newsletter Archive",
         "link": "/post/News/ODS-connect-archive",
-        "className": "navMobileSubItem"
-      },
-      {
-        "name": "ODS News",
-        "link": "/post/News/ods-news",
         "className": "navMobileSubItem"
       }
     ],
