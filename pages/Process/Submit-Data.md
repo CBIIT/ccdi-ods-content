@@ -6,7 +6,7 @@ date: 2025-05-30
 
 # Submit Data
 
-![Stylized image of glowing data node cubes across a blue background that evokes both a circuit board and a map](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/data_nodes_01_900x300.png)
+![Stylized image of glowing data node cubes across a blue background that evokes both a circuit board and a map](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_nodes_01_900x300.png)
 
 Data sharing allows data generated from one research study to be used to answer questions beyond the original study. It reinforces open scientific inquiry, encourages diversity of analysis, supports studies on data collection methods and measurement, facilitates the education of new researchers, enables the exploration of topics not envisioned by the initial investigators, and permits the creation of new datasets when data from multiple sources are combined.
 
