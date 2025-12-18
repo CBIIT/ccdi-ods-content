@@ -6,12 +6,7 @@ date: 2025-05-30
 
 # Access Data
 
-> **&#10071; NOTICE:**  
-> **We apologize for any temporary delays in processing NCI data access requests due to the recent federal government closure. We appreciate your patience as we work to restore normal operations as quickly as possible. Thank you for your understanding and continued collaboration in advancing cancer research.**
-
-&nbsp;
-
-![Stylized image of a magnifying glass over a digital landscape of data visualizations](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_800x335.png)
+![Stylized image of a magnifying glass over a digital landscape of data visualizations](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png)
 
 When investigators submit their data to repositories, they allow others to build on their original discoveries and share insight through secondary data use. NCI and NIH offer multiple data repositories to ensure broad sharing of cancer research data from federally funded research.
 
@@ -32,14 +27,14 @@ In addition to open-access data sets, NCI facilitates requests to controlled-acc
 ## Where to Find Scientific Data
 
 | | |
-|---|---|
+| --- | --- |
 | ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Accessing Scientific Data](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Index of NCI Studies](https://studycatalog.cancer.gov) |
 
 ## Where to Find Genomic Data
 
 | | |
-|---|---|
+| --- | --- |
 | ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [Accessing Genomic Data from NIH Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/genomic-data) |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [How to Request and Access Datasets from dbGaP](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/dbgap) |
 
@@ -47,4 +42,4 @@ In addition to open-access data sets, NCI facilitates requests to controlled-acc
 
 ---
 
-**Updated:** November 14, 2025
+**Updated:** December 18, 2025
