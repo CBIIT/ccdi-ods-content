@@ -36,16 +36,16 @@ date: 2025-06-04
 ### Standard Table
 
 | Basic Header | **Bold Header** | *Italic Header* | ***Bold Italics Header. This is an example of a header that contains many characters, which will require the header to use multiple lines for display because of text wrapping to accommodate a necessarily verbose table column header that includes a self-referential run-on sentence.*** |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Forced<br>Multi-<br>Line<br>Content | 999 | Empty below | &alpha; &beta; &delta; &gamma; &mu; |
 | ABC | 00001 | | Many character word wrap: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. |
 
 ### Headerless Table
 
 | | |
-|---|---|
-| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [External link - cancer.gov](https://cancer.gov)  |
-| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test)  |
+| --- | --- |
+| ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [External link - cancer.gov](https://cancer.gov) |
+| ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [Internal link - This page](/post/_Dev_Resources/DEV_Style_Test) |
 
 ## Links
 
@@ -57,7 +57,9 @@ date: 2025-06-04
 [PDF link - New Tab Browser View](https://cbiit.github.io/ccdi-ods-content/pages/documents/test/DSHub_test_file.pdf)  
 [DOCX link - Direct Download](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/documents/test/DSHub_test_file.docx)  
 
-## Embedded video
+## HTML Testing
+
+### Embedded Video
 
 <iframe
   height="458"
@@ -67,6 +69,17 @@ date: 2025-06-04
   allowfullscreen
   title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
 </iframe>
+
+---
+
+### Style Tags
+
+<style>
+.test-gallery { border: 2px solid red; padding: 20px; }
+</style>
+<div class="test-gallery">
+  Test using style tags. This should have a red border if tags not stripped.
+</div>
 
 ---
 
