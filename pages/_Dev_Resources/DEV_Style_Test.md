@@ -91,7 +91,7 @@ date: 2025-06-04
 /* Main container */
 .event-carousel {
   position: relative;
-  max-width: 800px;
+  max-width: 900px;
   margin: 20px auto;
   overflow: hidden;
 }
@@ -157,11 +157,15 @@ date: 2025-06-04
        alt="Test image 2">
   <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
        alt="Test image 3">
-  
+  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png" 
+       alt="Test image 4">
+  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png" 
+       alt="Test image 5">
+
   <button class="carousel-btn prev-btn" 
-          onclick="moveSlide(-1)">❮</button>
+          id="prevBtn">❮</button>
   <button class="carousel-btn next-btn" 
-          onclick="moveSlide(1)">❯</button>
+          id="nextBtn">❯</button>
 </div>
 
 <!-- Dots appear here automatically -->
@@ -172,49 +176,71 @@ date: 2025-06-04
 <!-- JAVASCRIPT: Makes gallery buttons work -->
 <!-- ============================================ -->
 <script>
-let currentIndex = 0;
-const images = document.querySelectorAll(
-  '#eventGallery img'
-);
-const dotsContainer = document.getElementById(
-  'dotsContainer'
-);
-
-// Create navigation dots
-for (let i = 0; i < images.length; i++) {
-  const dot = document.createElement('span');
-  dot.className = i === 0 ? 'dot active' : 'dot';
-  dot.onclick = () => showSlide(i);
-  dotsContainer.appendChild(dot);
-}
-
-// Show a specific slide
-function showSlide(index) {
-  const dots = document.querySelectorAll('.dot');
+(function() {
+  let currentIndex = 0;
+  const images = document.querySelectorAll(
+    '#eventGallery img'
+  );
+  const dotsContainer = 
+    document.getElementById('dotsContainer');
+  const prevBtn = 
+    document.getElementById('prevBtn');
+  const nextBtn = 
+    document.getElementById('nextBtn');
   
-  images[currentIndex].classList.remove('active');
-  dots[currentIndex].classList.remove('active');
-  
-  currentIndex = index;
-  
-  images[currentIndex].classList.add('active');
-  dots[currentIndex].classList.add('active');
-}
-
-// Move forward or backward
-function moveSlide(direction) {
-  let newIndex = currentIndex + direction;
-  
-  // Wrap around
-  if (newIndex < 0) {
-    newIndex = images.length - 1;
-  }
-  if (newIndex >= images.length) {
-    newIndex = 0;
+  // Create dots
+  for (let i = 0; i < images.length; i++) {
+    const dot = document.createElement('span');
+    dot.className = 
+      i === 0 ? 'dot active' : 'dot';
+    dot.addEventListener('click', function() {
+      showSlide(i);
+    });
+    dotsContainer.appendChild(dot);
   }
   
-  showSlide(newIndex);
-}
+  // Show specific slide
+  function showSlide(index) {
+    const dots = 
+      document.querySelectorAll('.dot');
+    
+    images[currentIndex]
+      .classList.remove('active');
+    dots[currentIndex]
+      .classList.remove('active');
+    
+    currentIndex = index;
+    
+    images[currentIndex]
+      .classList.add('active');
+    dots[currentIndex]
+      .classList.add('active');
+  }
+  
+  // Move slides
+  function moveSlide(direction) {
+    let newIndex = currentIndex + direction;
+    
+    if (newIndex < 0) {
+      newIndex = images.length - 1;
+    }
+    if (newIndex >= images.length) {
+      newIndex = 0;
+    }
+    
+    showSlide(newIndex);
+  }
+  
+  // Attach button listeners
+  prevBtn.addEventListener('click', function() {
+    moveSlide(-1);
+  });
+  
+  nextBtn.addEventListener('click', function() {
+    moveSlide(1);
+  });
+  
+})();
 </script>
 
 <!-- ============================================ -->
