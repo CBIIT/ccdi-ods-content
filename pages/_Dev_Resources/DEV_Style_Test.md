@@ -176,71 +176,97 @@ date: 2025-06-04
 <!-- JAVASCRIPT: Makes gallery buttons work -->
 <!-- ============================================ -->
 <script>
-(function() {
-  let currentIndex = 0;
-  const images = document.querySelectorAll(
-    '#eventGallery img'
-  );
-  const dotsContainer = 
-    document.getElementById('dotsContainer');
-  const prevBtn = 
-    document.getElementById('prevBtn');
-  const nextBtn = 
-    document.getElementById('nextBtn');
-  
-  // Create dots
-  for (let i = 0; i < images.length; i++) {
-    const dot = document.createElement('span');
-    dot.className = 
-      i === 0 ? 'dot active' : 'dot';
-    dot.addEventListener('click', function() {
-      showSlide(i);
-    });
-    dotsContainer.appendChild(dot);
-  }
-  
-  // Show specific slide
-  function showSlide(index) {
-    const dots = 
-      document.querySelectorAll('.dot');
+document.addEventListener(
+  'DOMContentLoaded', 
+  function() {
+    let currentIndex = 0;
+    const images = document.querySelectorAll(
+      '#eventGallery img'
+    );
+    const dotsContainer = 
+      document.getElementById('dotsContainer');
+    const prevBtn = 
+      document.getElementById('prevBtn');
+    const nextBtn = 
+      document.getElementById('nextBtn');
     
-    images[currentIndex]
-      .classList.remove('active');
-    dots[currentIndex]
-      .classList.remove('active');
+    // Debug - check if elements found
+    console.log('Images found:', images.length);
+    console.log('Prev button:', prevBtn);
+    console.log('Next button:', nextBtn);
     
-    currentIndex = index;
-    
-    images[currentIndex]
-      .classList.add('active');
-    dots[currentIndex]
-      .classList.add('active');
-  }
-  
-  // Move slides
-  function moveSlide(direction) {
-    let newIndex = currentIndex + direction;
-    
-    if (newIndex < 0) {
-      newIndex = images.length - 1;
-    }
-    if (newIndex >= images.length) {
-      newIndex = 0;
+    if (!prevBtn || !nextBtn) {
+      console.error('Buttons not found!');
+      return;
     }
     
-    showSlide(newIndex);
+    // Create dots
+    for (let i = 0; i < images.length; i++) {
+      const dot = 
+        document.createElement('span');
+      dot.className = 
+        i === 0 ? 'dot active' : 'dot';
+      dot.addEventListener(
+        'click', 
+        function() {
+          showSlide(i);
+        }
+      );
+      dotsContainer.appendChild(dot);
+    }
+    
+    // Show specific slide
+    function showSlide(index) {
+      const dots = 
+        document.querySelectorAll('.dot');
+      
+      images[currentIndex]
+        .classList.remove('active');
+      dots[currentIndex]
+        .classList.remove('active');
+      
+      currentIndex = index;
+      
+      images[currentIndex]
+        .classList.add('active');
+      dots[currentIndex]
+        .classList.add('active');
+    }
+    
+    // Move slides
+    function moveSlide(direction) {
+      let newIndex = 
+        currentIndex + direction;
+      
+      if (newIndex < 0) {
+        newIndex = images.length - 1;
+      }
+      if (newIndex >= images.length) {
+        newIndex = 0;
+      }
+      
+      showSlide(newIndex);
+    }
+    
+    // Attach button listeners
+    prevBtn.addEventListener(
+      'click', 
+      function() {
+        console.log('Prev clicked');
+        moveSlide(-1);
+      }
+    );
+    
+    nextBtn.addEventListener(
+      'click', 
+      function() {
+        console.log('Next clicked');
+        moveSlide(1);
+      }
+    );
+    
   }
-  
-  // Attach button listeners
-  prevBtn.addEventListener('click', function() {
-    moveSlide(-1);
-  });
-  
-  nextBtn.addEventListener('click', function() {
-    moveSlide(1);
-  });
-  
-})();
+);
 </script>
 
 <!-- ============================================ -->
