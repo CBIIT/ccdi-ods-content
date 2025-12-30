@@ -88,186 +88,112 @@ date: 2025-06-04
 <!-- ============================================ -->
 
 <style>
-/* Main container */
-.event-carousel {
+/* Hide radio buttons */
+.carousel-radio {
+  display: none;
+}
+
+/* Carousel container */
+.css-carousel {
   position: relative;
   max-width: 900px;
   margin: 20px auto;
   overflow: hidden;
 }
 
-/* Hide all images by default */
-.event-carousel img {
+/* Stack all images */
+.css-carousel img {
   width: 100%;
-  display: none;
-}
-
-/* Show only the active image */
-.event-carousel img.active {
-  display: block;
-}
-
-/* Arrow buttons */
-.carousel-btn {
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: rgba(0,0,0,0.6);
-  color: white;
-  border: none;
-  padding: 15px 20px;
-  font-size: 24px;
-  cursor: pointer;
-  z-index: 10;
+  opacity: 0;
+  transition: opacity 0.5s;
 }
-.carousel-btn:hover {
-  background: rgba(0,0,0,0.8);
-}
-.prev-btn { left: 10px; }
-.next-btn { right: 10px; }
 
-/* Dot navigation */
-.carousel-dots {
+/* Show first image by default */
+.css-carousel img:first-of-type {
+  position: relative;
+  opacity: 1;
+}
+
+/* Radio button controls visibility */
+#slide1:checked ~ .carousel-images img:nth-of-type(1),
+#slide2:checked ~ .carousel-images img:nth-of-type(2),
+#slide3:checked ~ .carousel-images img:nth-of-type(3),
+#slide4:checked ~ .carousel-images img:nth-of-type(4),
+#slide5:checked ~ .carousel-images img:nth-of-type(5) {
+  opacity: 1;
+  position: relative;
+}
+
+/* Navigation labels (arrows) */
+.carousel-nav {
+  position: relative;
   text-align: center;
-  padding: 15px 0;
+  margin-top: 10px;
 }
-.dot {
-  height: 12px;
-  width: 12px;
-  margin: 0 5px;
-  background-color: #bbb;
-  border-radius: 50%;
+
+.carousel-nav label {
   display: inline-block;
+  padding: 10px 20px;
+  margin: 5px;
+  background: #333;
+  color: white;
   cursor: pointer;
+  border-radius: 5px;
 }
-.dot.active {
-  background-color: #333;
+
+.carousel-nav label:hover {
+  background: #555;
 }
 </style>
 
-<!-- ============================================ -->
-<!-- IMAGES: Add gallery images here -->
-<!-- First image needs class="active" -->
-<!-- ============================================ -->
-<div class="event-carousel" id="eventGallery">
-  <img class="active" 
-       src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png" 
-       alt="Test image 1">
-  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png" 
-       alt="Test image 2">
-  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
-       alt="Test image 3">
-  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png" 
-       alt="Test image 4">
-  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png" 
-       alt="Test image 5">
-
-  <button class="carousel-btn prev-btn" 
-          id="prevBtn">❮</button>
-  <button class="carousel-btn next-btn" 
-          id="nextBtn">❯</button>
+<div class="css-carousel">
+  <!-- Radio buttons for state -->
+  <input type="radio" 
+         name="carousel" 
+         id="slide1" 
+         class="carousel-radio" 
+         checked>
+  <input type="radio" 
+         name="carousel" 
+         id="slide2" 
+         class="carousel-radio">
+  <input type="radio" 
+         name="carousel" 
+         id="slide3" 
+         class="carousel-radio">
+  <input type="radio" 
+         name="carousel" 
+         id="slide4" 
+         class="carousel-radio">
+  <input type="radio" 
+         name="carousel" 
+         id="slide5" 
+         class="carousel-radio">
+  
+  <!-- Images -->
+  <div class="carousel-images">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png" 
+         alt="Test image 1">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png" 
+         alt="Test image 2">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
+         alt="Test image 3">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png" 
+         alt="Test image 4">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png" 
+         alt="Test image 5">
+  </div>
+  
+  <!-- Navigation -->
+  <div class="carousel-nav">
+    <label for="slide1">1</label>
+    <label for="slide2">2</label>
+    <label for="slide3">3</label>
+    <label for="slide4">4</label>
+    <label for="slide5">5</label>
+  </div>
 </div>
-
-<!-- Dots appear here automatically -->
-<div class="carousel-dots" 
-     id="dotsContainer"></div>
-
-<!-- ============================================ -->
-<!-- JAVASCRIPT: Makes gallery buttons work -->
-<!-- ============================================ -->
-<script>
-document.addEventListener(
-  'DOMContentLoaded', 
-  function() {
-    let currentIndex = 0;
-    const images = document.querySelectorAll(
-      '#eventGallery img'
-    );
-    const dotsContainer = 
-      document.getElementById('dotsContainer');
-    const prevBtn = 
-      document.getElementById('prevBtn');
-    const nextBtn = 
-      document.getElementById('nextBtn');
-    
-    // Debug - check if elements found
-    console.log('Images found:', images.length);
-    console.log('Prev button:', prevBtn);
-    console.log('Next button:', nextBtn);
-    
-    if (!prevBtn || !nextBtn) {
-      console.error('Buttons not found!');
-      return;
-    }
-    
-    // Create dots
-    for (let i = 0; i < images.length; i++) {
-      const dot = 
-        document.createElement('span');
-      dot.className = 
-        i === 0 ? 'dot active' : 'dot';
-      dot.addEventListener(
-        'click', 
-        function() {
-          showSlide(i);
-        }
-      );
-      dotsContainer.appendChild(dot);
-    }
-    
-    // Show specific slide
-    function showSlide(index) {
-      const dots = 
-        document.querySelectorAll('.dot');
-      
-      images[currentIndex]
-        .classList.remove('active');
-      dots[currentIndex]
-        .classList.remove('active');
-      
-      currentIndex = index;
-      
-      images[currentIndex]
-        .classList.add('active');
-      dots[currentIndex]
-        .classList.add('active');
-    }
-    
-    // Move slides
-    function moveSlide(direction) {
-      let newIndex = 
-        currentIndex + direction;
-      
-      if (newIndex < 0) {
-        newIndex = images.length - 1;
-      }
-      if (newIndex >= images.length) {
-        newIndex = 0;
-      }
-      
-      showSlide(newIndex);
-    }
-    
-    // Attach button listeners
-    prevBtn.addEventListener(
-      'click', 
-      function() {
-        console.log('Prev clicked');
-        moveSlide(-1);
-      }
-    );
-    
-    nextBtn.addEventListener(
-      'click', 
-      function() {
-        console.log('Next clicked');
-        moveSlide(1);
-      }
-    );
-    
-  }
-);
-</script>
 
 <!-- ============================================ -->
 <!-- END: IMAGE GALLERY using HTML -->
