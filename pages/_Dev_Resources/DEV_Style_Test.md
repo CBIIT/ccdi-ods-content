@@ -101,21 +101,29 @@ date: 2025-06-04
   overflow: hidden;
 }
 
-/* Stack all images */
-.css-carousel img {
+/* Image container - maintain aspect ratio */
+.carousel-images {
+  position: relative;
   width: 100%;
+  min-height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Hide ALL images by default */
+.carousel-images img {
+  max-width: 100%;
+  max-height: 600px;
+  width: auto;
+  height: auto;
   position: absolute;
   opacity: 0;
+  object-fit: contain;
   transition: opacity 0.5s;
 }
 
-/* Show first image by default */
-.css-carousel img:first-of-type {
-  position: relative;
-  opacity: 1;
-}
-
-/* Radio button controls visibility */
+/* Show ONLY the selected image */
 #slide1:checked ~ .carousel-images img:nth-of-type(1),
 #slide2:checked ~ .carousel-images img:nth-of-type(2),
 #slide3:checked ~ .carousel-images img:nth-of-type(3),
@@ -125,9 +133,8 @@ date: 2025-06-04
   position: relative;
 }
 
-/* Navigation labels (arrows) */
+/* Navigation labels */
 .carousel-nav {
-  position: relative;
   text-align: center;
   margin-top: 10px;
 }
@@ -148,7 +155,6 @@ date: 2025-06-04
 </style>
 
 <div class="css-carousel">
-  <!-- Radio buttons for state -->
   <input type="radio" 
          name="carousel" 
          id="slide1" 
@@ -171,21 +177,19 @@ date: 2025-06-04
          id="slide5" 
          class="carousel-radio">
   
-  <!-- Images -->
   <div class="carousel-images">
     <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png" 
-         alt="Test image 1">
+         alt="Image 1">
     <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png" 
-         alt="Test image 2">
+         alt="Image 2">
     <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
-         alt="Test image 3">
+         alt="Image 3">
     <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png" 
-         alt="Test image 4">
+         alt="Image 4">
     <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png" 
-         alt="Test image 5">
+         alt="Image 5">
   </div>
   
-  <!-- Navigation -->
   <div class="carousel-nav">
     <label for="slide1">1</label>
     <label for="slide2">2</label>
