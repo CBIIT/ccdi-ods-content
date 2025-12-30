@@ -81,6 +81,146 @@ date: 2025-06-04
   Test using style tags. This should have a red border if tags not stripped.
 </div>
 
+### Image Gallery
+
+<!-- ============================================ -->
+<!-- START: IMAGE GALLERY using HTML -->
+<!-- ============================================ -->
+
+<style>
+/* Main container */
+.event-carousel {
+  position: relative;
+  max-width: 800px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+
+/* Hide all images by default */
+.event-carousel img {
+  width: 100%;
+  display: none;
+}
+
+/* Show only the active image */
+.event-carousel img.active {
+  display: block;
+}
+
+/* Arrow buttons */
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(0,0,0,0.6);
+  color: white;
+  border: none;
+  padding: 15px 20px;
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 10;
+}
+.carousel-btn:hover {
+  background: rgba(0,0,0,0.8);
+}
+.prev-btn { left: 10px; }
+.next-btn { right: 10px; }
+
+/* Dot navigation */
+.carousel-dots {
+  text-align: center;
+  padding: 15px 0;
+}
+.dot {
+  height: 12px;
+  width: 12px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  cursor: pointer;
+}
+.dot.active {
+  background-color: #333;
+}
+</style>
+
+<!-- ============================================ -->
+<!-- IMAGES: Add gallery images here -->
+<!-- First image needs class="active" -->
+<!-- ============================================ -->
+<div class="event-carousel" id="eventGallery">
+  <img class="active" 
+       src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png" 
+       alt="Test image 1">
+  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png" 
+       alt="Test image 2">
+  <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
+       alt="Test image 3">
+  
+  <button class="carousel-btn prev-btn" 
+          onclick="moveSlide(-1)">❮</button>
+  <button class="carousel-btn next-btn" 
+          onclick="moveSlide(1)">❯</button>
+</div>
+
+<!-- Dots appear here automatically -->
+<div class="carousel-dots" 
+     id="dotsContainer"></div>
+
+<!-- ============================================ -->
+<!-- JAVASCRIPT: Makes gallery buttons work -->
+<!-- ============================================ -->
+<script>
+let currentIndex = 0;
+const images = document.querySelectorAll(
+  '#eventGallery img'
+);
+const dotsContainer = document.getElementById(
+  'dotsContainer'
+);
+
+// Create navigation dots
+for (let i = 0; i < images.length; i++) {
+  const dot = document.createElement('span');
+  dot.className = i === 0 ? 'dot active' : 'dot';
+  dot.onclick = () => showSlide(i);
+  dotsContainer.appendChild(dot);
+}
+
+// Show a specific slide
+function showSlide(index) {
+  const dots = document.querySelectorAll('.dot');
+  
+  images[currentIndex].classList.remove('active');
+  dots[currentIndex].classList.remove('active');
+  
+  currentIndex = index;
+  
+  images[currentIndex].classList.add('active');
+  dots[currentIndex].classList.add('active');
+}
+
+// Move forward or backward
+function moveSlide(direction) {
+  let newIndex = currentIndex + direction;
+  
+  // Wrap around
+  if (newIndex < 0) {
+    newIndex = images.length - 1;
+  }
+  if (newIndex >= images.length) {
+    newIndex = 0;
+  }
+  
+  showSlide(newIndex);
+}
+</script>
+
+<!-- ============================================ -->
+<!-- END: IMAGE GALLERY using HTML -->
+<!-- ============================================ -->
+
 ---
 
 ## Lorem Ipsum
