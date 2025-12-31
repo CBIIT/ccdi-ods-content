@@ -135,7 +135,7 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: 4px;
+  margin-top: -20px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -157,14 +157,6 @@ date: 2025-06-04
 
 .carousel-nav label:hover {
   background: #555;
-}
-
-/* Mobile adjustments */
-@media (max-width: 600px) {
-  .carousel-nav label {
-    padding: 10px 14px;
-    font-size: 14px;
-  }
 }
 
 </style>
