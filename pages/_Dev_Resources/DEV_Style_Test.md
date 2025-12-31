@@ -70,8 +70,6 @@ date: 2025-06-04
   title="Office of Data Sharing, You, and the Data Sharing Lifecycle">
 </iframe>
 
----
-
 ### Style Tags
 
 <style>
@@ -97,7 +95,7 @@ date: 2025-06-04
 .css-carousel {
   position: relative;
   max-width: 900px;
-  margin: 0px auto;
+  margin: -20px auto 0px auto;
   overflow: hidden;
 }
 
@@ -128,8 +126,8 @@ date: 2025-06-04
 #slide2:checked ~ .carousel-images img:nth-of-type(2),
 #slide3:checked ~ .carousel-images img:nth-of-type(3),
 #slide4:checked ~ .carousel-images img:nth-of-type(4),
-#slide4:checked ~ .carousel-images img:nth-of-type(5),
-#slide5:checked ~ .carousel-images img:nth-of-type(6) {
+#slide5:checked ~ .carousel-images img:nth-of-type(5),
+#slide6:checked ~ .carousel-images img:nth-of-type(6) {
   opacity: 1;
   position: relative;
 }
@@ -210,8 +208,6 @@ date: 2025-06-04
 <!-- ============================================ -->
 <!-- END: IMAGE GALLERY using HTML -->
 <!-- ============================================ -->
-
----
 
 ## Lorem Ipsum
 
