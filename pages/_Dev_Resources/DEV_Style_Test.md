@@ -135,10 +135,11 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
+  margin-top: -40px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 4px;
+  gap: 8px;
   padding: 0 8px;
 }
 
@@ -157,6 +158,15 @@ date: 2025-06-04
 .carousel-nav label:hover {
   background: #555;
 }
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  .carousel-nav label {
+    padding: 10px 14px;
+    font-size: 14px;
+  }
+}
+
 </style>
 
 <div class="css-carousel">
