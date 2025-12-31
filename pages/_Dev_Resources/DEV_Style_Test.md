@@ -135,7 +135,7 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: -40px;
+  margin-top: 4px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
