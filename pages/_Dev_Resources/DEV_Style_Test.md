@@ -95,7 +95,7 @@ date: 2025-06-04
 .css-carousel {
   position: relative;
   max-width: 900px;
-  margin: -40px auto 0px auto;
+  margin: 12px auto 0px auto;
   overflow: hidden;
 }
 
@@ -103,7 +103,7 @@ date: 2025-06-04
 .carousel-images {
   position: relative;
   width: 100%;
-  min-height: 400px;
+  min-height: 300px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -112,7 +112,7 @@ date: 2025-06-04
 /* Hide ALL images by default */
 .carousel-images img {
   max-width: 100%;
-  max-height: 600px;
+  max-height: 300px;
   width: auto;
   height: auto;
   position: absolute;
@@ -135,11 +135,11 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: -20px;
+  margin-top: 4px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  gap: 8px;
+  gap: 12px;
   padding: 0 8px;
 }
 
