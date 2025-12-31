@@ -95,7 +95,7 @@ date: 2025-06-04
 .css-carousel {
   position: relative;
   max-width: 900px;
-  margin: -30px auto 0px auto;
+  margin: -40px auto 0px auto;
   overflow: hidden;
 }
 
@@ -135,17 +135,23 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: -20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4px;
+  padding: 0 8px;
 }
 
 .carousel-nav label {
   display: inline-block;
   padding: 8px 16px;
-  margin: 8px;
+  margin: 0;
   background: #333;
   color: white;
   cursor: pointer;
   border-radius: 4px;
+  font-size: 16px;
+  min-width: 44px;
 }
 
 .carousel-nav label:hover {
