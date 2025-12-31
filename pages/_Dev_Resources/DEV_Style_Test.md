@@ -97,7 +97,7 @@ date: 2025-06-04
 .css-carousel {
   position: relative;
   max-width: 900px;
-  margin: 8px auto;
+  margin: 0px auto;
   overflow: hidden;
 }
 
@@ -128,7 +128,8 @@ date: 2025-06-04
 #slide2:checked ~ .carousel-images img:nth-of-type(2),
 #slide3:checked ~ .carousel-images img:nth-of-type(3),
 #slide4:checked ~ .carousel-images img:nth-of-type(4),
-#slide5:checked ~ .carousel-images img:nth-of-type(5) {
+#slide4:checked ~ .carousel-images img:nth-of-type(5),
+#slide5:checked ~ .carousel-images img:nth-of-type(6) {
   opacity: 1;
   position: relative;
 }
@@ -136,13 +137,13 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: 4px;
+  margin-top: 0px;
 }
 
 .carousel-nav label {
   display: inline-block;
   padding: 8px 16px;
-  margin: 4px;
+  margin: 0px;
   background: #333;
   color: white;
   cursor: pointer;
