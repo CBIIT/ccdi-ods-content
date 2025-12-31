@@ -97,7 +97,7 @@ date: 2025-06-04
 .css-carousel {
   position: relative;
   max-width: 900px;
-  margin: 20px auto;
+  margin: 8px auto;
   overflow: hidden;
 }
 
@@ -136,17 +136,17 @@ date: 2025-06-04
 /* Navigation labels */
 .carousel-nav {
   text-align: center;
-  margin-top: 10px;
+  margin-top: 4px;
 }
 
 .carousel-nav label {
   display: inline-block;
-  padding: 10px 20px;
-  margin: 5px;
+  padding: 8px 16px;
+  margin: 4px;
   background: #333;
   color: white;
   cursor: pointer;
-  border-radius: 5px;
+  border-radius: 4px;
 }
 
 .carousel-nav label:hover {
@@ -155,39 +155,45 @@ date: 2025-06-04
 </style>
 
 <div class="css-carousel">
-  <input type="radio" 
-         name="carousel" 
-         id="slide1" 
-         class="carousel-radio" 
+  <input type="radio"
+         name="carousel"
+         id="slide1"
+         class="carousel-radio"
          checked>
-  <input type="radio" 
-         name="carousel" 
-         id="slide2" 
+  <input type="radio"
+         name="carousel"
+         id="slide2"
          class="carousel-radio">
-  <input type="radio" 
-         name="carousel" 
-         id="slide3" 
+  <input type="radio"
+         name="carousel"
+         id="slide3"
          class="carousel-radio">
-  <input type="radio" 
-         name="carousel" 
-         id="slide4" 
+  <input type="radio"
+         name="carousel"
+         id="slide4"
          class="carousel-radio">
-  <input type="radio" 
-         name="carousel" 
-         id="slide5" 
+  <input type="radio"
+         name="carousel"
+         id="slide5"
+         class="carousel-radio">
+  <input type="radio"
+         name="carousel"
+         id="slide6"
          class="carousel-radio">
   
   <div class="carousel-images">
-    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png" 
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/conference_crowd_01_900x300.png"
          alt="Image 1">
-    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png" 
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png"
          alt="Image 2">
-    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png" 
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png"
          alt="Image 3">
-    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png" 
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png"
          alt="Image 4">
-    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png" 
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png"
          alt="Image 5">
+    <img src="https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/data_magnifying_glass_01_900x300.png"
+         alt="Test: Image Name 6">
   </div>
   
   <div class="carousel-nav">
@@ -196,6 +202,7 @@ date: 2025-06-04
     <label for="slide3">3</label>
     <label for="slide4">4</label>
     <label for="slide5">5</label>
+    <label for="slide6">test</label>
   </div>
 </div>
 
