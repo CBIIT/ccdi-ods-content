@@ -6,6 +6,8 @@ date: 2026-01-12
 
 # ODS News Archive
 
+![Image of unlabeled file binders arranged in a line near a laptop with a blank screen. ](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/stock/file_archive_01_900x300.png)
+
 Review archived news relevant to the NCI Office of Data Sharing (ODS). These are public blog posts or news briefs from before 2023 that have been compiled and migrated to the Data Sharing Hub.
 
 - [2020-10-31: Updated NIH Data Sharing Policy Released](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2020-10-31_Updated_NIH_Data_Sharing_Policy_Released.pdf)
