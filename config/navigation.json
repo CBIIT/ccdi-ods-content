@@ -102,8 +102,8 @@
         "className": "navMobileSubItem"
       },
       {
-        "name": "ODS News",
-        "link": "/post/News/ods-news",
+        "name": "News Archive",
+        "link": "/post/News/news-archive",
         "className": "navMobileSubItem"
       }
     ],
