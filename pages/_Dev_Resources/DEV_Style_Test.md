@@ -216,6 +216,47 @@ date: 2025-06-04
 <!-- END: IMAGE GALLERY using HTML -->
 <!-- ============================================ -->
 
+### Sidebar Callout
+
+<!-- ============================================ -->
+<!-- START: SIDEBAR using HTML -->
+<!-- ============================================ -->
+
+<style>
+.callout-box {
+  float: right;
+  width: 300px;
+  margin: 0 0 16px 16px;
+  padding: 16px;
+  border: 2px solid #335D85;
+  border-radius: 4px;
+  background: #f0f8ff;
+}
+
+.callout-box h4 {
+  margin-top: 0;
+  color: #335D85;
+}
+</style>
+
+<div class="callout-box">
+  <h4>Important Note Example</h4>
+  <p>Before submitting data:</p>
+  <ul>
+    <li>Review the lorem ipsum dolor sit</li>
+    <li>Check to see if bullet points work</li>
+    <li>Contact <a href="NCIOfficeofDataSharing@mail.nih.gov">ODS</a> with questions</li>
+  </ul>
+</div>
+
+This lorem ipsum text should wrap around the callout box and then continue as usual.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. Pellentesque id tempus libero. Donec aliquet sagittis odio, sit amet scelerisque lacus lacinia non. Morbi eget dui hendrerit, mollis neque fringilla, tristique quam.
+
+<!-- ============================================ -->
+<!-- END: SIDEBAR using HTML -->
+<!-- ============================================ -->
+
 ## Lorem Ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse consectetur sem eget pharetra euismod. Integer malesuada scelerisque eros in pretium. Cras in nulla non metus ultrices pellentesque vitae a mauris. Phasellus molestie metus sed massa euismod laoreet. Pellentesque id tempus libero. Donec aliquet sagittis odio, sit amet scelerisque lacus lacinia non. Morbi eget dui hendrerit, mollis neque fringilla, tristique quam.
