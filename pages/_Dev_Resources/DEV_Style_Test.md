@@ -233,19 +233,15 @@ date: 2025-06-04
   background: #f0f8ff;
 }
 
-.callout-box h4 {
-  margin-top: 0;
-  color: #335D85;
-}
 </style>
 
 <div class="callout-box">
-  <h4>Important Note Example</h4>
-  <p>Before submitting data:</p>
+  <h3>Important Note Example</h3>
+  <p>When this box is created:</p>
   <ul>
-    <li>Review the lorem ipsum dolor sit</li>
+    <li>Review the <b>styling options</b></li>
     <li>Check to see if bullet points work</li>
-    <li>Contact <a href="NCIOfficeofDataSharing@mail.nih.gov">ODS</a> with questions</li>
+    <li>Contact the <a href="NCIOfficeofDataSharing@mail.nih.gov">ODS Email</a> with questions</li>
   </ul>
 </div>
 
