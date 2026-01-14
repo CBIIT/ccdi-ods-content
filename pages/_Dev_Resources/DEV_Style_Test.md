@@ -236,12 +236,12 @@ date: 2025-06-04
 </style>
 
 <div class="callout-box">
-  <h3>Important Note Example</h3>
+  <h3 class="my-3 md:my-4 scroll-mt-20 text-[28px] font-[400] leading-[30px] [font-family:Inter]" style="color: #345D85;">Important Note Example</h3>
   <p>When this box is created:</p>
   <ul>
     <li>Review the <b>styling options</b></li>
     <li>Check to see if bullet points work</li>
-    <li>Contact the <a href="NCIOfficeofDataSharing@mail.nih.gov">ODS Email</a> with questions</li>
+    <li>Contact the <a href="mailto:NCIOfficeofDataSharing@mail.nih.gov">ODS Email</a> with questions</li>
   </ul>
 </div>
 
