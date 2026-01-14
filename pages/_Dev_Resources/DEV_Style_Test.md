@@ -18,7 +18,7 @@ date: 2025-06-04
 
 ## Banner Image
 
-![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/dna_art_01_800x335.jpg)
+![Stylized image of colorful DNA molecules on a blue background](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/dna_art_01_900x300.png)
 
 ## Style Examples
 
