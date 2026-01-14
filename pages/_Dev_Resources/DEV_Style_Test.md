@@ -236,12 +236,12 @@ date: 2025-06-04
 </style>
 
 <div class="callout-box">
-  <h3 class="my-3 md:my-4 scroll-mt-20 text-[28px] font-[400] leading-[30px] [font-family:Inter]" style="color: #345D85;">Important Note Example</h3>
+  <h3 class="my-3 md:my-4 scroll-mt-20 text-[28px] font-[400] leading-[30px] [font-family:Inter]" style="color: #345D85;">Important Note</h3>
   <p>When this box is created:</p>
-  <ul>
-    <li>Review the <b>styling options</b></li>
-    <li>Check to see if bullet points work</li>
-    <li>Contact the <a href="mailto:NCIOfficeofDataSharing@mail.nih.gov">ODS Email</a> with questions</li>
+<ul class="list-disc ml-4 md:ml-6 my-4 space-y-2">
+    <li class="[font-family:Nunito] text-[18px] text-[#000000] leading-[28px] mb-4">Check to see if bullet points work</li>
+    <li class="[font-family:Nunito] text-[18px] text-[#000000] leading-[28px] mb-4">Review the <b>styling options</b></li>
+    <li class="[font-family:Nunito] text-[18px] text-[#000000] leading-[28px] mb-4">Contact the <a href="mailto:NCIOfficeofDataSharing@mail.nih.gov" class="[font-family:Nunito] text-[18px] text-[#1C8278] font-medium leading-[28px] underline" style="font-weight: 500; text-decoration-style: solid; text-decoration-skip-ink: none; text-decoration-thickness: 1px; text-underline-offset: auto; text-underline-position: from-font;">ODS Email</a> with questions</li>
   </ul>
 </div>
 
