@@ -90,6 +90,12 @@ The **Childhood Cancer Survivor Study (CCSS)** is a long-term follow-up study of
 
 [CCSS Website](https://ccss.stjude.org/) | [Data Access](https://ccss.stjude.org/public-access-data.html)
 
+## CEDCD
+
+The **Cancer Epidemiology Descriptive Cohort Database (CEDCD)** is a searchable database of cohort studies that follow groups of persons over time for data relevant to cancer research. It gathers aggregated, study-level characteristics for each cohort. The goal of the CEDCD is to facilitate collaboration and highlight the opportunities for research within existing cohort studies.
+
+[CEDCD Website](https://cedcd.nci.nih.gov/) | [Data Access](https://cedcd.nci.nih.gov/select)
+
 ## CIBMTR
 
 The **Center for International Blood and Marrow Transplant Research (CIBMTR)** is a research collaboration that maintains a database of outcomes data on bone marrow transplants and cellular therapies used to treat blood cancers like leukemia and lymphoma. CIBMTR facilitates critical research to improve survival and quality of life for cancer patients receiving these life-saving treatments.
@@ -334,4 +340,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** November 21, 2025
+**Updated:** January 14, 2026

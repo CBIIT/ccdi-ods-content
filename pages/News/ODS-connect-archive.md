@@ -10,6 +10,15 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2025
 
+### December 2025
+
+- [Register for 2026 ODS Webinars](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-12-18_Register_for_2026_ODS_Webinars.pdf)
+- [Join us for the Upcoming ODS Webinars](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-12-11_Join_us_for_Upcoming_ODS_Webinars.pdf)
+
+### November 2025
+
+- [Welcome Back! NCI Symposium Webinar](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-11-20_Welcome_Back_NCI_Symposium_Webinar.pdf)
+
 ### September 2025
 
 - [Highlighting Childhood Cancer Awareness Month](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-09-05_Highlighting_Childhood_Cancer_Awareness_Month.pdf)
@@ -153,4 +162,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** November 21, 2025
+**Updated:** January 14, 2026
