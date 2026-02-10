@@ -43,14 +43,14 @@
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
         "title": "ODS Data Jamboree Seminar Series: Tue 2/24 11AM - 1PM EST",
-        "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.",
+        "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.          ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/BESH-venn-redesign.png",
         "title": "Basic Experimental Studies in Humans (BESH) Will No Longer Be Considered Clinical Trials by the NIH",
-        "description": "",
+        "description": "                              ",
         "readMoreColor": "[#76E7DD]",
         "link": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-032.html"
       }
