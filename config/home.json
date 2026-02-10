@@ -35,7 +35,7 @@
     "updates": [
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Imaging_01.png",
-        "title": "ODSS Online Seminar: Cancer Image Sharing in Today's AI Era",
+        "title": "ODSS Online Seminar: Imaging Data Commons and Cancer Image Sharing in Today's AI Era",
         "description": "Fri 2/13 12-1PM EST: Learn how the CRDC Imaging Data Commons uses AI to make data more accessible.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series"
