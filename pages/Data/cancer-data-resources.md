@@ -162,6 +162,12 @@ The **Early Detection Research Network (EDRN)** is a research network focused on
 
 [ENICTO Website](https://enicto.bsc.gwu.edu/web/enicto) | [Data Access](https://enicto.bsc.gwu.edu/web/enicto/coordinating-center)
 
+## Find Cancer Clinical Trials
+
+**Find Cancer Clinical Trials** is NCI’s public search tool that helps patients, caregivers, and clinicians find cancer clinical trials using accessible search criteria like age, location, and cancer type/condition. It includes NCI-funded clinical trials both within the United States and internationally, as well as to trials at NCI-Designated Cancer Centers supported by other organizations.
+
+[Find Cancer Clinical Trials Website](https://www.cancer.gov/research/participate/clinical-trials-search)
+
 ## Kids First
 
 The **Gabriella Miller Kids First Pediatric Research Program (Kids First)** is a pediatric research program that generates and analyzes genomic data from children with cancer and structural birth defects. Kids First aims to accelerate childhood cancer research by identifying genetic causes of pediatric cancers and developing new treatments for children with cancer.
@@ -244,7 +250,7 @@ The **National Childhood Cancer Registry (NCCR) Data Platform** is a secure syst
 
 The **NCI Cohort Consortium** is an extramural-intramural partnership formed by the NCI to address the need for large-scale collaborations to pool the large quantity of data and biospecimens necessary to conduct a wide range of cancer studies. Through its collaborative network of investigators, the Consortium provides a coordinated, interdisciplinary approach to tackling important scientific questions, economies of scale, and opportunities to quicken the pace of research. The associated Project Hub supports tracking and submitting consortium projects.
 
-[NCI Cohort Consortium Website](https://epi.grants.cancer.gov/cohort-consortium/) | [Project Hub](https://epi.grants.cancer.gov/cohort-consortium/projecthub/)
+[NCI Cohort Consortium Website](https://epi.grants.cancer.gov/cohort-consortium/) | [Data Access](https://epi.grants.cancer.gov/cohort-consortium/projecthub/)
 
 ## NCI-MATCH
 
