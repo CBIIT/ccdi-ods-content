@@ -8,6 +8,13 @@ date: 2025-06-09
 
 Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect, and recent news from ODS can be found here. The ODS is looking to support your data sharing needs, if you have recommendations for the newsletter, please contact ODS.
 
+## 2026
+
+### January 2026
+
+- [Happy New Year - Upcoming ODS Events in 2026](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-01-08_Happy_New_Year_Upcoming_ODS_Events_in_2026.pdf)
+- [Stay Connected with Data Sharing: January](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-01-22_Stay_Connected_with_Data_Sharing_January.pdf)
+
 ## 2025
 
 ### December 2025
@@ -162,4 +169,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** January 14, 2026
+**Updated:** February 10, 2026
