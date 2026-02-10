@@ -240,6 +240,12 @@ The **National Childhood Cancer Registry (NCCR) Data Platform** is a secure syst
 
 [NCCR Data Platform Website](https://nccrdataplatform.ccdi.cancer.gov/about) | [Data Access](https://nccrdataplatform.ccdi.cancer.gov/login)
 
+## NCI Cohort Consortium
+
+The **NCI Cohort Consortium** is an extramural-intramural partnership formed by the NCI to address the need for large-scale collaborations to pool the large quantity of data and biospecimens necessary to conduct a wide range of cancer studies. Through its collaborative network of investigators, the Consortium provides a coordinated, interdisciplinary approach to tackling important scientific questions, economies of scale, and opportunities to quicken the pace of research. The associated Project Hub supports tracking and submitting consortium projects.
+
+[NCI Cohort Consortium Website](https://epi.grants.cancer.gov/cohort-consortium/) | [Project Hub](https://epi.grants.cancer.gov/cohort-consortium/projecthub/)
+
 ## NCI-MATCH
 
 **Molecular Analysis for Therapy Choice for adults with advanced cancers (NCI-MATCH)** is a precision medicine clinical trial that matches patients with advanced cancers to targeted therapies based on tumor molecular characteristics. NCI-MATCH tests whether targeted treatment of molecular abnormalities can improve outcomes regardless of cancer type.
