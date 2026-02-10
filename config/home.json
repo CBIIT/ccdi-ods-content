@@ -34,18 +34,18 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
-        "title": "ODS Data Jamboree Seminar Series - 1/13/2026 11:00AM - 1:00PM ET",
-        "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Imaging_01.png",
+        "title": "ODSS Online Seminar: Cancer Image Sharing in Today's AI Era",
+        "description": "Fri 2/13 12-1PM EST: Learn how the CRDC Imaging Data Commons uses AI to make data more accessible.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://cbiit.webex.com/weblink/register/r296cb77a3dc34d5b357f1cb0c33efead"
+        "link": "https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png",
-        "title": "NCI ODS Annual Data Symposium - 1/28/2026 1:00PM - 4:00PM ET",
-        "description": "Join the ODS Symposium to hear panel discussions of navigating risk in data sharing.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
+        "title": "ODS Data Jamboree Seminar Series: Tue 2/24 11AM - 1PM EST",
+        "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://cbiit.webex.com/weblink/register/rd663e199e2b0734318a80ca51378e229"
+        "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
