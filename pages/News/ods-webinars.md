@@ -62,7 +62,7 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 ### ODS Symposium: Navigating Risk and Confronting Challenges to Sharing Cancer Data
 
 Wednesday, January 28, 2026 1:00 PM - 4:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/c13762c925004bdfbe4d5fb2119d882b/playback)
 
 **Speakers and Topics**
 
