@@ -34,7 +34,7 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Imaging_01.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Imaging_01.png",
         "title": "ODSS Online Seminar: Imaging Data Commons and Cancer Image Sharing in Today's AI Era",
         "description": "Fri 2/13 12-1PM EST: Learn how the CRDC Imaging Data Commons uses AI to make data more accessible.",
         "readMoreColor": "[#76E7DD]",
@@ -48,7 +48,7 @@
         "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/BESH-venn-redesign.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/BESH-venn-redesign.png",
         "title": "Basic Experimental Studies in Humans (BESH) Will No Longer Be Considered Clinical Trials by the NIH",
         "description": "",
         "readMoreColor": "[#76E7DD]",
