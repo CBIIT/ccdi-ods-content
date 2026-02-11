@@ -21,8 +21,9 @@
     },
     "textFrame": [
       "Advise on programs that define impactful data and resources",
-      "Implement guidance that promote broad access and use of data",
-      "Offer tools and processes that help ensure data are Findable, Accessible, Interoperable, and Reusable (FAIR)."
+      "Offer tools and processes that help ensure data are Findable, Accessible, Interoperable, and Reusable (FAIR).",
+      "Implement guidance that promotes broad access and use of data"
+
     ]
   },
   "gallery": {
@@ -33,25 +34,25 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Imaging_01.png",
+        "title": "ODSS Online Seminar: Imaging Data Commons and Cancer Image Sharing in Today's AI Era",
+        "description": "Fri 2/13 12-1PM EST: Learn how the CRDC Imaging Data Commons uses AI to make data more accessible.",
+        "readMoreColor": "[#76E7DD]",
+        "link": "https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series"
+      },
+      {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
-        "title": "ODS Data Jamboree Seminar Series - 1/13/2026 11:00AM - 1:00PM ET",
+        "title": "ODS Data Jamboree Seminar Series: Tue 2/24 11AM - 1PM EST",
         "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://cbiit.webex.com/weblink/register/r296cb77a3dc34d5b357f1cb0c33efead"
+        "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png",
-        "title": "NCI ODS Annual Data Symposium - 1/28/2026 1:00PM - 4:00PM ET",
-        "description": "Join the ODS Symposium to hear panel discussions of navigating risk in data sharing.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/BESH-venn-redesign.png",
+        "title": "Basic Experimental Studies in Humans (BESH) Will No Longer Be Considered Clinical Trials by the NIH",
+        "description": "",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://cbiit.webex.com/weblink/register/rd663e199e2b0734318a80ca51378e229"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
-        "title": "2024 NIH Public Access Policy: New Effective Date",
-        "description": "The NIH Public Access Policy is effective July 1, 2025, allowing researchers and the public to have speedier access to NIH-supported findings. ",
-        "readMoreColor": "[#76E7DD]",
-        "link": "https://grants.nih.gov/policy-and-compliance/policy-topics/public-access"
+        "link": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-032.html"
       }
     ]
   }

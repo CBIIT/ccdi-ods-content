@@ -96,17 +96,23 @@ The **Cancer Epidemiology Descriptive Cohort Database (CEDCD)** is a searchable 
 
 [CEDCD Website](https://cedcd.nci.nih.gov/) | [Data Access](https://cedcd.nci.nih.gov/select)
 
+## CGCI
+
+The **Cancer Genome Characterization Initiative (CGCI)** is a genomic characterization program that provides comprehensive molecular profiling of cancer samples. CGCI generates high-quality genomic data to support cancer research and therapeutic development through systematic tumor analysis.
+
+[CGCI Website](https://www.cancer.gov/ccg/research/genome-sequencing/cgci) | [Data Access](https://portal.gdc.cancer.gov/exploration?filters=%7B%22op%22%3A%22and%22%2C%22content%22%3A%5B%7B%22op%22%3A%22in%22%2C%22content%22%3A%7B%22field%22%3A%22cases.project.program.name%22%2C%22value%22%3A%5B%22CGCI%22%5D%7D%7D%5D%7D)
+
 ## CIBMTR
 
 The **Center for International Blood and Marrow Transplant Research (CIBMTR)** is a research collaboration that maintains a database of outcomes data on bone marrow transplants and cellular therapies used to treat blood cancers like leukemia and lymphoma. CIBMTR facilitates critical research to improve survival and quality of life for cancer patients receiving these life-saving treatments.
 
 [CIBMTR Website](https://cibmtr.org/) | [Data Access](https://cibmtr.org/CIBMTR/Resources/Publicly-Available-Datasets#)
 
-## CGCI
+## CONCORD Explorer
 
-The **Cancer Genome Characterization Initiative (CGCI)** is a genomic characterization program that provides comprehensive molecular profiling of cancer samples. CGCI generates high-quality genomic data to support cancer research and therapeutic development through systematic tumor analysis.
+The **CONCORD\*Explorer** is an interactive tool providing statistics for the childhood cancers (ages 0-14 years) examined in the third cycle of the CONCORD program: brain tumors, acute lymphoblastic leukemias, and lymphomas. Data is available for each participating country by cancer site, sex, and calendar period of diagnosis. This tool is a product of a partnership between NCI’s Surveillance, Epidemiology, and End Results (SEER) Program and the CONCORD Programme, a global research collaboration led by the Cancer Survival Group at the London School of Hygiene & Tropical Medicine. CONCORD is designed to inform national and global policy on cancer control, with a focus on presenting worldwide cancer survival trends.
 
-[CGCI Website](https://www.cancer.gov/ccg/research/genome-sequencing/cgci) | [Data Access](https://portal.gdc.cancer.gov/exploration?filters=%7B%22op%22%3A%22and%22%2C%22content%22%3A%5B%7B%22op%22%3A%22in%22%2C%22content%22%3A%7B%22field%22%3A%22cases.project.program.name%22%2C%22value%22%3A%5B%22CGCI%22%5D%7D%7D%5D%7D)
+[CONCORD\*Explorer Website](https://seer.cancer.gov/statistics-network/concord/index.html) | [Data Access](https://seer.cancer.gov/statistics-network/concord/application.html)
 
 ## Connect
 
@@ -155,6 +161,12 @@ The **Early Detection Research Network (EDRN)** is a research network focused on
 **Exercise and Nutrition Interventions to Improve Cancer Treatment-Related Outcomes (ENICTO)** is a research network studying exercise and nutrition interventions to help cancer patients better tolerate treatments and improve their quality of life. ENICTO conducts clinical trials testing lifestyle interventions that may reduce cancer treatment side effects and improve survival outcomes.
 
 [ENICTO Website](https://enicto.bsc.gwu.edu/web/enicto) | [Data Access](https://enicto.bsc.gwu.edu/web/enicto/coordinating-center)
+
+## Find Cancer Clinical Trials
+
+**Find Cancer Clinical Trials** is NCI’s public search tool that helps patients, caregivers, and clinicians find cancer clinical trials using accessible search criteria like age, location, and cancer type/condition. It includes NCI-funded clinical trials both within the United States and internationally, as well as to trials at NCI-Designated Cancer Centers supported by other organizations.
+
+[Find Cancer Clinical Trials Website](https://www.cancer.gov/research/participate/clinical-trials-search)
 
 ## Kids First
 
@@ -233,6 +245,12 @@ The **National Childhood Cancer Registry (NCCR) Explorer** is a public web tool 
 The **National Childhood Cancer Registry (NCCR) Data Platform** is a secure system for authorized researchers to search, request, and analyze de-identified childhood cancer data. It supports cohort discovery, data visualization, and custom dataset requests.
 
 [NCCR Data Platform Website](https://nccrdataplatform.ccdi.cancer.gov/about) | [Data Access](https://nccrdataplatform.ccdi.cancer.gov/login)
+
+## NCI Cohort Consortium
+
+The **NCI Cohort Consortium** is an extramural-intramural partnership formed by the NCI to address the need for large-scale collaborations to pool the large quantity of data and biospecimens necessary to conduct a wide range of cancer studies. Through its collaborative network of investigators, the Consortium provides a coordinated, interdisciplinary approach to tackling important scientific questions, economies of scale, and opportunities to quicken the pace of research. The associated Project Hub supports tracking and submitting consortium projects.
+
+[NCI Cohort Consortium Website](https://epi.grants.cancer.gov/cohort-consortium/) | [Data Access](https://epi.grants.cancer.gov/cohort-consortium/projecthub/)
 
 ## NCI-MATCH
 
@@ -340,4 +358,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** January 14, 2026
+**Updated:** February 10, 2026
