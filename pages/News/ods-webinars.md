@@ -8,18 +8,30 @@ date: 2026-02-11
 
 <!-- START: Custom Callout: Centered -->
 <style>
-.webinar-highlight {
-  border: 3px solid #335d85;
-  border-radius: 8px;
-  padding: 24px;
+.webinar-callout {
+  background: linear-gradient(135deg, #335D85 0%, #4A7BA7 100%);
+  color: white;
+  padding: 32px;
   margin: 20px auto;
-  max-width: 700px;
+  max-width: 650px;
   text-align: center;
-  background: #f8f9fa;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.webinar-callout strong {
+  color: white;
+  font-size: 20px;
+}
+
+.webinar-callout a {
+  color: #7FDBFF;
+  text-decoration: underline;
+  font-weight: bold;
 }
 </style>
 
-<div class="webinar-highlight">
+<div class="webinar-callout">
 
 **Upcoming Webinar**  
 **NCI ODS Data Jamboree Seminar Series II**  
