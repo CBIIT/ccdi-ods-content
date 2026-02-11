@@ -11,7 +11,7 @@ date: 2026-02-11
 .webinar-highlight {
   border: 3px solid #335d85;
   border-radius: 8px;
-  padding: 16px;
+  padding: 4px;
   margin: 20px auto;
   max-width: 700px;
   text-align: center;
@@ -21,7 +21,7 @@ date: 2026-02-11
 
 <div class="webinar-highlight">
 
-## Upcoming Webinar
+#### Upcoming Webinar
 
 **NCI ODS Data Jamboree Seminar Series II**  
 **Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET**  
