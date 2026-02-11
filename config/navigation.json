@@ -26,7 +26,7 @@
       "className": "navMobileItem"
     },
     {
-      "name": "News",
+      "name": "News & Events",
       "link": "/collection/News",
       "className": "navMobileItem clickable"
     },
@@ -80,7 +80,12 @@
       }
     ],
     
-    "News": [
+    "News & Events": [
+      {
+        "name": "Office of Data Sharing Webinars",
+        "link": "/post/News/ods-webinars",
+        "className": "navMobileSubItem"
+      },
       {
         "name": "Data Sharing Champions",
         "link": "/post/News/data-sharing-champions",
