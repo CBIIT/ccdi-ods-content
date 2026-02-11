@@ -6,9 +6,10 @@ date: 2026-02-11
 
 # Office of Data Sharing Webinars
 
-> **Upcoming Webinar:**  
-> NCI ODS Data Jamboree Seminar Series II  
-Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
+## Upcoming Webinar
+
+**NCI ODS Data Jamboree Seminar Series II**  
+**Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar) | [Details Below](#upcoming-webinars)
 
 ![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/ods_webinar_series_1200x300.png)
