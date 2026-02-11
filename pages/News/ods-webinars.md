@@ -8,32 +8,21 @@ date: 2026-02-11
 
 <!-- START: Custom Callout: Centered -->
 <style>
-.webinar-callout {
-  background: linear-gradient(135deg, #335D85 0%, #4A7BA7 100%);
-  color: white;
-  padding: 32px;
+.webinar-highlight {
+  border: 3px solid #335d85;
+  border-radius: 8px;
+  padding: 16px;
   margin: 20px auto;
-  max-width: 650px;
+  max-width: 700px;
   text-align: center;
-  border-radius: 12px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-}
-
-.webinar-callout strong {
-  color: white;
-  font-size: 20px;
-}
-
-.webinar-callout a {
-  color: #7FDBFF;
-  text-decoration: underline;
-  font-weight: bold;
+  background: #f8f9fa;
 }
 </style>
 
-<div class="webinar-callout">
+<div class="webinar-highlight">
 
-**Upcoming Webinar**  
+## Upcoming Webinar
+
 **NCI ODS Data Jamboree Seminar Series II**  
 **Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar) | [Details Below](#upcoming-webinars)
