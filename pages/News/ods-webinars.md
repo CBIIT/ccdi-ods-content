@@ -4,7 +4,7 @@ author: ODS; Transcribed ZD
 date: 2026-02-11
 ---
 
-# Office of Data Sharing Webinars
+![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/ods_webinar_series_1200x300.png)
 
 <!-- START: Custom Callout: Centered -->
 <style>
@@ -29,8 +29,6 @@ date: 2026-02-11
 
 </div>
 <!-- END: Custom Callout: Centered -->
-
-![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/ods_webinar_series_1200x300.png)
 
 ## Overview
 
