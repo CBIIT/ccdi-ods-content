@@ -92,6 +92,11 @@
         "className": "navMobileSubItem"
       },
       {
+        "name": "Data Jamboree",
+        "link": "/post/News/data-jamboree",
+        "className": "navMobileSubItem"
+      },
+      {
         "name": "Data Sharing Champions",
         "link": "/post/News/data-sharing-champions",
         "className": "navMobileSubItem"
