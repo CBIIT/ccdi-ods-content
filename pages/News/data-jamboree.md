@@ -20,7 +20,7 @@ Beginning in January 2026, ODS kicked off a data jamboree public webinar series 
 
 ## 2025 Data Jamboree Projects
 
-![Group photo of participants in the 2025 Data Jamboree](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2025_data_jamboree_group_photo_1600x400.png)
+![Group photo of participants in the 2025 Data Jamboree](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2025_data_jamboree_group_photo_1400x600.png)
 
 ### Enabling Discovery in Rare Pediatric Brain Tumors Through Data Integration and Visualization
 
