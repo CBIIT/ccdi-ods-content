@@ -23,7 +23,7 @@ date: 2026-02-11
 
 <div class="webinar-highlight">
 
-#### Save the Date:
+#### Save the Date
 
 **2026 NCI ODS Data Sharing Symposium**  
 **Thursday and Friday, November 5-6, 2026**  
