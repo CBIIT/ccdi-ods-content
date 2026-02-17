@@ -58,7 +58,7 @@ Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET
 
 **Speakers and Topics**
 
-- Speaker TBD (Jack Shern, NCI? or Nicholas IIosa?): Immune Characterization of Pediatric Soft Tissue Sarcomas
+- Nicholas IIosa, Johns Hopkins University: Immune Characterization of Pediatric Soft Tissue Sarcomas
 - Yin Lu, ICF: CC-CARE-AI: A Framework for Assessing and Refining AI-Readiness of Childhood Cancer Cohorts from Kids First, TARGET, and CCDI
 - Rawan Shraim, Children's Hospital of Philadelphia: Deciphering RNA-Protein Relationships Across Cancer and Healthy Tissues
 - Jaime Estill, University of Michigan: Lowering Barriers: Data Integration and Visualization for CCDI
@@ -70,10 +70,11 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 
 **Speakers and Topics**
 
-- Elmer Fernandez, Independiente CONICET - Independent Research CONICET, Argentina
-- Yanling Sun, Baylor College of Medicine: Expanding LinkedOmics for comprehensive integration of pediatric cancer omics data
-- Trinh Nguyen, NCI:
-- Weiping Ma, Mt. Sinai:
+- Daniela Orchanski, Scirelab at Foundation for the Progress of Medicine, National University of Cordoba, and CONICET: Fusion.AR-DB: A Collaborative Knowledgebase of Actionable Gene Fusions in Pediatric Cancer from RNA-Seq Data.
+- Yanling Sun, Baylor College of Medicine: Expanding LinkedOmics for comprehensive integration of pediatric cancer omics data.
+- Trinh Nguyen; NCI: Proteogenomic subtypes and immune microenvironment of pediatric brain tumors.
+- Brian Calpado, NCI: Assessing transcriptomic spillover in PDX studies from the CCDI.
+- Weiping Ma, Icahn School of Medicine at Mount Sinai: Evaluation of Missing data Imputation of DIA proteomics.
 
 ## Past Webinars
 
