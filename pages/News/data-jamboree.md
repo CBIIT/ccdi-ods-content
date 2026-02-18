@@ -26,7 +26,7 @@ Beginning in January 2026, ODS kicked off a data jamboree public webinar series 
 
 ### Enabling Discovery in Rare Pediatric Brain Tumors Through Data Integration and Visualization
 
-**Project Leads:** Diana Thomas and Gregory Wheeler, Nationwide Children's Hospital & Rakesh Khanna, National Cancer Institute
+**Project Leads:** Diana Thomas, Nationwide Children's Hospital; Gregory Wheeler, University of Galway; Rakesh Khanna, National Cancer Institute
 
 The project aims to reanalyze DNA methylation data files to harmonize classification of existing CNS tumors in CCDI MCI dataset and enable comparability, develop interactive data analysis platform allowing for dynamic cohort creation (e.g., OncoPrints, mutation heatmaps, survival analyses), and deploy standardized DNA methylation files and results through current data repositories.
 
