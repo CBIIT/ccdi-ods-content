@@ -85,15 +85,15 @@ Wednesday, January 28, 2026 1:00 PM - 4:00 PM ET
 
 **Speakers and Topics**
 
-- Joseph Dean, Iovance Biotheraputics
-- Peter Kraft, National Cancer Institute
-- Lucila Ohno-Machado, Yale School of Medicine
-- Kurt Rohloff, Duality Technologies
-- Christopher Amos, UNM Cancer Center
-- James DuBois, Washington University School of Medicine
-- Scarlett Gomez, UCSF School of Medicine
-- James Lacey, City of Hope Cancer Center
-- Richard Moser, National Cancer Institute
+- Joseph Dean, Iovance Biotheraputics: Navigating Risk in Sharing Cancer Data
+- Peter Kraft, National Cancer Institute: Balancing Data Sharing and Participant Consent, Privacy, and Confidentiality
+- Lucila Ohno-Machado, Yale School of Medicine: Navigating Risk in Sharing Cancer Data
+- Kurt Rohloff, Duality Technologies: Driving Secure Collaboration
+- Christopher Amos, UNM Cancer Center: Integrative Analysis of Lung Cancer Risk and Etiology: Complexities and Benefits of Data Sharing for Genomic Data
+- Richard Moser, National Cancer Institute: Challenges and Solutions to Sharing Behavioral and Social Science Data
+- James Lacey, City of Hope Cancer Center: The California Teachers Study, An NCI-Supported Cancer Epidemiology Cohort (CEC)
+- Scarlett Gomez, UCSF School of Medicine: Challenges and Opportunities in Sharing of Population-Based Cancer Registry Data
+- James DuBois, Washington University School of Medicine: Sharing Qualitative Research Data: Lessons and Resources from a National Pilot Study
 
 ### NCI ODS Data Jamboree Seminar Series I
 
