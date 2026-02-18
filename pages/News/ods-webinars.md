@@ -49,7 +49,7 @@ Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET
 - Mamie Lih, Johns Hopkins University: Proteogenomic Characterization of Ependymoma.
 - Brian Furner, University of Chicago: Automating Mapping to Common Data Elements.
 - Eric Durbin, University of Kentucky: Survival Disparities among Children Diagnosed with Neuroblastoma Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform.
-- Gregory Wheeler, University of Galway, and Rakesh Katana, National Cancer Institute: Predicting genetic alterations in pediatric gliomas from routine histopathology using deep learning.
+- Gregory Wheeler, University of Galway, and Rakesh Khanna, National Cancer Institute: Predicting genetic alterations in pediatric gliomas from routine histopathology using deep learning.
 
 ### NCI ODS Data Jamboree Seminar Series III
 
@@ -72,7 +72,7 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 
 - Daniela Orchanski, Scirelab at Foundation for the Progress of Medicine, National University of Cordoba, and CONICET: Fusion.AR-DB: A Collaborative Knowledgebase of Actionable Gene Fusions in Pediatric Cancer from RNA-Seq Data.
 - Yanling Sun, Baylor College of Medicine: Expanding LinkedOmics for comprehensive integration of pediatric cancer omics data.
-- Trinh Nguyen; NCI: Proteogenomic subtypes and immune microenvironment of pediatric brain tumors.
+- Trinh Nguyen, NCI: Proteogenomic subtypes and immune microenvironment of pediatric brain tumors.
 - Brian Calpado, NCI: Assessing transcriptomic spillover in PDX studies from the CCDI.
 - Weiping Ma, Icahn School of Medicine at Mount Sinai: Evaluation of Missing data Imputation of DIA proteomics.
 
