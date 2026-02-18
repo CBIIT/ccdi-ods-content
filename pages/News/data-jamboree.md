@@ -6,7 +6,7 @@ date: 2026-02-12
 
 # Data Jamboree
 
-![Enhancing Childhood Cancer Data Use](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2025_data_jamboree_banner_1170x364.png)
+![Enhancing Childhood Cancer Data Use](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_data_jamboree_banner_1170x364.png)
 
 ## Overview
 
@@ -14,7 +14,7 @@ To overcome barriers in finding, accessing, and utilizing cancer research data, 
 
 Through strategic planning, promotion and execution, the jamboree attracted over 120 participants from academia, industry, government, and non-profit organizations. Twenty-three interdisciplinary project teams formed to tackle specific problems in 6 broad project categories including enhancing data interoperability, building study cohorts, developing or validating informatics tools and pipelines, evaluating data quality and AI-readiness, and integrating and analyzing multi-omic and multi-modal data, as well as developing tutorials, tools, and educational materials. Eight project teams presented their results and outputs at the ODS symposium’s “Cancer Data In Action” session, demonstrating the tremendous value of sharing cancer data following the FAIR Principles (Findable, Accessible, Interoperable and Reusable) with the broad community for novel biological insights.
 
-![Group photo of participants in the 2025 Data Jamboree](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2025_data_jamboree_group_photo_1400x600.png)
+![Group photo of participants in the 2025 Data Jamboree](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_data_jamboree_group_photo_1400x600.png)
 
 ## Data Jamboree Webinars
 
@@ -93,3 +93,9 @@ The project aims to apply a transcriptomic-based immune classification (SIC A–
 **Project Leads:** Marcin Cieslik, University of Michigan; Jamie Estill, University of Michigan
 
 The project aims to develop informational materials to improve the presentation of Peds-MI-OncoSeq datasets in CCDI, improve technical documentation on the assay/technology/bioinformatics of Peds-MI-OncoSeq data, and ultimately characterize the multi-omic landscape of the Peds-MI-OncoSeq cohort to define the molecular architecture of pediatric malignancies. Write tutorial to link genetic, transcriptomic, and clinical data of Peds-MI-OncoSeq dataset in CCDI.
+
+&nbsp;
+
+---
+
+**Updated:** February 18, 2026

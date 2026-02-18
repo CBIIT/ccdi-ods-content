@@ -6,7 +6,7 @@ date: 2026-02-11
 
 # Annual Data Sharing Symposium
 
-![How Data Advances the Impact of Cancer Research](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2025_ods_symposium_header_1200x400.png)
+![How Data Advances the Impact of Cancer Research](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_ods_symposium_header_1200x400.png)
 
 <!-- START: Custom Callout: Centered -->
 <style>
@@ -76,3 +76,9 @@ Executive Summary (in-progress) | [Agenda](https://cbiit.github.io/ccdi-ods-cont
 - resources, obstacles, and incentives for sharing cancer research and care data.
 
 [Executive Summary](https://cbiit.github.io/ccdi-ods-content/pages/documents/events/2023_ODS_Symposium_Executive_Summary.pdf) | [Agenda](https://cbiit.github.io/ccdi-ods-content/pages/documents/events/2023_ODS_Symposium_Agenda.pdf)
+
+&nbsp;
+
+---
+
+**Updated:** February 18, 2026

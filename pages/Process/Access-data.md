@@ -43,8 +43,9 @@ The National Cancer Institute (NCI) has established curated dbGaP Collections to
 - [NCI Cancer Research (DS-CA) Collection (phs003967)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003967) – Includes datasets approved for cancer-focused research use, subject to study-specific data use limitations.
 - [NCI Pediatric and Adolescent & Young Adult (AYA) Collection (phs003964)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003964) – Includes datasets focused on pediatric and adolescent/young adult cancers. Individual datasets within this collection may have distinct consent-based data use limitations and must be used accordingly. Datasets may not be combined if such use is restricted by the applicable data use limitations.
 
-&nbsp;  
+&nbsp;
 
 ---
 
-**Updated:** December 18, 2025
+**Updated:** February 18, 2026
+

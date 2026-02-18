@@ -5,7 +5,7 @@ date: 2026-02-11
 ---
 
 <!-- Banner image intentionally used instead of H1 on this page -->
-![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/ods_webinar_series_1200x150.png)
+![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/ods_webinar_series_1200x150.png)
 
 <!-- START: Custom Callout: Centered -->
 <style>
@@ -156,3 +156,9 @@ _Recording Coming Soon!_
 - Jaime Guidry Auvil, NCI Office of Data Sharing
 - Zachary Dorman, NCI Frederick National Laboratories
 - Freddie Pruitt, NCI Office of Data Sharing
+
+&nbsp;
+
+---
+
+**Updated:** February 18, 2026
