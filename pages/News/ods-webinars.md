@@ -58,7 +58,7 @@ Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET
 
 **Speakers and Topics**
 
-- Nicholas IIosa, Johns Hopkins University: Immune Characterization of Pediatric Soft Tissue Sarcomas
+- Nicolas Llosa, Johns Hopkins University: Immune Characterization of Pediatric Soft Tissue Sarcomas
 - Yin Lu, ICF: CC-CARE-AI: A Framework for Assessing and Refining AI-Readiness of Childhood Cancer Cohorts from Kids First, TARGET, and CCDI
 - Rawan Shraim, Children's Hospital of Philadelphia: Deciphering RNA-Protein Relationships Across Cancer and Healthy Tissues
 - Jaime Estill, University of Michigan: Lowering Barriers: Data Integration and Visualization for CCDI
@@ -85,7 +85,7 @@ Wednesday, January 28, 2026 1:00 PM - 4:00 PM ET
 
 **Speakers and Topics**
 
-- Joseph Dean, Iovance Biotheraputics: Navigating Risk in Sharing Cancer Data
+- Joseph Dean, Iovance Biotherapeutics: Navigating Risk in Sharing Cancer Data
 - Peter Kraft, National Cancer Institute: Balancing Data Sharing and Participant Consent, Privacy, and Confidentiality
 - Lucila Ohno-Machado, Yale School of Medicine: Navigating Risk in Sharing Cancer Data
 - Kurt Rohloff, Duality Technologies: Driving Secure Collaboration
@@ -120,7 +120,7 @@ Wednesday, December 10, 2025 1:00 PM - 2:30 PM ET
 - David Higgins, Kids First Data Resource Portal
 - David Jacobs, Data Interoperability through USCDI+ Cancer and FHIR Implementation Guides for Real-World Data
 - Jennifer Torres, Assessing HPV-Related Cancer Recurrence in Adolescents Using NCCR: A Feasibility and Disparities Study
-- Lisa Mayer, FAIR Data Sharing Stategies in NIAID's Office of Data Science and Emerging Technologies: Overview and Implications for Cancer Biology
+- Lisa Mayer, FAIR Data Sharing Strategies in NIAID's Office of Data Science and Emerging Technologies: Overview and Implications for Cancer Biology
 - Madison Behm, The Paul Fearn Award for Excellence in Data Sharing: AI Recognizing Data Sharing in Cancer Control and Population Sciences
 - Michael Wachstoch, Federated AI for Healthcare Research
 - Pamela Marcus, Data Sharing in Action: The PROSPR Experience

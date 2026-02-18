@@ -52,7 +52,7 @@ The project aims to create additional training documents to explain what the Var
 
 **Project Lead:** Fernanda Silva Michels, North American Association of Central Cancer Registry (NAACCR)
 
-The project aims to compare survival between children with neuroblastoma who did participate in a COG clinical trial with children with neuroblastoma who participate in a COG clinical trial. It has the potential to determine whether racial and ethnic disparities in survival among children with neuroblastoma extend to the population that did not participate in a COG clinical trial.
+The project aims to compare survival between children with neuroblastoma who did participate in a COG clinical trial with children with neuroblastoma who did not participate in a COG clinical trial. It has the potential to determine whether racial and ethnic disparities in survival among children with neuroblastoma extend to the population that did not participate in a COG clinical trial.
 
 &nbsp;
 
