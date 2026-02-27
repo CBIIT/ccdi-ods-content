@@ -13,6 +13,7 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 ### February 2026
 
 - [Celebrate International Love Data Week 2026](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-02-12_Celebrate_International_Love_Data_Week_2026.pdf)
+- [Data Sharing Champion: How the Data Jamboree Turned Datasets into Discovery Engines](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-02-26_Data_Sharing_Champion_How_the_Data_Jamboree_Turned_Datasets_into_Discovery_Engines.pdf)
 
 ### January 2026
 
@@ -173,4 +174,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** February 18, 2026
+**Updated:** February 27, 2026
