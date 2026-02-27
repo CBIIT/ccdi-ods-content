@@ -6,9 +6,9 @@ date: 2026-01-12
 
 # ODS News Archive
 
-![Image of unlabeled file binders arranged in a line near a laptop with a blank screen. ](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/file_archive_01_900x300.png)
+![Image of unlabeled file binders arranged in a line near a laptop with a blank screen.](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/stock/file_archive_01_900x300.png)
 
-Review archived news relevant to the NCI Office of Data Sharing (ODS). These are public blog posts or news briefs from before 2023 that have been compiled and migrated to the Data Sharing Hub.
+Review archived news relevant to the NCI Office of Data Sharing (ODS). These are public blog posts or news briefs that have been compiled and migrated to the Data Sharing Hub.
 
 - [2020-10-31: Updated NIH Data Sharing Policy Released](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2020-10-31_Updated_NIH_Data_Sharing_Policy_Released.pdf)
 - [2021-07-08: NIH Requests Information on Developing Consent Language for Future Use of Data and Biospecimens-Comments Due Sept 29](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2021-07-08_NIH_Requests_Information_on_Developing_Consent_Language_for_Future_Use_of_Data_and_Biospecimens-Comments_Due_Sept_29.pdf)
@@ -17,9 +17,10 @@ Review archived news relevant to the NCI Office of Data Sharing (ODS). These are
 - [2022-06-14: NIH Seeks Public Comments on Draft of Supplemental Information to the NIH Policy for Data Management and Sharing](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2022-06-14_NIH_Seeks_Public_Comments_on_Draft_of_Supplemental_Information_to_the_NIH_Policy_for_Data_Management_and_Sharing.pdf)
 - [2022-10-13: Your Guide to the 2023 NIH Data Management and Sharing Policy (NCI)](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2022-10-13_Your_Guide_to_the_2023_NIH_Data_Management_and_Sharing_Policy_NCI.pdf)
 - [2022-11-03: NCI Requests Your Input on the Use and Reuse of Cancer Metabolomics Data](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2022-11-03_NCI_Requests_Your_Input_on_the_Use_and_Reuse_of_Cancer_Metabolomics_Data.pdf)
+- [2024-01-24: Provide Feedback on NIH Data Management and Sharing Plan Pilot Templates (NCI)](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2024-01-24_Provide_Feedback_on_NIH_Data_Management_and_Sharing_Plan_Pilot_Templates_NCI.pdf)
 
 &nbsp;
 
 ---
 
-**Updated:** January 14, 2026
+**Updated:** February 27, 2026

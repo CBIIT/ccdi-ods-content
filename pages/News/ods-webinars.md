@@ -24,8 +24,8 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**NCI ODS Data Jamboree Seminar Series II**  
-**Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET**  
+**NCI ODS Data Jamboree Seminar Series III**  
+**Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar) | [Details Below](#upcoming-webinars)
 
 </div>
@@ -38,18 +38,6 @@ The Office of Data Sharing Webinar Series features expert speakers discussing cu
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
 
 ## Upcoming Webinars
-
-### NCI ODS Data Jamboree Seminar Series II
-
-Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
-[Register Here](https://events.cancer.gov/ods/webinar)
-
-**Speakers and Topics**
-
-- Mamie Lih, Johns Hopkins University: Proteogenomic Characterization of Ependymoma.
-- Brian Furner, University of Chicago: Automating Mapping to Common Data Elements.
-- Eric Durbin, University of Kentucky: Survival Disparities among Children Diagnosed with Neuroblastoma Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform.
-- Gregory Wheeler, University of Galway, and Rakesh Khanna, National Cancer Institute: Predicting genetic alterations in pediatric gliomas from routine histopathology using deep learning.
 
 ### NCI ODS Data Jamboree Seminar Series III
 
@@ -77,6 +65,18 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 - Weiping Ma, Icahn School of Medicine at Mount Sinai: Evaluation of Missing data Imputation of DIA proteomics.
 
 ## Past Webinars
+
+### NCI ODS Data Jamboree Seminar Series II
+
+Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
+[Register Here](https://events.cancer.gov/ods/webinar)
+
+**Speakers and Topics**
+
+- Mamie Lih, Johns Hopkins University: Proteogenomic Characterization of Ependymoma.
+- Brian Furner, University of Chicago: Automating Mapping to Common Data Elements.
+- Eric Durbin, University of Kentucky: Survival Disparities among Children Diagnosed with Neuroblastoma Enrolled and Not Enrolled in COG Clinical Trials Using the NCCR Data Platform.
+- Gregory Wheeler, University of Galway, and Rakesh Khanna, National Cancer Institute: Predicting genetic alterations in pediatric gliomas from routine histopathology using deep learning.
 
 ### ODS Symposium: Navigating Risk and Confronting Challenges to Sharing Cancer Data
 
@@ -161,4 +161,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** February 18, 2026
+**Updated:** February 27, 2026
