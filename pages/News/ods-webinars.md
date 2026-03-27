@@ -26,7 +26,7 @@ date: 2026-02-11
 
 **NCI ODS Data Jamboree Seminar Series IV**  
 **Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET**  
-[Register Here](https://events.cancer.gov/ods/webinar/) | [Details Below](#upcoming-webinars)
+[Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
 </div>
 <!-- END: Custom Callout: Centered -->
@@ -42,7 +42,7 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 ### NCI ODS Data Jamboree Seminar Series IV
 
 Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
-[Register Here](https://events.cancer.gov/ods/webinar)
+[Register Here](https://events.cancer.gov/ods/webinar/upcoming)
 
 **Speakers and Topics**
 
@@ -161,4 +161,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** February 27, 2026
+**Updated:** March 27, 2026
