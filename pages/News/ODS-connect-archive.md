@@ -10,6 +10,18 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2026
 
+### April 2026
+
+- [Stay Connected with Data Sharing: April](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-04-09_Stay_Connected_with_Data_Sharing_April.pdf)
+- [Unlock the Power of Partnership with NCI Data Sharing: May ODS Webinar](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-04-23_Unlock_the_Power_of_Partnership_with_NCI_Data_Sharing_May_ODS_Webinar.pdf)
+
+### March 2026
+
+- [New NCI Data Sharing Hub Updates](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-03-12_New_NCI_Data_Sharing_Hub_Updates.pdf)
+- [Tomorrow! NCI ODS Data Jamboree March Webinar](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-03-16_Tomorrow_NCI_ODS_Data_Jamboree_March_Webinar.pdf)
+- [Upcoming Events: April 10 NCI Data Jamboree Office Hour](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-03-23_Upcoming_Events_April_10_NCI_Data_Jamboree_Office_Hour.pdf)
+- [Data Sharing Champion: Tackling Early-Onset Cancers in Young Adults](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-03-30_Data_Sharing_Champion_Tackling_Early-Onset_Cancers_in_Young_Adults.pdf)
+
 ### February 2026
 
 - [Celebrate International Love Data Week 2026](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-02-12_Celebrate_International_Love_Data_Week_2026.pdf)
@@ -174,4 +186,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** February 27, 2026
+**Updated:** April 29, 2026
