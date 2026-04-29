@@ -34,16 +34,16 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Announcement_Icon_01.png",
-        "title": "HHS ASTP HTI-5 Rule Open for Public Comment Until 2/27",
-        "description": "New proposal to streamline IT certification, expand health data access, and support AI-ready data.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
+        "title": "New DMS Plan Format Page",
+        "description": "A simplified 2026 Pilot Data Management and Sharing Plan format is available for all award types.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://healthit.gov/regulations/hti-rules/hti-5-proposed-rule/"
+        "link": "https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
-        "title": "ODS Data Jamboree Seminar Series: Tue 4/14 11AM - 1PM ET",
-        "description": "Join us to hear Data Jamboree teams share findings on pediatric/AYA cancer data tools.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Connection_Blocks_01.png",
+        "title": "NCI ODS Cancer Center Showcase",
+        "description": "Join us for a webinar on strengthening collaboration with NCI-Designated Cancer Centers.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },

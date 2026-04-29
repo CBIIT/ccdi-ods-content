@@ -58,7 +58,7 @@ The **Acquired Resistance to Therapy Network (ARTNet)** is a research network fo
 
 The **Barrett's Esophagus Translational Research Network (BETRNet)** is a translational research network focused on Barrett's esophagus and esophageal adenocarcinoma prevention. Studies risk factors, biomarkers, and intervention strategies to prevent progression from Barrett's esophagus to cancer.
 
-[BETRNet Website](https://prevention.cancer.gov/major-programs/barretts-esophagus-translational-research-network-betrnet) | [Data Access](https://www.vumc.org/cqs/statistical-data-centers)
+[BETRNet Website](https://www.cancer.gov/about-nci/organization/dcb/research-programs/betrnet) | [Data Access](https://www.vumc.org/cqs/statistical-data-centers)
 
 ## CAP-IT
 
@@ -100,7 +100,7 @@ The **Cancer Epidemiology Descriptive Cohort Database (CEDCD)** is a searchable 
 
 The **Cancer Genome Characterization Initiative (CGCI)** is a genomic characterization program that provides comprehensive molecular profiling of cancer samples. CGCI generates high-quality genomic data to support cancer research and therapeutic development through systematic tumor analysis.
 
-[CGCI Website](https://www.cancer.gov/ccg/research/genome-sequencing/cgci) | [Data Access](https://portal.gdc.cancer.gov/exploration?filters=%7B%22op%22%3A%22and%22%2C%22content%22%3A%5B%7B%22op%22%3A%22in%22%2C%22content%22%3A%7B%22field%22%3A%22cases.project.program.name%22%2C%22value%22%3A%5B%22CGCI%22%5D%7D%7D%5D%7D)
+[CGCI Website](https://www.cancer.gov/ccg/research/genome-sequencing/cgci) | [Data Access](https://portal.gdc.cancer.gov/)
 
 ## CIBMTR
 
@@ -160,7 +160,7 @@ The **Early Detection Research Network (EDRN)** is a research network focused on
 
 **Exercise and Nutrition Interventions to Improve Cancer Treatment-Related Outcomes (ENICTO)** is a research network studying exercise and nutrition interventions to help cancer patients better tolerate treatments and improve their quality of life. ENICTO conducts clinical trials testing lifestyle interventions that may reduce cancer treatment side effects and improve survival outcomes.
 
-[ENICTO Website](https://enicto.bsc.gwu.edu/web/enicto) | [Data Access](https://enicto.bsc.gwu.edu/web/enicto/coordinating-center)
+[ENICTO Website](https://enicto.bsc.gwu.edu/web/enicto) | [Data Access](https://enicto.bsc.gwu.edu/web/enicto/projects)
 
 ## Find Cancer Clinical Trials
 
@@ -196,19 +196,19 @@ The **Human Tumor Atlas Network (HTAN)** is a multi-institutional network creati
 
 **Illuminating the Druggable Genome (IDG)** is a research program focused on understudied proteins that may represent novel cancer therapeutic targets. IDG systematically studies the druggable genome to identify and characterize potential drug targets for cancer treatment, particularly in understudied protein families that could lead to new cancer therapies.
 
-[IDG Website](https://commonfund.nih.gov/idg) | [Data Access](https://druggablegenome.net/DataTools)
+[IDG Website](https://commonfund.nih.gov/idg) | [Data Access](https://druggablegenome.net/IDGResourceTables)
 
 ## IMPROVE
 
 **Innovative Methodologies and New Data for Predictive Oncology Model Evaluation (IMPROVE)** is a computational program developing improved methods for evaluating predictive models in cancer research. IMPROVE creates standardized datasets and evaluation frameworks to assess and compare machine learning models for cancer prediction and treatment response.
 
-[IMPROVE Website](https://computational.cancer.gov/about/improve) | [Data Access](https://computational.cancer.gov/view-dataset-finder?f%5B0%5D=dataset_project%3Aimprov)
+[IMPROVE Website](https://computational.cancer.gov/about/improve) | [Data Access](https://modac.cancer.gov/searchTab?keyWord=IMPROVE%20Project)
 
 ## IOTN
 
 The **Immuno-Oncology Translation Network (IOTN)** is a research network focused on accelerating the development and clinical translation of immunotherapy approaches for cancer. IOTN conducts studies to improve understanding of immune responses to cancer and develop more effective immunotherapies.
 
-[IOTN Website](https://www.iotnmoonshot.org/en/) | [Data Access](https://www.iotnmoonshot.org/en/resources/data-sharing-catalog/)
+[IOTN Website](https://pmc.ncbi.nlm.nih.gov/articles/PMC10637038/) | [Data Access](https://pmc.ncbi.nlm.nih.gov/articles/PMC10637038/)
 
 ## ITCR
 
@@ -220,7 +220,7 @@ The **Immuno-Oncology Translation Network (IOTN)** is a research network focused
 
 The **Childhood Cancer Data Initiative Molecular Characterization Initiative (MCI)** is an initiative conducting comprehensive molecular characterization of childhood cancers to improve diagnosis and treatment. This program generates genomic and other molecular data from pediatric tumor samples to advance precision medicine for childhood cancers.
 
-[MCI Website](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/molecular-characterization) | [Data Access](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790.v1.p1)
+[MCI Website](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/programs/molecular-characterization) | [Data Access](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/study.cgi?study_id=phs002790)
 
 ## MOSSAIC
 
@@ -262,7 +262,7 @@ The **NCI Cohort Consortium** is an extramural-intramural partnership formed by 
 
 **NCI's National Clinical Trials Network (NCTN)** is a network of research organizations conducting cancer clinical trials across the United States. NCTN coordinates multi-site clinical trials to test new cancer treatments and supportive care interventions, providing access to trial data for research.
 
-[NCTN Website](https://www.cancer.gov/research/infrastructure/clinical-trials/nctn) | [Data Access](https://nctn-data-archive.nci.nih.gov/)
+[NCTN Website](https://www.cancer.gov/research/infrastructure/clinical-trials/nctn) | [Data Access](https://nctn-data-archive.nci.nih.gov/about-us)
 
 ## OMF
 
@@ -280,7 +280,7 @@ The **Pancreatic Cancer Microenvironment Network (PaCMEN)** is a research networ
 
 The **Pancreatic Cancer Detection Consortium (PCDC)** is a research consortium focused on early detection of pancreatic cancer through biomarker discovery and validation. PCDC develops screening tools and strategies to detect pancreatic cancer at earlier, more treatable stages.
 
-[PCDC Website](https://prevention.cancer.gov/major-programs/pancreatic-cancer-detection-consortium-pcdc) | [Data Access](https://prevention.cancer.gov/major-programs/pancreatic-cancer-detection-consortium-pcdc/pcdc-resources-and-collaborative-opportunities)
+[PCDC Website](https://prevention.cancer.gov/major-programs/pancreatic-cancer-detection-consortium-pcdc) | [Data Access](https://clinicaltrials.gov/study/NCT06271291)
 
 ## PDMC
 
@@ -328,7 +328,7 @@ The **Pancreatic Adenocarcinoma Stromal Reprogramming ConSortium (PSRC/PASSCODE)
 
 The **Small Cell Lung Cancer (SCLC) Consortium (SCLC)** is a research consortium focused on understanding and developing treatments for small cell lung cancer. SCLC Consortium conducts preclinical research to identify new therapeutic targets and treatment strategies for this aggressive cancer type.
 
-[SCLC Website](https://prevention.cancer.gov/major-programs/small-cell-lung-cancer-sclc-consortium) | [Data Access](https://www.mskcc.org/research-programs/nci-small-cell-lung-cancer-consortium/cellminer-sclc)
+[SCLC Website](https://www.mskcc.org/research-programs/nci-small-cell-lung-cancer-consortium) | [Data Access](https://www.mskcc.org/research-programs/nci-small-cell-lung-cancer-consortium/cellminer-sclc)
 
 ## SEER
 
@@ -340,13 +340,13 @@ The **Surveillance, Epidemiology, and End Results (SEER)** program is a populati
 
 The **Cellular Senescence Network (SenNET)** is a research consortium studying cellular senescence and its role in cancer development and aging-related diseases. SenNet maps senescent cells across tissues and organs to understand how cellular aging contributes to cancer and identify new targets for cancer prevention and treatment.
 
-[SenNET Website](https://sennetconsortium.org/about-2/) | [Data Access](https://data.sennetconsortium.org/search?size=n_10000_n&sort%5B0%5D%5Bfield%5D=last_modified_timestamp&sort%5B0%5D%5Bdirection%5D=desc)
+[SenNET Website](https://sennetconsortium.org/about-2/) | [Data Access](https://data.sennetconsortium.org/search)
 
 ## TARGET
 
 The **Therapeutically Applicable Research to Generate Effective Treatments (TARGET)** is a genomic characterization program focused on childhood and young adult cancers. TARGET generates comprehensive molecular data from pediatric cancers to identify potential therapeutic targets and improve treatment outcomes for young cancer patients.
 
-[TARGET Website](https://www.cancer.gov/ccg/research/genome-sequencing/target) | [Data Access](https://www.cancer.gov/ccg/)
+[TARGET Website](https://www.cancer.gov/ccg/research/genome-sequencing/target) | [Data Access](https://portal.gdc.cancer.gov/)
 
 ## TCGA
 
@@ -358,4 +358,4 @@ The **Therapeutically Applicable Research to Generate Effective Treatments (TARG
 
 ---
 
-**Updated:** March 27, 2026
+**Updated:** April 29, 2026
