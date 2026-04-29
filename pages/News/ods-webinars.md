@@ -24,8 +24,9 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**NCI ODS Data Jamboree Seminar Series IV**  
-**Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET**  
+**Driving Broad Impact of Cancer Research Together:**  
+**NCI Office of Data Sharing Showcase**  
+**Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
 </div>
@@ -39,6 +40,38 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 
 ## Upcoming Webinars
 
+### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
+
+Thursday, May 21, 2026 2:00 PM - 3:30 PM ET  
+[Register Here](https://events.cancer.gov/ods/webinar/upcoming)
+
+**Unlock the Power of Partnership with NCI Data Sharing**
+
+Join the NCI Office of Data Sharing (ODS) for an engaging webinar focused on strengthening collaboration with NCI-Designated Cancer Centers and advancing data-driven cancer research.
+
+Learn how ODS is aligning more closely with investigators and institutions to enhance our shared mission of improving outcomes for patients and families across the cancer community.
+
+In this session, you will explore how to partner with ODS in key areas:
+
+- Accessing and managing controlled NCI data resources: A pilot approach to institutional oversight and compliance, supporting the responsible use of NCI data across multiple PI-led projects
+- Aligning core data generation laboratories: Efforts to streamline standards, formatting, and submission practices across Cancer Centers
+- Collaborating with institutional data strategists: Bringing together institutional data leaders to develop efficient, high-impact, and NCI-compliant strategies
+- Leveraging multi-modal NCI datasets: Working collaboratively to integrate diverse data types and accelerate discovery across Centers
+- Navigating federal policies and regulations: Guidance on managing, sharing, and providing public access to research outputs, including data, publications, clinical trials, models, and biospecimens
+
+Whether you are an investigator, data strategist, or institutional leader, this webinar will offer practical insights to help you maximize the value of NCI data while maintaining compliance and advancing best practices in data stewardship.
+
+Be part of a more connected, compliant, and data-enabled cancer research ecosystem.
+
+**Moderators**
+
+- Jaime Guidry Auvil, Director, NCI, Office of Data Sharing
+- Emily Boja, Branch Chief, NCI, Office of Data Sharing
+- Freddie Pruitt, Health Scientist Administrator, NCI, Office of Data Sharing
+- Mousumi Ghosh, Health Scientist Administrator, NCI, Office of Data Sharing
+
+## Past Webinars
+
 ### NCI ODS Data Jamboree Seminar Series IV
 
 Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
@@ -51,8 +84,6 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 - Trinh Nguyen, NCI: Proteogenomic subtypes and immune microenvironment of pediatric brain tumors.
 - Brian Calpado, NCI: Assessing transcriptomic spillover in PDX studies from the CCDI.
 - Weiping Ma, Icahn School of Medicine at Mount Sinai: Evaluation of Missing data Imputation of DIA proteomics.
-
-## Past Webinars
 
 ### NCI ODS Data Jamboree Seminar Series III
 
