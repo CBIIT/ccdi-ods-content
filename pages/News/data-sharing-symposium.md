@@ -27,7 +27,8 @@ date: 2026-02-11
 
 **2026 NCI ODS Data Sharing Symposium**  
 **Thursday and Friday, November 5-6, 2026**  
-_Registration Coming Soon_
+<!-- Add span styling to center align the | character between two links. Remove for single link.-->
+<span style="display:inline-flex; justify-content:center; gap:0.5em; width:100%;"><span style="flex:1; text-align:right;">[Register Here](https://events.cancer.gov/ods/annualdatasharingsymposium/registration)</span><span>|</span><span style="flex:1; text-align:left;">[Abstract Submission](https://events.cancer.gov/ods/annualdatasharingsymposium/abstract)</span></span>
 
 </div>
 <!-- END: Custom Callout: Centered -->
@@ -81,4 +82,4 @@ Executive Summary (in-progress) | [Agenda](https://cbiit.github.io/ccdi-ods-cont
 
 ---
 
-**Updated:** February 18, 2026
+**Updated:** May 18, 2026
