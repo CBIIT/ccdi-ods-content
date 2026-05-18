@@ -42,17 +42,17 @@
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Connection_Blocks_01.png",
-        "title": "NCI ODS Cancer Center Showcase",
-        "description": "Join us for a webinar on strengthening collaboration with NCI-Designated Cancer Centers.",
+        "title": "NCI ODS Showcase - Thurs 5/21, 2-3:30 PM ET",
+        "description": "Join us to learn more about collaborating with NCI-Designated Cancer Centers.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/webinar/upcoming"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/BESH-venn-redesign.png",
-        "title": "Basic Experimental Studies in Humans (BESH) Will No Longer Be Considered Clinical Trials by the NIH",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Symposium_Collaboration_01.png",
+        "title": "Fourth Annual ODS Data Sharing Symposium - Data to Discovery: Leveraging Cancer Data in the “Real World” Nov 5-6, 2026",
         "description": "",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-032.html"
+        "link": "https://events.cancer.gov/ods/annualdatasharingsymposium"
       }
     ]
   }
