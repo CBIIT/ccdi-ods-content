@@ -6,7 +6,7 @@ date: 2026-02-11
 
 # Annual Data Sharing Symposium
 
-![How Data Advances the Impact of Cancer Research](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_ods_symposium_header_1200x400.png)
+![Data to Discovery: Leveraging Cancer Data in the "Real World"](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2026_ods_symposium_header_1200x373.png)
 
 <!-- START: Custom Callout: Centered -->
 <style>
