@@ -6,7 +6,7 @@ date: 2026-02-11
 
 # Annual Data Sharing Symposium
 
-![How Data Advances the Impact of Cancer Research](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_ods_symposium_header_1200x400.png)
+![Data to Discovery: Leveraging Cancer Data in the "Real World"](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2026_ods_symposium_header_1200x373.png)
 
 <!-- START: Custom Callout: Centered -->
 <style>
@@ -27,7 +27,7 @@ date: 2026-02-11
 
 **2026 NCI ODS Data Sharing Symposium**  
 **Thursday and Friday, November 5-6, 2026**  
-_Registration Coming Soon_
+[Register Here](https://events.cancer.gov/ods/annualdatasharingsymposium/registration) | [Abstract Submission](https://events.cancer.gov/ods/annualdatasharingsymposium/abstract)
 
 </div>
 <!-- END: Custom Callout: Centered -->
@@ -81,4 +81,4 @@ Executive Summary (in-progress) | [Agenda](https://cbiit.github.io/ccdi-ods-cont
 
 ---
 
-**Updated:** February 18, 2026
+**Updated:** May 19, 2026
