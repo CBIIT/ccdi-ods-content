@@ -8,7 +8,10 @@ date: 2026-02-11
 ![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/ods_webinar_series_1200x150.png)
 
 <!-- START: Custom Callout: Centered -->
-<style>
+
+<!-- Commented out to temporarily disable until new webinars announced>
+
+<!-- <style>
 .webinar-highlight {
   border: 3px solid #335d85;
   border-radius: 8px;
@@ -29,7 +32,8 @@ date: 2026-02-11
 **Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
-</div>
+</div> -->
+
 <!-- END: Custom Callout: Centered -->
 
 ## Overview
@@ -38,12 +42,12 @@ The Office of Data Sharing Webinar Series features expert speakers discussing cu
 
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
 
-## Upcoming Webinars
+## Past Webinars
 
 ### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
 
 Thursday, May 21, 2026 2:00 PM - 3:30 PM ET  
-[Register Here](https://events.cancer.gov/ods/webinar/upcoming)
+_Recording Coming Soon!_
 
 **Unlock the Power of Partnership with NCI Data Sharing**
 
@@ -70,12 +74,10 @@ Be part of a more connected, compliant, and data-enabled cancer research ecosyst
 - Freddie Pruitt, Health Scientist Administrator, NCI, Office of Data Sharing
 - Mousumi Ghosh, Health Scientist Administrator, NCI, Office of Data Sharing
 
-## Past Webinars
-
 ### NCI ODS Data Jamboree Seminar Series IV
 
 Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
-[Register Here](https://events.cancer.gov/ods/webinar/upcoming)
+_Recording Coming Soon!_
 
 **Speakers and Topics**
 
@@ -192,4 +194,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** March 27, 2026
+**Updated:** May 27, 2026
