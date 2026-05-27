@@ -6,7 +6,7 @@ date: 2026-02-12
 
 # Data Jamboree
 
-![NCI Data Jamboree: Enhancing Data Sharing and Utility to Advance Cancer Research](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/custom/2026_data_jamboree_banner_1200x380.png)
+![Enhancing Childhood Cancer Data Use](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/2025_data_jamboree_banner_1170x364.png)
 
 ## Overview
 
@@ -98,4 +98,4 @@ The project aims to develop informational materials to improve the presentation 
 
 ---
 
-**Updated:** May 26, 2026
+**Updated:** February 18, 2026
