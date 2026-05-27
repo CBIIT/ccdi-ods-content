@@ -9,9 +9,11 @@ date: 2026-02-11
 
 <!-- START: Custom Callout: Centered -->
 
-<!-- Commented out to temporarily disable until new webinars announced>
+<!-- Commented out the Callout box section below to temporarily disable until new webinars announced -->
+<!-- To restore, remove these two explanation lines and the arrow lines above <style> and below </div> -->
 
-<!-- <style>
+<!-- 
+<style>
 .webinar-highlight {
   border: 3px solid #335d85;
   border-radius: 8px;
@@ -32,7 +34,8 @@ date: 2026-02-11
 **Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
 [Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
-</div> -->
+</div> 
+-->
 
 <!-- END: Custom Callout: Centered -->
 
