@@ -45,22 +45,22 @@ Here's a sampling of data policies applicable to NCI-funded research. For additi
 
 ### NIH Data Management and Sharing (DMS) Policy
 
-- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms)
+- **Full Details**: [NIH Grants and Funding](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms)
 - **Effective**: January 25, 2023
-- **Applicability**: New applications (Type 1) & competitive renewals (Type 2)
-Competitive revisions (Type 3) & administrative supplements are not subject to the policy
-  Not applicable to research & other activities that do not generate scientific data
-- **Expectations**: Prospectively plan how to preserve & share scientific data
+- **Applicability**: New applications (Type 1) and competitive renewals (Type 2)
+Competitive revisions (Type 3) and administrative supplements are not subject to the policy
+  Not applicable to research and other activities that do not generate scientific data
+- **Expectations**: Prospectively plan how to preserve and share scientific data
 - **Sharing Timelines**: Share scientific data as soon as possible, but not later than the time of associated publication or end of performance period
 - **Data Location(s)**: Repository appropriate for the data generated from the research project, or as in NOFO
 - [DMS Policy FAQs](https://grants.nih.gov/faqs#/data-management-and-sharing-policy.htm)
 
 ### NIH Genomic Data Sharing (GDS) Policy
 
-- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds)
+- **Full Details**: [NIH Grants and Funding](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds)
 - **Effective**: January 25, 2015
-- **Applicability**: New applications that generate large-scale genomic data & smaller-scale studies (of programmatic priority, or rare diseases)
-  Thresholds & assay types clearly defined for meeting GDS
+- **Applicability**: New applications that generate large-scale genomic data and smaller-scale studies (of programmatic priority, or rare diseases)
+  Thresholds and assay types clearly defined for meeting GDS
 - **Expectations**: Include a genomic data sharing plan as part of DMS plan
 - **Sharing Timelines**: Release lower-level primary data (L2/L3) by 9 months after data generation/QC
   Release summary analyses at publication or end of the project period
@@ -69,7 +69,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 ### Cancer Moonshot<sup>SM</sup> Public Access and Data Sharing (PADS) Policy
 
-- **Full Details**: [cancer.gov](https://www.cancer.gov/grants-training/policies-process/nci-policies#:~:text=The%20NCI%20Cancer%20Moonshot%20Public%20Access%20and%20Data%20Sharing%20Policy)
+- **Full Details**: [NCI Grant Policies](https://www.cancer.gov/grants-training/policies-process/nci-policies#:~:text=The%20NCI%20Cancer%20Moonshot%20Public%20Access%20and%20Data%20Sharing%20Policy)
 - **Effective**: October 1, 2017
 - **Applicability**: Cancer Moonshot research project NOFOs, contracts, and intramural projects generating Publications and Underlying Primary Data
 - **Expectations**: Submit "Public Access and Data Sharing Plans" that describe proposed process for making publications and the underlying primary data immediately and broadly available to the public.
@@ -78,7 +78,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 ### Dissemination of NIH-Funded Clinical Trial Information Policy
 
-- **Full Details**: [grants.nih.gov](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/nih-policy)
+- **Full Details**: [NIH Grants and Funding](https://grants.nih.gov/policy-and-compliance/policy-topics/clinical-trials/reporting/nih-policy)
 - **Effective**: January 18, 2017
 - **Applicability**: All clinical trials funded in whole or in part by NIH
 - **Expectations**: Submit a plan for dissemination of clinical trial information as part of DMS plan
@@ -88,7 +88,7 @@ Competitive revisions (Type 3) & administrative supplements are not subject to t
 
 ### Intramural Research Program Human Data Sharing (HDS) Policy
 
-- **Full Details**: [oir.nih.gov](https://oir.nih.gov/sourcebook/intramural-program-oversight/intramural-data-sharing/human-data-sharing)
+- **Full Details**: [NIH Office of Intramural Research](https://oir.nih.gov/sourcebook/intramural-program-oversight/intramural-data-sharing/human-data-sharing)
 - **Effective**: October 1, 2015
 - **Applicability**: Intramural research activities resulting in human data collection, including human subjects data, and human data needed to validate research findings in publications regardless of where data originated
 - **Expectations**: Develop a Data Sharing Plan as part of DMS plan
