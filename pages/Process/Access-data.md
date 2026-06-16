@@ -16,7 +16,7 @@ Investigators can use open-access data for secondary research without prior perm
 
 ## Controlled-Access Data
 
-In addition to open-access data sets, NCI facilitates requests to controlled-access data for NCI intramural staff scientists and extramural investigators. To use controlled data, you must obtain prior authorization through a Data Access Committee. NCI’s data access processes ensure that requests comply with NIH’s data sharing policies, and the data are used in ways that adhere to the consent given by research participants in their original studies.
+In addition to open-access datasets, NCI facilitates requests to controlled-access data for NCI intramural staff scientists and extramural investigators. To use controlled data, you must obtain prior authorization through a Data Access Committee. NCI’s data access processes ensure that requests comply with NIH’s data sharing policies, and the data are used in ways that adhere to the consent given by research participants in their original studies.
 
 ***All users are expected to use the data responsibly.** [See Using Genomic Data Responsibly Under the NIH Genomic Data Sharing Policy](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/using-genomic-data)
 
@@ -41,7 +41,7 @@ The National Cancer Institute (NCI) has established curated dbGaP Collections to
 - [NCI General Research Use (GRU) Collection (phs003014)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003014) – Includes individual-level datasets approved for general research use without additional restrictions beyond the DUC.
 - [NCI Health/Medical/Biomedical (HMB) Collection (phs003044)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003044) – Includes datasets designated for research related to health/medical/biomedical purposes, does not include the study of population origins or ancestry.
 - [NCI Cancer Research (DS-CA) Collection (phs003967)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003967) – Includes datasets approved for cancer-focused research use, subject to study-specific data use limitations.
-- [NCI Pediatric and Adolescent & Young Adult (AYA) Collection (phs003964)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003964) – Includes datasets focused on pediatric and adolescent/young adult cancers. Individual datasets within this collection may have distinct consent-based data use limitations and must be used accordingly. Datasets may not be combined if such use is restricted by the applicable data use limitations.
+- [NCI Pediatric and Adolescent and Young Adult (AYA) Collection (phs003964)](https://www.ncbi.nlm.nih.gov/projects/gap/cgi-bin/collection.cgi?study_id=phs003964) – Includes datasets focused on pediatric and adolescent/young adult cancers. Individual datasets within this collection may have distinct consent-based data use limitations and must be used accordingly. Datasets may not be combined if such use is restricted by the applicable data use limitations.
 
 &nbsp;
 
