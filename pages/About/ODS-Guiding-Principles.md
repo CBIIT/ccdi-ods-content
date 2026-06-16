@@ -16,7 +16,7 @@ When sharing research data, follow these Office of Data Sharing (ODS) principles
 
 - NCI and NIH data and public access policies outline expectations for making publicly funded information freely, broadly, and rapidly available to the research community. Consider publishing your findings in an open access journal.
 
-- Use existing data standards wherever possible. You can share your data easier when those data adhere to FAIR data standards (i.e., data are Findable, Accessible, Interoperable, and Reusable). Follow FAIR principles and use persistent identifiers (PIDs) for each data set, publication, and biospecimen.
+- Use existing data standards wherever possible. You can share your data easier when those data adhere to FAIR data standards (i.e., data are Findable, Accessible, Interoperable, and Reusable). Follow FAIR principles and use persistent identifiers (PIDs) for each dataset, publication, and biospecimen.
 
 - Adopt common data elements and data file formats, such as those from NCI’s flagship studies (e.g., PADS, The Cancer Imaging Archive, The Childhood Cancer Data Initiative, NCI-MATCH, and NCI’s Surveillance, Epidemiology, and End Results Program).
 
