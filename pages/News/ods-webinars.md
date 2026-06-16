@@ -32,7 +32,7 @@ date: 2026-02-11
 **Driving Broad Impact of Cancer Research Together:**  
 **NCI Office of Data Sharing Showcase**  
 **Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
-[Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
+[Register](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
 </div> 
 -->
