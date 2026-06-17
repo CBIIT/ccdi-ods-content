@@ -188,4 +188,4 @@ Pancreatic cancer starts in the pancreas cells, an abdominal organ located behin
 
 ---
 
-**Updated:** July 31, 2025
+**Updated:** June 17, 2026
