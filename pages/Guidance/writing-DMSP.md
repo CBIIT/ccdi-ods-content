@@ -96,8 +96,8 @@ Describe how and when you'll be archiving your scientific data and metadata. Be 
 **TIPS:**
 
 - *When setting realistic timelines for preserving and sharing your data, be sure to consider tasks that could alter your data sharing timeline (e.g., repository policies, award record retention requirements, journal publication schedules). You'll need to indicate if any of your data subsets have different timelines. If you're completing a GDS and DMS Plan, be sure the timelines align and meet policy expectations.*
-- *Make certain your data are FAIR (i.e., findable, accessible, interoperable, and reusable) and include any necessary digital object identifiers, accession numbers, and hyperlinks to data sets.*
-- *You may deposit different types of data from the same participants into several repositories, as long as the secondary users are aware of where to find and access those data sets.*
+- *Make certain your data are FAIR (i.e., findable, accessible, interoperable, and reusable) and include any necessary digital object identifiers, accession numbers, and hyperlinks to datasets.*
+- *You may deposit different types of data from the same participants into several repositories, as long as the secondary users are aware of where to find and access those datasets.*
 - *Your repository(ies) may include [Generalist Repositories](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific#generalist-repositories), unless otherwise specified by the funding opportunity announcements or NCI-specific policy(ies).*
 - *If you plan on depositing data into one of [NCI's Cancer Research Data Commons (CRDC) repositories](https://datascience.cancer.gov/data-commons/repositories), such as [GDC](https://gdc.cancer.gov/), [PDC](https://pdc.cancer.gov/pdc/), [GC](https://datacommons.cancer.gov/repository/general-commons), [ICDC](https://datacommons.cancer.gov/repository/integrated-canine-data-commons), be aware that you'll need prior approval.*
 
@@ -132,8 +132,8 @@ The format you use can vary. To keep it simple, you might want to consider using
 
 | **Data Types to be Generated/Collected** | **Data to be Shared** | **Brief Description of Methodology (Including Timelines)** | **Software/Codes for Accessing/Manipulating Data** | **Data Standards** | **Name(s) of Repositories** | **Estimated Data Sharing Timelines** | **Oversight of DMS** |
 |---|---|---|---|---|---|---|---|
-| Genomics/Genetics | Yes, all data sets | 200 human subjects before and after therapy | GATK -- open source | FASTQ, BAM, VCF (HG38) HTAN model | SRA | Submission: L2/L3 data to SRA by June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
-| Clinical Data (Routine Care and Clinical Research) | Yes, all data sets | 200 human subjects before and after therapy | No special software needed to access and use the data | JSON, CaDSR | dbGaP deidentified (Safe Harbor) | Submission: June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
+| Genomics/Genetics | Yes, all datasets | 200 human subjects before and after therapy | GATK -- open source | FASTQ, BAM, VCF (HG38) HTAN model | SRA | Submission: L2/L3 data to SRA by June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
+| Clinical Data (Routine Care and Clinical Research) | Yes, all datasets | 200 human subjects before and after therapy | No special software needed to access and use the data | JSON, CaDSR | dbGaP deidentified (Safe Harbor) | Submission: June 2025<br>Release: December 2025 | Institutional officials will provide annual oversight |
 
 For additional ideas on formatting your DMS Plan, visit the [Federal Demonstration Partnership](https://thefdp.org/demonstrations-resources/nih-data-management-sharing-pilot/). There, you'll find pilot templates to help you create your DMS Plan.
 
@@ -144,7 +144,7 @@ Now that you have a sense of what your plan should contain, use the following re
 ### Resources and Tools
 
 - [DMS Plan](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/dms/writing-dms-plan): Learn what NIH expects in a DMS Plan and get additional direction on developing a plan.
-- Repositories: Visit our [NCI Data Catalog](https://datascience.cancer.gov/resources/nci-data-catalog) for a list of data collections produced by major NCI initiatives and other widely used data sets. Also, [visit the NIH Scientific Data Sharing website](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) for a full list of NIH-supported repositories.
+- Repositories: Visit our [NCI Data Catalog](https://datascience.cancer.gov/resources/nci-data-catalog) for a list of data collections produced by major NCI initiatives and other widely used datasets. Also, [visit the NIH Scientific Data Sharing website](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) for a full list of NIH-supported repositories.
 - [Training Modules](https://www.nigms.nih.gov/training/pages/clearinghouse-for-training-modules-to-enhance-data-reproducibility.aspx): Watch these training modules on how to enhance data reproducibility.
 - [Writing Applicable Activity Codes](https://grants.nih.gov/sites/default/files/flmngr/List-of-Activity-Codes-Applicable-to-DMS-Policy.pdf): Review this list of activity codes to see if you need to write a DMS Plan for your research.
 - [DMPTool](https://www.nnlm.gov/guides/data-glossary/data-management-planning-tool-dmptool): Sign up to use this free software, which will walk you through creating DMS plans based on NIH templates.
@@ -188,4 +188,4 @@ Now that you have a sense of what your plan should contain, use the following re
 
 ---
 
-**Updated:** December 18, 2025
+**Updated:** June 17, 2026

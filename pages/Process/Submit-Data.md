@@ -17,7 +17,7 @@ Data sharing allows data generated from one research study to be used to answe
 | ![Data cloud icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/cloud_upload_icon.png) | [NIH-supported Repositories for Sharing Scientific Data](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/accessing-data/scientific) |
 | ![Folder icon](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/icons/folder_icon.png) | [NCI Cancer Research Data Commons](https://datacommons.cancer.gov/explore/data-commons) (CRDC)* |
 
-***Prior approval is required for submission to the CRDC. See [https://datacommons.cancer.gov/submit](https://datacommons.cancer.gov/submit) for more information.**
+***Prior approval is required for submission to the CRDC. See [CRDC's website](https://datacommons.cancer.gov/submit) for more information.**
 
 ## Submitting Genomic Data
 
@@ -36,4 +36,4 @@ Researchers submitting genomic data should refer to the data practices, file for
 
 ---
 
-**Updated:** December 18, 2025
+**Updated:** June 17, 2026

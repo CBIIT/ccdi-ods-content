@@ -87,13 +87,13 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ### December 2024
 
-- [Inaugural ODS Webinar & New Dataset Exploration Feature in the Index of NCI Studies (INS)](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-12-06_Inaugural_ODS_Webinar_&_New_Dataset_Exploration_Feature_in_the_Index_of_NCI_Studies_(INS).pdf)
+- [Inaugural ODS Webinar and New Dataset Exploration Feature in the Index of NCI Studies (INS)](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-12-06_Inaugural_ODS_Webinar_&_New_Dataset_Exploration_Feature_in_the_Index_of_NCI_Studies_(INS).pdf)
 
 ### November 2024
 
 - [NCI Office of Data Sharing Salutes Veterans and Service Members: Initiatives and Update](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-11-07_NCI_Office_of_Data_Sharing_Salutes_Veterans_and_Service_Members__Initiatives_and_Update.pdf)
 - [ACTION NEEDED: Please add your voice and expertise to government policy implementation](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-11-19_ACTION_NEEDED__Please_add_your_voice_and_expertise_to_government_policy_implementation.pdf)
-- [REMINDER: Action Needed by November 29th & ODS Symposium Executive Summary](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-11-21_REMINDER__Action_Needed_by_November_29th_&_ODS_Symposium_Executive_Summary.pdf)
+- [REMINDER: Action Needed by November 29th and ODS Symposium Executive Summary](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2024/2024-11-21_REMINDER__Action_Needed_by_November_29th_&_ODS_Symposium_Executive_Summary.pdf)
 
 ### October 2024
 
@@ -186,4 +186,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** April 29, 2026
+**Updated:** June 17, 2026

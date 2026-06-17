@@ -32,7 +32,7 @@ date: 2026-02-11
 **Driving Broad Impact of Cancer Research Together:**  
 **NCI Office of Data Sharing Showcase**  
 **Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
-[Register Here](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
+[Register](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
 </div> 
 -->
@@ -138,7 +138,7 @@ Tuesday, January 13, 2026 11:00 AM - 1:00 PM ET
 
 **Speakers and Topics**
 
-- James Galbraith, Lucy Han; Abdullah Awaysheh, Abegail Gill, Anna Fernandez, Booz Allen Hamilton: Practical Quality Assessment & Enrichment of Childhood/AYA Cancer Datasets
+- James Galbraith, Lucy Han; Abdullah Awaysheh, Abegail Gill, Anna Fernandez, Booz Allen Hamilton: Practical Quality Assessment and Enrichment of Childhood/AYA Cancer Datasets
 - Matthew Gavriel, St. Jude Children's Research Hospital: Identifying and Annotating Variants Associated with Headaches in Childhood Cancer Survivors
 - David Higgins, Children's Hospital of Philadelphia: Tutorial and Example Notebooks for the Kids First Variant Workbench
 - Michael Sierk, CBIIT, NCI, NIH: VCF Table Viewer: Interactive Visualization of VCF Files from Childhood Cancer Data Initiative (CCDI)
@@ -197,4 +197,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** May 27, 2026
+**Updated:** June 17, 2026
