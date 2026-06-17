@@ -88,7 +88,7 @@ Competitive revisions (Type 3) and administrative supplements are not subject to
 
 ### Intramural Research Program Human Data Sharing (HDS) Policy
 
-- **Full Details**: [NIH Office of Intramural Research](https://oir.nih.gov/sourcebook/intramural-program-oversight/intramural-data-sharing/human-data-sharing)
+- **Full Details**: [NIH Policy Manual](https://policymanual.nih.gov/3016)
 - **Effective**: October 1, 2015
 - **Applicability**: Intramural research activities resulting in human data collection, including human subjects data, and human data needed to validate research findings in publications regardless of where data originated
 - **Expectations**: Develop a Data Sharing Plan as part of DMS plan
