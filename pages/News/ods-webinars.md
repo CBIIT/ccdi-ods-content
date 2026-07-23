@@ -4,7 +4,8 @@ author: ODS; Transcribed ZD
 date: 2026-02-11
 ---
 
-<!-- Banner image intentionally used instead of H1 on this page -->
+# Office of Data Sharing Webinars
+
 ![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/ods_webinar_series_1200x150.png)
 
 <!-- START: Custom Callout: Centered -->
@@ -197,4 +198,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** June 17, 2026
+**Updated:** July 23, 2026
