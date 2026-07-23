@@ -55,7 +55,7 @@ High level randomized controlled data continues to be lacking in artificial inte
 
 - Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
 
-### Turn Ideas into Impact: Learn how to participate in two New Prize Challenge Competitions from the NCI Office of Data Sharing Bulletin
+### Turn Ideas into Impact: Learn how to participate in two New Prize Challenge Competitions from the NCI Office of Data Sharing
 
 Wednesday, August 12, 2026 1:00 PM - 2:00 PM ET  
 [Register](https://events.cancer.gov/ods/webinar/upcoming)
