@@ -72,7 +72,7 @@ Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-
 ### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
 
 Thursday, May 21, 2026 2:00 PM - 3:30 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://nci.rev.vbrick.com/#/videos/c5440cdd-451b-409d-9b19-51e220da7573)
 
 **Unlock the Power of Partnership with NCI Data Sharing**
 
@@ -102,7 +102,7 @@ Be part of a more connected, compliant, and data-enabled cancer research ecosyst
 ### NCI ODS Data Jamboree Seminar Series IV
 
 Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/webappng/sites/cbiit/recording/f40b807ba973444eb060f14dfda1eaaa/playback)
 
 **Speakers and Topics**
 
@@ -115,7 +115,7 @@ _Recording Coming Soon!_
 ### NCI ODS Data Jamboree Seminar Series III
 
 Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/c8222f7c472048c281ba8f65c31097c1/playback)
 
 **Speakers and Topics**
 
@@ -127,7 +127,7 @@ _Recording Coming Soon!_
 ### NCI ODS Data Jamboree Seminar Series II
 
 Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/3b53128a2e5b4654abcc6f0a8af6ec63/playback)
 
 **Speakers and Topics**
 
