@@ -10,6 +10,17 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2026
 
+### June 2026
+
+- [Resources for Researchers (R4R) Has Moved to the Index of NCI Studies (INS)](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-06-11_Resources_for_Researchers_R4R_Has_Moved_to_the_Index_of_NCI_Studies_INS.pdf)
+- [Childhood Cancer Data Initiative Symposium: Registration Now Open](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-06-25_Childhood_Cancer_Data_Initiative_Symposium_Registration_Now_Open.pdf)
+
+### May 2026
+
+- [Stay Connected with Data Sharing: May](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-05-07_Stay_Connected_with_Data_Sharing_May.pdf)
+- [Registration Now Open: Fourth Annual Data Sharing Symposium](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-05-13_Registration_Now_Open_Fourth_Annual_Data_Sharing_Symposium.pdf)
+- [Join us Today: NCI Office of Data Sharing Showcase](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-05-21_Join_us_Today_NCI_Office_of_Data_Sharing_Showcase.pdf)
+
 ### April 2026
 
 - [Stay Connected with Data Sharing: April](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-04-09_Stay_Connected_with_Data_Sharing_April.pdf)
@@ -33,6 +44,11 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 - [Stay Connected with Data Sharing: January](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-01-22_Stay_Connected_with_Data_Sharing_January.pdf)
 
 ## 2025
+
+<details>
+  <summary>
+  Click to show more...
+  </summary>
 
 ### December 2025
 
@@ -77,6 +93,8 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 - [ODS Connect](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-01-03_ODS_Connect_January_2025.pdf)
 - [Carpe’ Diem—Making Data Findable and Accessible to Promote Utility](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2025/2025-01-16_Carpe’_Diem_Making_Data_Findable_and_Accessible_to_Promote_Utility.pdf)
+
+</details>
 
 ## 2024
 
@@ -186,4 +204,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** June 17, 2026
+**Updated:** July 23, 2026
