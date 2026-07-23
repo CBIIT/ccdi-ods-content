@@ -34,11 +34,11 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
-        "title": "New DMS Plan Format Page",
-        "description": "A simplified 2026 Pilot Data Management and Sharing Plan format is available for all award types.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png",
+        "title": "ODS Webinar Series: Wed July 29 12:00PM - 1:00PM ET",
+        "description": "Dr. Julian Hong: Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery.",
         "readMoreColor": "[#76E7DD]",
-        "link": "https://grants.nih.gov/grants-process/write-application/forms-directory/data-management-and-sharing-plan-format-page"
+        "link": "https://events.cancer.gov/ods/webinar/registration"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
