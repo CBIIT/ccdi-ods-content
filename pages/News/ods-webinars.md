@@ -4,15 +4,12 @@ author: ODS; Transcribed ZD
 date: 2026-02-11
 ---
 
-<!-- Banner image intentionally used instead of H1 on this page -->
+# Office of Data Sharing Webinars
+
 ![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/ods_webinar_series_1200x150.png)
 
 <!-- START: Custom Callout: Centered -->
 
-<!-- Commented out the Callout box section below to temporarily disable until new webinars announced -->
-<!-- To restore, remove these two explanation lines and the arrow lines above <style> and below </div> -->
-
-<!-- 
 <style>
 .webinar-highlight {
   border: 3px solid #335d85;
@@ -29,13 +26,11 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Driving Broad Impact of Cancer Research Together:**  
-**NCI Office of Data Sharing Showcase**  
-**Thursday, May 21, 2026 2:00 PM - 3:30 PM ET**  
+**Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery**  
+**Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET**  
 [Register](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
 
-</div> 
--->
+</div>
 
 <!-- END: Custom Callout: Centered -->
 
@@ -45,12 +40,39 @@ The Office of Data Sharing Webinar Series features expert speakers discussing cu
 
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
 
+## Upcoming Webinars
+
+### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
+
+Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET  
+[Register](https://events.cancer.gov/ods/webinar/upcoming)
+
+Join the NCI Office of Data Sharing (ODS) for a presentation from Dr. Julian Hong on Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery.
+
+High level randomized controlled data continues to be lacking in artificial intelligence and machine learning applications in healthcare. This session will review one of the early randomized controlled experiences in healthcare machine learning, focused on the prediction and prevention of unplanned acute care during cancer therapy. The discussion will center on subsequent ongoing NCI-funded efforts in multi-institutional generalizability, integration of wearable device data, and prospective validation studies.
+
+**Speaker**
+
+- Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
+
+### Turn Ideas into Impact: Learn how to participate in two New Prize Challenge Competitions from the NCI Office of Data Sharing
+
+Wednesday, August 12, 2026 1:00 PM - 2:00 PM ET  
+[Register](https://events.cancer.gov/ods/webinar/upcoming)
+
+Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing two new prize competitions: the NCI ODS Impact Prize ($200,000 total prize) and the Pediatric and Adolescent and Young Adults Cancer Data Initiative Innovation Challenge ($15,000,000 total prize). Learn about each competition's goals, eligibility requirements, submission process, key deadlines. The session will conclude with a live Q&A to address participant questions.
+
+**Speakers**
+
+- Nathan Boyd, PhD, Health Scientist Administrator, NCI, Office of Data Sharing
+- Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
+
 ## Past Webinars
 
 ### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
 
 Thursday, May 21, 2026 2:00 PM - 3:30 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://nci.rev.vbrick.com/#/videos/c5440cdd-451b-409d-9b19-51e220da7573)
 
 **Unlock the Power of Partnership with NCI Data Sharing**
 
@@ -80,7 +102,7 @@ Be part of a more connected, compliant, and data-enabled cancer research ecosyst
 ### NCI ODS Data Jamboree Seminar Series IV
 
 Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/webappng/sites/cbiit/recording/f40b807ba973444eb060f14dfda1eaaa/playback)
 
 **Speakers and Topics**
 
@@ -93,7 +115,7 @@ _Recording Coming Soon!_
 ### NCI ODS Data Jamboree Seminar Series III
 
 Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/c8222f7c472048c281ba8f65c31097c1/playback)
 
 **Speakers and Topics**
 
@@ -105,7 +127,7 @@ _Recording Coming Soon!_
 ### NCI ODS Data Jamboree Seminar Series II
 
 Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
-_Recording Coming Soon!_
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/3b53128a2e5b4654abcc6f0a8af6ec63/playback)
 
 **Speakers and Topics**
 
@@ -197,4 +219,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** June 17, 2026
+**Updated:** July 23, 2026

@@ -18,9 +18,10 @@ Review archived news relevant to the NCI Office of Data Sharing (ODS). These are
 - [2022-10-13: Your Guide to the 2023 NIH Data Management and Sharing Policy (NCI)](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2022-10-13_Your_Guide_to_the_2023_NIH_Data_Management_and_Sharing_Policy_NCI.pdf)
 - [2022-11-03: NCI Requests Your Input on the Use and Reuse of Cancer Metabolomics Data](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2022-11-03_NCI_Requests_Your_Input_on_the_Use_and_Reuse_of_Cancer_Metabolomics_Data.pdf)
 - [2024-01-24: Provide Feedback on NIH Data Management and Sharing Plan Pilot Templates (NCI)](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2024-01-24_Provide_Feedback_on_NIH_Data_Management_and_Sharing_Plan_Pilot_Templates_NCI.pdf)
+- [2024-06-27: Comment on NIH's Draft Public Access Policy by August 19](https://cbiit.github.io/ccdi-ods-content/pages/documents/news-archive/2024-06-27-Comment_on_NIH’s_Draft_Public_Access_Policy_by_August_19_NCI.pdf)
 
 &nbsp;
 
 ---
 
-**Updated:** February 27, 2026
+**Updated:** July 23, 2026
