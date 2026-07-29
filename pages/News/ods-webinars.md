@@ -26,7 +26,7 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-** Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
+**Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
 **Wednesday, August 12, 2026 1:00 p.m. – 2: 00 p.m. ET**  
 [Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
 
