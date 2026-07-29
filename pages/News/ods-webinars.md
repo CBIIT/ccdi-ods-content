@@ -26,9 +26,9 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery**  
-**Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET**  
-[Register](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
+**Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
+**Wednesday, August 12, 2026 1:00 PM – 2: 00 PM ET**  
+[Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
 
 </div>
 
@@ -42,20 +42,7 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 
 ## Upcoming Webinars
 
-### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
-
-Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET  
-[Register](https://events.cancer.gov/ods/webinar/upcoming)
-
-Join the NCI Office of Data Sharing (ODS) for a presentation from Dr. Julian Hong on Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery.
-
-High level randomized controlled data continues to be lacking in artificial intelligence and machine learning applications in healthcare. This session will review one of the early randomized controlled experiences in healthcare machine learning, focused on the prediction and prevention of unplanned acute care during cancer therapy. The discussion will center on subsequent ongoing NCI-funded efforts in multi-institutional generalizability, integration of wearable device data, and prospective validation studies.
-
-**Speaker**
-
-- Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
-
-### Turn Ideas into Impact: Learn how to participate in two New Prize Challenge Competitions from the NCI Office of Data Sharing
+###Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions From NCI's Office of Data Sharing
 
 Wednesday, August 12, 2026 1:00 PM - 2:00 PM ET  
 [Register](https://events.cancer.gov/ods/webinar/upcoming)
@@ -68,6 +55,19 @@ Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-
 - Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
 
 ## Past Webinars
+
+### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
+
+Wednesday, July 29, 2026 12:00 p.m. – 1:00 p.m. ET  
+Recording Coming Soon!
+
+Watch the presentation from Dr. Julian Hong on generalizable multi-modal AI approaches to advance cancer care delivery.
+
+High level randomized controlled data continues to be lacking in artificial intelligence and machine learning applications in healthcare. This session reviewed one of the early randomized controlled experiences in healthcare machine learning, focusing on the prediction and prevention of unplanned acute care during cancer therapy. The discussion centered on subsequent ongoing NCI-funded efforts in multi-institutional generalizability, integration of wearable device data, and prospective validation studies.
+
+**Speaker**
+
+- Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
 
 ### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
 
@@ -219,4 +219,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** July 23, 2026
+**Updated:** July 30, 2026
