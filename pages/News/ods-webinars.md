@@ -26,9 +26,9 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery**  
-**Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET**  
-[Register](https://events.cancer.gov/ods/webinar/upcoming) | [Details Below](#upcoming-webinars)
+**Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
+**Wednesday, August 12, 2026 1:00 p.m. – 2: 00 p.m. ET**  
+[Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
 
 </div>
 
@@ -42,22 +42,9 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 
 ## Upcoming Webinars
 
-### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
+### Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions From NCI's Office of Data Sharing
 
-Wednesday, July 29, 2026 12:00 PM - 1:00 PM ET  
-[Register](https://events.cancer.gov/ods/webinar/upcoming)
-
-Join the NCI Office of Data Sharing (ODS) for a presentation from Dr. Julian Hong on Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery.
-
-High level randomized controlled data continues to be lacking in artificial intelligence and machine learning applications in healthcare. This session will review one of the early randomized controlled experiences in healthcare machine learning, focused on the prediction and prevention of unplanned acute care during cancer therapy. The discussion will center on subsequent ongoing NCI-funded efforts in multi-institutional generalizability, integration of wearable device data, and prospective validation studies.
-
-**Speaker**
-
-- Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
-
-### Turn Ideas into Impact: Learn how to participate in two New Prize Challenge Competitions from the NCI Office of Data Sharing
-
-Wednesday, August 12, 2026 1:00 PM - 2:00 PM ET  
+Wednesday, August 12, 2026 | 1:00 p.m. – 2:00 p.m. ET  
 [Register](https://events.cancer.gov/ods/webinar/upcoming)
 
 Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing two new prize competitions: the NCI ODS Impact Prize ($200,000 total prize) and the Pediatric and Adolescent and Young Adults Cancer Data Initiative Innovation Challenge ($15,000,000 total prize). Learn about each competition's goals, eligibility requirements, submission process, key deadlines. The session will conclude with a live Q&A to address participant questions.
@@ -69,18 +56,31 @@ Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-
 
 ## Past Webinars
 
+### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
+
+Wednesday, July 29, 2026 | 12:00 p.m. – 1:00 p.m. ET  
+_Recording Coming Soon!_
+
+Watch the presentation from Dr. Julian Hong on generalizable multi-modal AI approaches to advance cancer care delivery.
+
+High level randomized controlled data continues to be lacking in artificial intelligence and machine learning applications in healthcare. This session reviewed one of the early randomized controlled experiences in healthcare machine learning, focusing on the prediction and prevention of unplanned acute care during cancer therapy. The discussion centered on subsequent ongoing NCI-funded efforts in multi-institutional generalizability, integration of wearable device data, and prospective validation studies.
+
+**Speaker**
+
+- Julian Hong, MD, MS, Associate Professor, Radiation Oncology, University of California, San Francisco
+
 ### Driving Broad Impact of Cancer Research Together: NCI Office of Data Sharing Showcase
 
-Thursday, May 21, 2026 2:00 PM - 3:30 PM ET  
+Thursday, May 21, 2026 | 2:00 p.m. – 3:30 p.m. ET  
 [View Recording](https://nci.rev.vbrick.com/#/videos/c5440cdd-451b-409d-9b19-51e220da7573)
 
 **Unlock the Power of Partnership with NCI Data Sharing**
 
-Join the NCI Office of Data Sharing (ODS) for an engaging webinar focused on strengthening collaboration with NCI-Designated Cancer Centers and advancing data-driven cancer research.
+Watch this webinar from NCI's Office of Data Sharing (ODS) on strengthening collaboration with NCI-Designated Cancer Centers and advancing data-driven cancer research.
 
 Learn how ODS is aligning more closely with investigators and institutions to enhance our shared mission of improving outcomes for patients and families across the cancer community.
 
-In this session, you will explore how to partner with ODS in key areas:
+During the session, the moderators explored how you can partner with ODS in key areas:
 
 - Accessing and managing controlled NCI data resources: A pilot approach to institutional oversight and compliance, supporting the responsible use of NCI data across multiple PI-led projects
 - Aligning core data generation laboratories: Efforts to streamline standards, formatting, and submission practices across Cancer Centers
@@ -88,7 +88,7 @@ In this session, you will explore how to partner with ODS in key areas:
 - Leveraging multi-modal NCI datasets: Working collaboratively to integrate diverse data types and accelerate discovery across Centers
 - Navigating federal policies and regulations: Guidance on managing, sharing, and providing public access to research outputs, including data, publications, clinical trials, models, and biospecimens
 
-Whether you are an investigator, data strategist, or institutional leader, this webinar will offer practical insights to help you maximize the value of NCI data while maintaining compliance and advancing best practices in data stewardship.
+Whether you are an investigator, data strategist, or institutional leader, this recording offers practical insights to help you maximize the value of NCI data while maintaining compliance and advancing best practices in data stewardship.
 
 Be part of a more connected, compliant, and data-enabled cancer research ecosystem.
 
@@ -101,7 +101,7 @@ Be part of a more connected, compliant, and data-enabled cancer research ecosyst
 
 ### NCI ODS Data Jamboree Seminar Series IV
 
-Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET  
+Tuesday, April 14, 2026 | 11:00 a.m. – 1:00 p.m. ET  
 [View Recording](https://cbiit.webex.com/webappng/sites/cbiit/recording/f40b807ba973444eb060f14dfda1eaaa/playback)
 
 **Speakers and Topics**
@@ -114,7 +114,7 @@ Tuesday, April 14, 2026 11:00 AM - 1:00 PM ET
 
 ### NCI ODS Data Jamboree Seminar Series III
 
-Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET  
+Tuesday, March 17, 2026 | 11:00 a.m. – 1:00 p.m. ET  
 [View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/c8222f7c472048c281ba8f65c31097c1/playback)
 
 **Speakers and Topics**
@@ -126,7 +126,7 @@ Tuesday, March 17, 2026 11:00 AM - 1:00 PM ET
 
 ### NCI ODS Data Jamboree Seminar Series II
 
-Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET  
+Tuesday, February 24, 2026 | 11:00 a.m. – 1:00 p.m. ET  
 [View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/3b53128a2e5b4654abcc6f0a8af6ec63/playback)
 
 **Speakers and Topics**
@@ -138,7 +138,7 @@ Tuesday, February 24, 2026 11:00 AM - 1:00 PM ET
 
 ### ODS Symposium: Navigating Risk and Confronting Challenges to Sharing Cancer Data
 
-Wednesday, January 28, 2026 1:00 PM - 4:00 PM ET  
+Wednesday, January 28, 2026 | 1:00 p.m. – 4:00 p.m. ET  
 [View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/c13762c925004bdfbe4d5fb2119d882b/playback)
 
 **Speakers and Topics**
@@ -155,7 +155,7 @@ Wednesday, January 28, 2026 1:00 PM - 4:00 PM ET
 
 ### NCI ODS Data Jamboree Seminar Series I
 
-Tuesday, January 13, 2026 11:00 AM - 1:00 PM ET  
+Tuesday, January 13, 2026 | 11:00 a.m. - 1:00 p.m. ET  
 [View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/99bd13aabaca4763999f217b9f5240cf/playback)
 
 **Speakers and Topics**
@@ -167,7 +167,7 @@ Tuesday, January 13, 2026 11:00 AM - 1:00 PM ET
 
 ### ODS Symposium: Cancer Data Sharing in Action - Resources, Impact, and Examples of Data Sharing and Reuse
 
-Wednesday, December 10, 2025 1:00 PM - 2:30 PM ET  
+Wednesday, December 10, 2025 | 1:00 p.m. – 2:30 p.m. ET  
 [View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/2183949091a24463a36b39c7a6029dae/playback)
 
 **Speakers and Topics**
@@ -188,7 +188,7 @@ Wednesday, December 10, 2025 1:00 PM - 2:30 PM ET
 
 ### 2024 Public Access Policy Overview
 
-Wednesday, June 18, 2025 2:00 PM - 3:30 PM ET  
+Wednesday, June 18, 2025 | 2:00 p.m. – 3:30 p.m. ET  
 _Recording Coming Soon!_
 
 **Speakers and Topics**
@@ -197,7 +197,7 @@ _Recording Coming Soon!_
 
 ### Summary of NCI Data Type Workshop
 
-Wednesday, April 9, 2025 12:00 PM - 1:00 PM ET  
+Wednesday, April 9, 2025 | 12:00 p.m. – 1:00 p.m. ET  
 _Recording Coming Soon!_
 
 **Speakers and Topics**
@@ -206,7 +206,7 @@ _Recording Coming Soon!_
 
 ### Navigating Data Access and Best Practices
 
-Wednesday, January 15, 2025 12:00 PM - 1:00 PM ET  
+Wednesday, January 15, 2025 | 12:00 p.m. – 1:00 p.m. ET  
 _Recording Coming Soon!_
 
 **Speakers and Topics**
@@ -219,4 +219,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** July 23, 2026
+**Updated:** July 30, 2026

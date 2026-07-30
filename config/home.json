@@ -34,18 +34,11 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Code_01.png",
-        "title": "ODS Webinar Series: Wed July 29 12:00 PM - 1:00 PM ET",
-        "description": "Dr. Julian Hong: Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery.",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
+        "title": "ODS Webinar Series: Wed Aug 12 | 1:00 p.m. – 2:00 p.m. ET",
+        "description": "Learn how to participate in two new prize challenge competitions from NCI's Office of Data Sharing",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/webinar/registration"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
-        "title": "NCI Data Jamboree: Nov 16-18, 2026",
-        "description": "Join us to advance cancer research with shared datasets.",
-        "readMoreColor": "[#76E7DD]",
-        "link": "https://events.cancer.gov/nci/datajamboree"
       },
       {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Symposium_Collaboration_01.png",
@@ -53,6 +46,13 @@
         "description": "Data to Discovery: Leveraging Cancer Data in the “Real World”.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Science_01.png",
+        "title": "NCI Data Jamboree: Nov 16-18, 2026",
+        "description": "Join us to advance cancer research with shared data sets.",
+        "readMoreColor": "[#76E7DD]",
+        "link": "https://events.cancer.gov/nci/datajamboree"
       }
     ]
   }
