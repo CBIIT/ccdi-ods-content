@@ -8,7 +8,7 @@ date: 2025-05-29
 
 ## ODS Mission
 
-The missions of ODS is to create a comprehensive vision and strategy to enhance broad and equitable data sharing for NCI and the cancer research community at large. Data sharing is critical to foster collaboration, facilitate innovation, accelerate scientific discovery, and enhance rigor and reproducibility. ODS engages with many stakeholders within and across the cancer research community to guide interpretation and implementation of complex processes, programmatic initiatives, and policies needed to ensure impactful data sharing.
+The mission of ODS is to create a comprehensive vision and strategy to enhance broad and equitable data sharing for NCI and the cancer research community at large. Data sharing is critical to foster collaboration, facilitate innovation, accelerate scientific discovery, and enhance rigor and reproducibility. ODS engages with many stakeholders within and across the cancer research community to guide interpretation and implementation of complex processes, programmatic initiatives, and policies needed to ensure impactful data sharing.
 
 ## ODS Responsibilities
 
