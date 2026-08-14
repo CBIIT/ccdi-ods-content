@@ -10,8 +10,6 @@ date: 2026-02-11
 
 <!-- START: Custom Callout: Centered -->
 
-<!-- Temporarily hiding the below section until new upcoming webinars are scheduled. Delete this line to re-enable (1 of 2)
-
 <style>
 .webinar-highlight {
   border: 3px solid #335d85;
@@ -28,13 +26,11 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
-**Wednesday, August 12, 2026 1:00 p.m. – 2: 00 p.m. ET**  
+**Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.**  
+**Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET**  
 [Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
 
 </div>
-
-Temporarily hiding the above section until new upcoming webinars are scheduled. Delete this line to re-enable (2 of 2) -->
 
 <!-- END: Custom Callout: Centered -->
 
@@ -43,6 +39,19 @@ Temporarily hiding the above section until new upcoming webinars are scheduled. 
 The Office of Data Sharing Webinar Series features expert speakers discussing current topics in data sharing, policy updates, and best practices. The goal is to promote broad data sharing and reuse that benefits the entire cancer community.
 
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
+
+## Upcoming Webinars
+
+### Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.
+
+Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET  
+[Register](https://events.cancer.gov/ods/webinar/registration)
+
+Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing a new prize competition: the [Childhood, Adolescent and Young Adults Cancer Data Innovation Challenge ($17,000,000 total prize)](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). Learn about the competition's goals, eligibility requirements, submission process, and key deadlines. The session will conclude with a live Q&A to address participant questions.
+
+**Speaker**
+
+- Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
 
 ## Past Webinars
 
