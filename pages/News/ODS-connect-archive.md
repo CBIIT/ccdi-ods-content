@@ -10,7 +10,7 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2026
 
-## July 2026
+### July 2026
 
 - [NCI ODS July Webinar: Generalizable Multi-Modal AI Approaches to Advance Cancer Care Delivery](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-09_NCI_ODS_July_Webinar_Generalizable_Multi-modal_AI_Approaches_to_Advance_Cancer_Care_Delivery.pdf)
 - [Submit an Abstract Today! NCI Data Sharing Symposium](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-13_Submit_an_Abstract_Today_NCI_Data_Sharing_Symposium.pdf)
