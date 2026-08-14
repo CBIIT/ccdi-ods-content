@@ -26,8 +26,8 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions from NCI's Office of Data Sharing**  
-**Wednesday, August 12, 2026 1:00 p.m. – 2: 00 p.m. ET**  
+**Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.**  
+**Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET**  
 [Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
 
 </div>
@@ -42,19 +42,29 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 
 ## Upcoming Webinars
 
-### Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions From NCI's Office of Data Sharing
+### Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.
 
-Wednesday, August 12, 2026 | 1:00 p.m. – 2:00 p.m. ET  
-[Register](https://events.cancer.gov/ods/webinar/upcoming)
+Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET  
+[Register](https://events.cancer.gov/ods/webinar/registration)
 
-Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing two new prize competitions: the NCI ODS Impact Prize ($200,000 total prize) and the Pediatric and Adolescent and Young Adults Cancer Data Initiative Innovation Challenge ($15,000,000 total prize). Learn about each competition's goals, eligibility requirements, submission process, key deadlines. The session will conclude with a live Q&A to address participant questions.
+Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing a new prize competition: the [Childhood, Adolescent and Young Adults Cancer Data Innovation Challenge ($17,000,000 total prize)](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). Learn about the competition's goals, eligibility requirements, submission process, and key deadlines. The session will conclude with a live Q&A to address participant questions.
 
-**Speakers**
+**Speaker**
 
-- Nathan Boyd, PhD, Health Scientist Administrator, NCI, Office of Data Sharing
 - Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
 
 ## Past Webinars
+
+### Turn Ideas Into Impact: Learn How to Participate in a New Prize Challenge Competition From NCI's Office of Data Sharing
+
+Wednesday, August 12, 2026 | 1:00 p.m. – 2:00 p.m. ET  
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/fcdaf7b366b84a96ac4d0844f2548f4f/playback)
+
+Watch the presentation from the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing a new prize competition: the [ODS Impact Prize Challenge ($200,000 total prize)](https://www.nih.gov/challenges/nci-office-data-sharing-impact-prize). Learn about the competition's goals, eligibility requirements, submission process, and key deadlines. The session concluded with a live Q&A to address participant questions.
+
+**Speaker**
+
+- Nathan Boyd, PhD, Health Scientist Administrator, NCI, Office of Data Sharing
 
 ### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
 
@@ -219,4 +229,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** July 30, 2026
+**Updated:** August 14, 2026
