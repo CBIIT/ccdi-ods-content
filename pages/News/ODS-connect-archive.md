@@ -10,6 +10,12 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2026
 
+## July 2026
+
+- [NCI ODS July Webinar: Generalizable Multi-Modal AI Approaches to Advance Cancer Care Delivery](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-09_NCI_ODS_July_Webinar_Generalizable_Multi-modal_AI_Approaches_to_Advance_Cancer_Care_Delivery.pdf)
+- [Submit an Abstract Today! NCI Data Sharing Symposium](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-13_Submit_an_Abstract_Today_NCI_Data_Sharing_Symposium.pdf)
+- [Data Sharing Champion: Unlocking the Power of Data to Advance Cancer Research](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-23_Data_Sharing_Champion_Unlocking_the_Power_of_Data_to_Advance_Cancer_Research.pdf)
+
 ### June 2026
 
 - [Resources for Researchers (R4R) Has Moved to the Index of NCI Studies (INS)](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-06-11_Resources_for_Researchers_R4R_Has_Moved_to_the_Index_of_NCI_Studies_INS.pdf)
@@ -204,4 +210,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** July 23, 2026
+**Updated:** August 14, 2026
