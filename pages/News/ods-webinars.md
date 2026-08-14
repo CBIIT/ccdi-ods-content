@@ -10,6 +10,8 @@ date: 2026-02-11
 
 <!-- START: Custom Callout: Centered -->
 
+<!-- Temporarily hiding the below section until new upcoming webinars are scheduled. Delete this line to re-enable (1 of 2)
+
 <style>
 .webinar-highlight {
   border: 3px solid #335d85;
@@ -32,6 +34,8 @@ date: 2026-02-11
 
 </div>
 
+Temporarily hiding the above section until new upcoming webinars are scheduled. Delete this line to re-enable (2 of 2) -->
+
 <!-- END: Custom Callout: Centered -->
 
 ## Overview
@@ -40,21 +44,19 @@ The Office of Data Sharing Webinar Series features expert speakers discussing cu
 
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
 
-## Upcoming Webinars
+## Past Webinars
 
 ### Turn Ideas Into Impact: Learn How to Participate in Two New Prize Challenge Competitions From NCI's Office of Data Sharing
 
 Wednesday, August 12, 2026 | 1:00 p.m. – 2:00 p.m. ET  
-[Register](https://events.cancer.gov/ods/webinar/upcoming)
+[View Recording](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/fcdaf7b366b84a96ac4d0844f2548f4f/playback)
 
-Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing two new prize competitions: the NCI ODS Impact Prize ($200,000 total prize) and the Pediatric and Adolescent and Young Adults Cancer Data Initiative Innovation Challenge ($15,000,000 total prize). Learn about each competition's goals, eligibility requirements, submission process, key deadlines. The session will conclude with a live Q&A to address participant questions.
+Watch the presentation from the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing two new prize competitions: the NCI ODS Impact Prize ($200,000 total prize) and the Pediatric and Adolescent and Young Adults Cancer Data Initiative Innovation Challenge ($15,000,000 total prize). Learn about each competition's goals, eligibility requirements, submission process, and key deadlines. The session concluded with a live Q&A to address participant questions.
 
 **Speakers**
 
 - Nathan Boyd, PhD, Health Scientist Administrator, NCI, Office of Data Sharing
 - Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
-
-## Past Webinars
 
 ### Generalizable Multi-modal AI Approaches to Advance Cancer Care Delivery
 
@@ -219,4 +221,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** July 30, 2026
+**Updated:** August 14, 2026
