@@ -31,9 +31,10 @@ Researchers submitting genomic data should refer to the data practices, file for
 - [Sharing Data: The Basics](https://datascience.cancer.gov/training/learn-data-science/share-data-basics)
 - [Intramural and Extramural NCI Investigators](https://grants.nih.gov/policy-and-compliance/policy-topics/sharing-policies/gds/register-submit-study-dbgap)
 - [Non-NCI Funded Studies](/post/Process/non-NIH-funded-study-submission)
+- [Genomic Summary Results](https://epi.grants.cancer.gov/genomic-summary-results/resources.html)
 
 &nbsp;  
 
 ---
 
-**Updated:** June 17, 2026
+**Updated:** September 24, 2026
