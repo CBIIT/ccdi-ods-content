@@ -26,7 +26,8 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge: Office Hours.**  
+**Childhood, Adolescent and Young Adult Cancer**  
+**Data Innovation Challenge: Office Hours**  
 **Tuesday, October 13, 2026 | 12:00 p.m. – 1:00 p.m. ET**  
 [Register](https://cbiit.webex.com/weblink/register/r80eb1c067c2e4e91fcb6ee1254cf9939) | [Details Below](#upcoming-webinars)
 
