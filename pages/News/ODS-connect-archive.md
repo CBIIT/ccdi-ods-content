@@ -10,6 +10,16 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ## 2026
 
+### September 2026
+
+- [Peek Behind the Curtain: How ODS Makes Cancer Data More Useful for Research](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-09-03_Peek_Behind_the_Curtain_How_ODS_Makes_Cancer_Data_More_Useful_for_Research.pdf)
+- [Sustainable Community-Wide Model to Enhance Cancer Data Usage and Utility](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-09-17_Sustainable_Community-Wide_Model_to_Enhance_Cancer_Data_Usage_and_Utility.pdf)
+
+### August 2026
+
+- [Turn Ideas into Impact: NCI ODS Challenge Webinar on August 12](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-08-06_Turn_Ideas_into_Impact_NCI_ODS_Challenge_Webinar_on_August_12.pdf)
+- [September 11: Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge Webinar](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-08-20_September_11_Childhood_Adolescent_and_Young_Adult_Cancer_Data_Innovation_Challenge_Webinar.pdf)
+
 ### July 2026
 
 - [NCI ODS July Webinar: Generalizable Multi-Modal AI Approaches to Advance Cancer Care Delivery](https://cbiit.github.io/ccdi-ods-content/pages/documents/ods-newsletters/2026/2026-07-09_NCI_ODS_July_Webinar_Generalizable_Multi-modal_AI_Approaches_to_Advance_Cancer_Care_Delivery.pdf)
@@ -210,4 +220,4 @@ Past issues of the monthly Office of Data Sharing (ODS) newsletter, ODS Connect,
 
 ---
 
-**Updated:** August 14, 2026
+**Updated:** September 25, 2026

@@ -26,9 +26,10 @@ date: 2026-02-11
 
 #### Upcoming Webinar
 
-**Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.**  
-**Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET**  
-[Register](https://events.cancer.gov/ods/webinar/registration) | [Details Below](#upcoming-webinars)
+**Childhood, Adolescent and Young Adult Cancer**  
+**Data Innovation Challenge: Office Hours**  
+**Tuesday, October 13, 2026 | 12:00 p.m. – 1:00 p.m. ET**  
+[Register](https://cbiit.webex.com/weblink/register/r80eb1c067c2e4e91fcb6ee1254cf9939) | [Details Below](#upcoming-webinars)
 
 </div>
 
@@ -42,18 +43,25 @@ Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series 
 
 ## Upcoming Webinars
 
+### Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge: Office Hours.
+
+Tuesday, October 13, 2026 | 12:00 p.m. – 1:00 p.m. ET  
+[Register](https://cbiit.webex.com/weblink/register/r80eb1c067c2e4e91fcb6ee1254cf9939)
+
+Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for office hours for the [Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). Come ask your questions and get answers in preparation for the November 13th submission deadline.
+
+## Past Webinars
+
 ### Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.
 
 Friday, September 11, 2026 | 1:30 p.m. – 2:30 p.m. ET  
-[Register](https://events.cancer.gov/ods/webinar/registration)
+_Recording Coming Soon!_
 
-Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for a pre-submission webinar introducing a new prize competition: the [Childhood, Adolescent and Young Adults Cancer Data Innovation Challenge ($17,000,000 total prize)](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). Learn about the competition's goals, eligibility requirements, submission process, and key deadlines. The session will conclude with a live Q&A to address participant questions.
+The National Cancer Institute (NCI) Office of Data Sharing (ODS) hosted a pre-submission webinar introducing a new prize competition: the [Childhood, Adolescent and Young Adults Cancer Data Innovation Challenge ($17,000,000 total prize)](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). The webinar discussed the competition's goals, eligibility requirements, submission process, and key deadlines. The session concluded with a live Q&A to address participant questions.
 
 **Speaker**
 
 - Emily Boja, PhD, Branch Chief, NCI, Office of Data Sharing
-
-## Past Webinars
 
 ### Turn Ideas Into Impact: Learn How to Participate in a New Prize Challenge Competition From NCI's Office of Data Sharing
 
@@ -229,4 +237,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** August 14, 2026
+**Updated:** September 25, 2026
