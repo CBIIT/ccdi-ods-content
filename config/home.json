@@ -34,25 +34,25 @@
     "newsletterButtonLink": "https://public.govdelivery.com/accounts/USNIHNCI/subscriber/new?topic_id=USNIHNCI_332%22",
     "updates": [
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/ODS_Impact_Prize_01.png",
-        "title": "DEADLINE EXTENDED! NCI Impact Prize Challenge",
-        "description": "Turning cancer research outputs into meaningful impact. Accepting submissions through Oct 19, 2026.",
-        "readMoreColor": "[#76E7DD]",
-        "link": "https://www.nih.gov/challenges/nci-office-data-sharing-impact-prize"
-      },
-      {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Data_Book_01.png",
-        "title": "NIH Seeks Comment by Oct 26 on Sharing Study Results With Participants",
-        "description": "NOT-OD-26-113 would require sharing summary study results with clinical research participants.",
-        "readMoreColor": "[#76E7DD]",
-        "link": "https://grants.nih.gov/grants/guide/notice-files/NOT-OD-26-113.html"
-      },
-      {
         "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Symposium_Collaboration_01.png",
         "title": "Fourth Annual ODS Data Sharing Symposium: Nov 5-6, 2026",
         "description": "Data to Discovery: Leveraging Cancer Data in the “Real World”.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/ChildhoodAYACancer_Challenge_01.png",
+        "title": "Childhood, Adolescent & Young Adult Cancer Data Innovation Challenge",
+        "description": "Harnessing Data & Tech, Accelerating Discovery, Improving Outcomes. Submissions due Nov 13.",
+        "readMoreColor": "[#76E7DD]",
+        "link": "https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Directive_to_Discovery_01.png",
+        "title": "From Directive to Discovery Workshop: Dec 2-3",
+        "description": "Help define how patients can document intent to share biospecimens and health data for research.",
+        "readMoreColor": "[#76E7DD]",
+        "link": "https://events.cancer.gov/ods/workshop"
       }
     ]
   }
