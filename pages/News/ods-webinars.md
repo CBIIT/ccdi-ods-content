@@ -9,7 +9,7 @@ date: 2026-02-11
 ![Office of Data Sharing Webinar Series banner image](https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/custom/ods_webinar_series_1200x150.png)
 
 <!-- START: Custom Callout: Centered -->
-
+<!-- Temporarily disabling until new Webinar announced 
 <style>
 .webinar-highlight {
   border: 3px solid #335d85;
@@ -31,7 +31,7 @@ date: 2026-02-11
 **Tuesday, October 13, 2026 | 12:00 p.m. – 1:00 p.m. ET**  
 [Register](https://cbiit.webex.com/weblink/register/r80eb1c067c2e4e91fcb6ee1254cf9939) | [Details Below](#upcoming-webinars)
 
-</div>
+</div> -->
 
 <!-- END: Custom Callout: Centered -->
 
@@ -41,16 +41,14 @@ The Office of Data Sharing Webinar Series features expert speakers discussing cu
 
 Beginning in January 2026, ODS kicked off a Data Jamboree public webinar series where teams dive deep into their project findings, lessons learned and future directions.
 
-## Upcoming Webinars
+## Past Webinars
 
 ### Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge: Office Hours.
 
 Tuesday, October 13, 2026 | 12:00 p.m. – 1:00 p.m. ET  
-[Register](https://cbiit.webex.com/weblink/register/r80eb1c067c2e4e91fcb6ee1254cf9939)
+_Recording Coming Soon!_
 
-Join the National Cancer Institute (NCI) Office of Data Sharing (ODS) for office hours for the [Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). Come ask your questions and get answers in preparation for the November 13th submission deadline.
-
-## Past Webinars
+The National Cancer Institute (NCI) Office of Data Sharing (ODS) hosted office hours for the [Childhood, Adolescent and Young Adult Cancer Data Innovation Challenge](https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge). The session allowed the community an opportunity to ask questions and get answers in preparation for the November 13th submission deadline.
 
 ### Harnessing Data and Technology. Accelerating Discovery. Improving Outcomes.
 
@@ -237,4 +235,4 @@ _Recording Coming Soon!_
 
 ---
 
-**Updated:** September 25, 2026
+**Updated:** November 5, 2026
