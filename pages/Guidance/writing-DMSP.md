@@ -6,8 +6,15 @@ date: 2025-05-30
 
 # How to Write a Data Management and Sharing (DMS) Plan
 
-> **&#9888; Note:**  
-> The information on this page has been archived and may be out of date. Please see the new [How to Write a Data Management and Sharing Plan](/post/Learn/writing-data-management-and-sharing-plan) page for the most up-to-date information.
+<style>
+.test-gallery { border: 2px solid red; padding: 20px; }
+</style>
+<div class="test-gallery">
+
+  **&#9888; Note:**  
+  The information on this page has been archived and may be out of date. Please see the new [How to Write a Data Management and Sharing Plan](/post/Learn/writing-data-management-and-sharing-plan) page for the most up-to-date information.
+
+</div>
 
 If you're a researcher seeking NIH funding, you're likely aware that you need to prepare and submit a detailed Data Management and Sharing (DMS) Plan along with your funding application. In this article, we'll highlight key components of this DMS Plan.
 

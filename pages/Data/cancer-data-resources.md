@@ -6,6 +6,16 @@ date: 2025-06-20
 
 # Tools and Resources
 
+<style>
+.test-gallery { border: 2px solid red; padding: 20px; }
+</style>
+<div class="test-gallery">
+
+  **&#9888; Note:**  
+  The information on this page has been archived and may be out of date. Please see the [Index of NCI Studies: Tools & Resources](https://studycatalog.cancer.gov/#/resources) for the most up-to-date information.
+
+</div>
+
 The NCI Office of Data Sharing is committed to promoting access to datasets, analysis tools, and research platforms to advance cancer research. This curated collection is based on programs available in the [Index of NCI Studies (INS)](https://studycatalog.cancer.gov) and represents key data resources supporting the cancer research community.
 
 **Have a resource to suggest?** Contact the [NCI Office of Data Sharing](mailto:NCIOfficeofDataSharing@mail.nih.gov?subject=NCI%20Data%20Sharing%20Hub%20-%20Data%20Resource%20Suggestion) to recommend additional data resources to include here.

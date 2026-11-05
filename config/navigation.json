@@ -26,11 +26,6 @@
       "className": "navMobileItem clickable"
     },
     {
-      "name": "Data Tools & Resources",
-      "link": "/post/Data/cancer-data-resources",
-      "className": "navMobileItem"
-    },
-    {
       "name": "News & Events",
       "link": "/collection/News",
       "className": "navMobileItem clickable"
