@@ -41,14 +41,14 @@
         "link": "https://events.cancer.gov/ods/annualdatasharingsymposium"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/ChildhoodAYACancer_Challenge_01.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/ChildhoodAYACancer_Challenge_01.png",
         "title": "Childhood, Adolescent & Young Adult Cancer Data Innovation Challenge",
         "description": "Harnessing Data & Tech, Accelerating Discovery, Improving Outcomes. Submissions due Nov 13.",
         "readMoreColor": "[#76E7DD]",
         "link": "https://www.nih.gov/challenges/childhood-adolescent-young-adult-cancer-data-innovation-challenge"
       },
       {
-        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/dev/pages/images/latest-updates/Directive_to_Discovery_01.png",
+        "image": "https://raw.githubusercontent.com/CBIIT/ccdi-ods-content/main/pages/images/latest-updates/Directive_to_Discovery_01.png",
         "title": "From Directive to Discovery Workshop: Dec 2-3",
         "description": "Help define how patients can document intent to share biospecimens and health data for research.",
         "readMoreColor": "[#76E7DD]",
