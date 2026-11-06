@@ -43,8 +43,8 @@ The initial implementation of the 2023 DMS policy required applicants to plan fo
 
 Mock DMS plans serve as examples to illustrate how to use the new template. These examples are not intended to be replicated verbatim nor guarantee approval of your DMS plans that use similar technologies and generate similar data types.
 
-- [2026 DMS Plan Example 1](https://cbiit.github.io/ccdi-ods-content/pages/documents/dms-plan-examples/2026_DMS_Plan_Example_1.docx)
-- [2026 DMS Plan Example 2](https://cbiit.github.io/ccdi-ods-content/pages/documents/dms-plan-examples/2026_DMS_Plan_Example_2.docx)
+- [2026 DMS Plan Example 1](https://cbiit.github.io/ccdi-ods-content/pages/documents/dms-plan-examples/2026_DMS_Plan_Example_1.pdf)
+- [2026 DMS Plan Example 2](https://cbiit.github.io/ccdi-ods-content/pages/documents/dms-plan-examples/2026_DMS_Plan_Example_2.pdf)
 
 ## What Does NCI ODS Recommend?
 
