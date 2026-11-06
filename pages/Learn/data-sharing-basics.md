@@ -6,13 +6,6 @@ date: 2026-11-05
 
 # Sharing Data: The Basics
 
-**On This Page**
-
-- [What is Data Sharing?](#what-is-data-sharing)
-- [Why is Data Sharing Important for Cancer Research?](#why-is-data-sharing-important-for-cancer-research)
-- [What Do I Need to Know?](#what-do-i-need-to-know)
-- [NCI Data Sharing Resources and Initiatives](#nci-data-sharing-resources-and-initiatives)
-
 ## What is Data Sharing?
 
 NIH expects that you make scientific data as widely and freely available as possible to facilitate re-use while safeguarding the privacy of patients and protecting confidential and proprietary data. Data sharing holds immense value in the scientific research field, enhancing your career as a successful scientist by providing recognition and credit for researchers' work.
@@ -95,6 +88,7 @@ Now that you have a sense of the basics, use the following resources to discover
 ### Resources and Tools
 
 - [National Cancer Plan](https://nationalcancerplan.cancer.gov/): Discover how maximizing data utility is one of the eight goals of NCI's comprehensive framework. Data sharing is central to NCI's mission to lead, conduct, and support cancer research nationwide to advance scientific knowledge and [improve lives](https://www.cancer.gov/research/areas/childhood/childhood-cancer-data-initiative/stories).
+- [The Index of NCI Studies (INS)](https://studycatalog.cancer.gov/): Explore NCI-supported programs and the research outputs they generate, including datasets, publications, and cancer research tools.
 - [NCI Data Sharing Hub](/): Check out other pages on this website for sharing-oriented information on policies, genomic data preparation, and more.
 - [NCI Bioinformatics Training and Education Program Seminar](https://cbiit.webex.com/recordingservice/sites/cbiit/recording/04b67e9af73a103bb4db00505681c451/playback): Watch a recording and learn how to keep your data FAIR.
 
