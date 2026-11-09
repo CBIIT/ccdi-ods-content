@@ -118,3 +118,9 @@ NCI's [ITCR Program](https://itcr.cancer.gov/) has training courses available vi
 - Attend an [NIH Data Sharing and Reuse Seminar Series](https://datascience.nih.gov/nih-data-sharing-and-reuse-seminar-series), and see how other researchers are finding ways to reuse their data or generate new findings from other data sets.
 - Explore the [NIH Common Data Elements (CDEs) Repository](https://cde.nlm.nih.gov/home) where you can browse NIH-endorsed CDEs and Forms for standardizing your data. Live and on-demand trainings on CDEs and how to search this repository are also available.
 - [Read this blog on health data standards](https://nlmdirector.nlm.nih.gov/2021/01/27/health-data-standards-a-common-language-to-support-research-and-health-care/) from NIH's National Library of Medicine.
+
+&nbsp;  
+
+---
+
+**Updated:** November 9, 2026
